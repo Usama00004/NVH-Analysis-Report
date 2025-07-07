@@ -1,0 +1,101 @@
+VehicleID,Model,ManufacturingDate,EngineType,Transmission,Country
+V001,SUV-Z,2022-09-02,Hybrid,Manual,France
+V002,Van-M,2024-05-06,Electric,Manual,Germany
+V003,SUV-Z,2022-04-04,Petrol,Automatic,Germany
+V004,SUV-Z,2022-02-24,Petrol,Automatic,Japan
+V005,Hatch-A,2023-02-17,Petrol,Automatic,Germany
+V006,Sedan-X,2020-04-24,Electric,Manual,France
+V007,Coupe-Y,2019-05-31,Electric,Automatic,France
+V008,Hatch-A,2022-09-04,Petrol,Automatic,Japan
+V009,Hatch-A,2024-04-07,Electric,Manual,France
+V010,Coupe-Y,2022-04-10,Petrol,Automatic,France
+V011,Van-M,2019-10-07,Hybrid,Manual,Japan
+V012,Hatch-A,2022-01-01,Diesel,Manual,Japan
+V013,Van-M,2022-03-04,Petrol,Manual,Germany
+V014,Hatch-A,2019-09-19,Electric,Manual,South Korea
+V015,Sedan-X,2021-07-27,Hybrid,Manual,South Korea
+V016,Hatch-A,2023-02-25,Hybrid,Automatic,France
+V017,SUV-Z,2023-05-16,Diesel,Manual,France
+V018,Truck-T,2022-09-29,Petrol,Automatic,Japan
+V019,Coupe-Y,2023-01-20,Electric,Automatic,Japan
+V020,SUV-Z,2023-08-20,Hybrid,Automatic,Germany
+V021,Van-M,2022-06-11,Diesel,Automatic,Germany
+V022,Van-M,2023-10-19,Diesel,Automatic,France
+V023,Truck-T,2019-12-10,Electric,Automatic,Germany
+V024,Sedan-X,2023-06-07,Hybrid,Automatic,Germany
+V025,Van-M,2019-04-08,Electric,Automatic,France
+V026,SUV-Z,2022-05-24,Electric,Manual,South Korea
+V027,Hatch-A,2021-10-19,Electric,Manual,USA
+V028,Hatch-A,2020-03-27,Petrol,Automatic,South Korea
+V029,Truck-T,2021-06-28,Petrol,Automatic,France
+V030,Coupe-Y,2023-05-18,Electric,Automatic,France
+V031,Sedan-X,2021-08-07,Electric,Automatic,France
+V032,Coupe-Y,2023-03-04,Hybrid,Automatic,Japan
+V033,Sedan-X,2019-03-23,Electric,Automatic,South Korea
+V034,Sedan-X,2022-01-22,Petrol,Automatic,Japan
+V035,SUV-Z,2023-09-08,Diesel,Manual,Japan
+V036,Hatch-A,2020-12-16,Diesel,Manual,USA
+V037,Truck-T,2019-09-03,Diesel,Manual,Germany
+V038,Truck-T,2024-01-25,Petrol,Automatic,France
+V039,Truck-T,2019-11-06,Petrol,Automatic,South Korea
+V040,Van-M,2020-09-28,Diesel,Automatic,South Korea
+V041,Hatch-A,2019-03-06,Petrol,Automatic,Japan
+V042,Van-M,2020-07-11,Petrol,Automatic,USA
+V043,SUV-Z,2022-03-16,Diesel,Manual,USA
+V044,SUV-Z,2019-08-08,Electric,Manual,Germany
+V045,Sedan-X,2024-01-01,Petrol,Manual,Japan
+V046,Van-M,2024-04-18,Diesel,Automatic,USA
+V047,Coupe-Y,2021-10-02,Hybrid,Automatic,Germany
+V048,Truck-T,2023-02-09,Petrol,Automatic,Japan
+V049,Truck-T,2019-09-19,Hybrid,Manual,USA
+V050,Van-M,2022-03-16,Diesel,Automatic,South Korea
+V051,Van-M,2024-03-19,Petrol,Automatic,Japan
+V052,Hatch-A,2021-10-03,Hybrid,Manual,USA
+V053,SUV-Z,2021-02-15,Hybrid,Manual,Japan
+V054,SUV-Z,2019-01-14,Electric,Manual,Japan
+V055,Hatch-A,2021-01-20,Diesel,Automatic,USA
+V056,Hatch-A,2019-10-11,Petrol,Manual,USA
+V057,Coupe-Y,2019-06-16,Electric,Automatic,South Korea
+V058,Coupe-Y,2024-04-08,Electric,Manual,France
+V059,Truck-T,2020-03-02,Petrol,Manual,Japan
+V060,Truck-T,2024-02-27,Petrol,Automatic,South Korea
+V061,Coupe-Y,2019-07-17,Petrol,Automatic,USA
+V062,SUV-Z,2021-03-11,Electric,Automatic,Germany
+V063,Hatch-A,2022-02-08,Hybrid,Automatic,Japan
+V064,Van-M,2023-05-31,Diesel,Automatic,USA
+V065,SUV-Z,2019-07-28,Electric,Automatic,Germany
+V066,Hatch-A,2021-04-28,Electric,Automatic,France
+V067,Truck-T,2021-05-11,Petrol,Manual,Germany
+V068,Hatch-A,2019-05-25,Diesel,Manual,South Korea
+V069,Van-M,2019-07-09,Electric,Manual,Germany
+V070,Van-M,2022-04-09,Electric,Automatic,USA
+V071,Truck-T,2022-11-06,Hybrid,Automatic,Germany
+V072,SUV-Z,2020-05-21,Petrol,Manual,Japan
+V073,Van-M,2023-05-11,Petrol,Manual,Germany
+V074,Van-M,2022-09-26,Diesel,Automatic,France
+V075,SUV-Z,2022-03-19,Hybrid,Automatic,South Korea
+V076,Van-M,2019-01-12,Petrol,Automatic,South Korea
+V077,Van-M,2020-04-26,Electric,Manual,Germany
+V078,SUV-Z,2020-04-14,Diesel,Manual,Japan
+V079,Truck-T,2019-08-24,Petrol,Automatic,France
+V080,SUV-Z,2022-10-03,Diesel,Automatic,Germany
+V081,Coupe-Y,2019-01-12,Petrol,Automatic,Germany
+V082,Hatch-A,2019-07-17,Electric,Automatic,France
+V083,Truck-T,2024-05-11,Petrol,Automatic,USA
+V084,Coupe-Y,2024-01-23,Hybrid,Manual,USA
+V085,SUV-Z,2019-10-07,Petrol,Automatic,Japan
+V086,Hatch-A,2021-11-02,Hybrid,Manual,Germany
+V087,Truck-T,2020-04-07,Electric,Automatic,Germany
+V088,Sedan-X,2023-09-06,Petrol,Manual,USA
+V089,Sedan-X,2020-12-06,Petrol,Manual,South Korea
+V090,Sedan-X,2023-08-29,Petrol,Manual,South Korea
+V091,Hatch-A,2021-12-27,Diesel,Manual,France
+V092,SUV-Z,2020-03-27,Hybrid,Manual,South Korea
+V093,Hatch-A,2024-06-07,Hybrid,Automatic,Germany
+V094,Hatch-A,2024-04-02,Diesel,Manual,USA
+V095,Coupe-Y,2020-04-15,Hybrid,Automatic,France
+V096,SUV-Z,2022-12-24,Petrol,Manual,South Korea
+V097,Hatch-A,2023-05-15,Petrol,Automatic,USA
+V098,Coupe-Y,2023-09-12,Electric,Automatic,South Korea
+V099,Van-M,2024-06-04,Electric,Manual,South Korea
+V100,Truck-T,2019-03-30,Diesel,Automatic,France

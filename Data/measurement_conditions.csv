@@ -1,0 +1,21 @@
+ConditionID,RoadSurface,Speed_kmph,Weather,Load
+C001,Gravel,87,Dry,Light Load
+C002,Gravel,60,Dry,Light Load
+C003,Dirt,114,Rainy,Medium
+C004,Cobblestone,58,Snowy,Medium
+C005,Concrete,59,Dry,Light Load
+C006,Cobblestone,58,Rainy,Light Load
+C007,Gravel,101,Cloudy,Medium
+C008,Dirt,59,Rainy,Full Load
+C009,Dirt,106,Sunny,Medium
+C010,Concrete,48,Sunny,Full Load
+C011,Cobblestone,110,Snowy,Light Load
+C012,Concrete,83,Snowy,Light Load
+C013,Concrete,75,Rainy,Full Load
+C014,Cobblestone,30,Cloudy,Light Load
+C015,Concrete,97,Sunny,Full Load
+C016,Gravel,58,Rainy,Medium
+C017,Dirt,105,Dry,Light Load
+C018,Gravel,107,Cloudy,Medium
+C019,Dirt,83,Sunny,Light Load
+C020,Concrete,106,Cloudy,Medium
