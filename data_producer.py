@@ -7,146 +7,126 @@ import os
 # Ensure Data folder exists
 os.makedirs("Data", exist_ok=True)
 
-# --------------------------
-# Setup Constants
-# --------------------------
 NUM_RECORDS = 1000
-VEHICLE_MODELS = ["Sedan-X", "SUV-Z", "Hatch-A", "Coupe-Y", "Van-M", "Truck-T"]
-ENGINE_TYPES = ["Petrol", "Diesel", "Hybrid", "Electric"]
-TRANSMISSIONS = ["Automatic", "Manual"]
-COUNTRIES = ["Germany", "USA", "Japan", "South Korea", "France"]
 
-ROAD_SURFACES = ["Asphalt", "Gravel", "Concrete", "Cobblestone", "Dirt"]
-WEATHER = ["Sunny", "Rainy", "Cloudy", "Dry", "Snowy"]
-LOADS = ["Light Load", "Medium", "Full Load"]
-COMPONENTS = ["Engine", "Cabin", "Exhaust", "Tires", "Transmission"]
-MEASUREMENT_POINTS = ["Front Left Axle", "Rear Right Axle", "Steering Column", "Chassis Center", "Floor Panel"]
+# Constants
+VEHICLE_MODELS = [" Sedan-X", "SUV-Z ", "Hatch-a", "COUPE-Y", " van-m", "Truck-T "]
+ENGINE_TYPES = ["Petrol", "Diesel", "hybrid", "Electric ", None]
+TRANSMISSIONS = ["automatic", "Manual", " MANUAL", "Automatic "]
+COUNTRIES = [" Germany ", "usa", "JAPAN", "South Korea", "france "]
+
+ROAD_SURFACES = ["Asphalt", " gravel", "Concrete ", "CobbleStone", "dirt "]
+WEATHER = ["Sunny", "Rainy", " cloudy", "Dry", "Snowy"]
+LOADS = ["Light Load", "medium", "Full Load", " "]
+COMPONENTS = ["engine", "Cabin", "exhaust", "tires", "Transmission"]
+MEASUREMENT_POINTS = ["Front Left Axle", "Rear Right Axle", "steering column", "Chassis center", "floor Panel"]
 COMMENTS = [
-    "Smooth ride with slight vibrations.",
-    "Noticeable noise from tires.",
-    "Handles well on rough terrain.",
-    "Cabin noise higher than expected.",
-    "Vibrations felt on steering wheel.",
-    "Comfortable and quiet.",
-    "Needs suspension tuning.",
-    "Great handling in wet conditions."
+    " Smooth ride with slight vibrations.",
+    "Noticeable noise from tires ",
+    "handles well on rough terrain ",
+    "Cabin noise higher than expected",
+    "VIBRATIONS felt on steering wheel",
+    "Comfortable and quiet ",
+    "needs Suspension TUNING",
+    " Great handling in wet conditions"
 ]
 
 base_time = datetime(2025, 7, 1, 8, 0)
 
-# --------------------------
-# 1. Vehicles Table
-# --------------------------
+# Vehicles Table
 vehicle_list = []
 for i in range(1, 101):
     record = {
         "VehicleID": f"V{i:03}",
         "Model": random.choice(VEHICLE_MODELS),
-        "ManufacturingDate": datetime.strptime("2019-01-01", "%Y-%m-%d") + timedelta(days=random.randint(0, 2000)),
+        "ManufacturingDate": random.choice([
+            (datetime.strptime("2019-01-01", "%Y-%m-%d") + timedelta(days=random.randint(0, 2000))).strftime("%Y-%m-%d"),
+            (datetime.strptime("2019-01-01", "%Y-%m-%d") + timedelta(days=random.randint(0, 2000))).strftime("%d/%m/%Y")
+        ]),
         "EngineType": random.choice(ENGINE_TYPES),
         "Transmission": random.choice(TRANSMISSIONS),
-        "Country": random.choice(COUNTRIES)
+        "Country": random.choice(COUNTRIES),
+        "Location": random.choice(["Berlin, Germany", "Tokyo, Japan", "Texas, USA", "Paris, France", "Seoul, South Korea"])  # needs splitting
     }
 
-    # Inject anomaly: missing EngineType in 3% of cases
-    if random.random() < 0.03:
-        record["EngineType"] = None
+    # Inject missing values
+    if random.random() < 0.02:
+        record["Transmission"] = ""
 
     vehicle_list.append(record)
 
 vehicles_df = pd.DataFrame(vehicle_list)
+vehicles_df = pd.concat([vehicles_df, vehicles_df.sample(5)])  # Add some duplicates
 
-# --------------------------
-# 2. Measurement Conditions Table
-# --------------------------
+# Measurement Conditions Table
 condition_list = []
 for i in range(1, 21):
     condition_list.append({
         "ConditionID": f"C{i:03}",
         "RoadSurface": random.choice(ROAD_SURFACES),
-        "Speed_kmph": random.randint(30, 120),
+        "Speed_kmph": str(random.randint(30, 120)) if random.random() < 0.2 else random.randint(30, 120),
         "Weather": random.choice(WEATHER),
         "Load": random.choice(LOADS)
     })
 conditions_df = pd.DataFrame(condition_list)
 
-# --------------------------
-# 3. Noise Data Table
-# --------------------------
+# Noise Data Table
 noise_records = []
 for i in range(NUM_RECORDS):
     noise_level = round(random.normalvariate(72, 5), 1)
-
-    # Inject anomaly: extreme outliers in 2% cases
     if random.random() < 0.02:
-        noise_level = random.choice([135.0, 145.0])  # Unrealistic
+        noise_level = random.choice([135.0, 145.0])  # Outlier
 
-    record = {
+    noise_records.append({
         "NoiseID": f"N{i+1:04}",
         "VehicleID": random.choice(vehicles_df["VehicleID"]),
         "ConditionID": random.choice(conditions_df["ConditionID"]),
         "Timestamp": base_time + timedelta(minutes=i),
         "Component": random.choice(COMPONENTS),
-        "SoundLevel_dB": noise_level
-    }
-    noise_records.append(record)
-
+        "SoundLevel_dB": str(noise_level) if random.random() < 0.1 else noise_level
+    })
 noise_df = pd.DataFrame(noise_records)
 
-# --------------------------
-# 4. Vibration Data Table
-# --------------------------
+# Vibration Data Table
 vibration_records = []
 for i in range(NUM_RECORDS):
     vibration = round(random.uniform(0.15, 0.9), 2)
-
-    # Inject anomaly: invalid negative vibration in 2%
     if random.random() < 0.02:
-        vibration = round(random.uniform(-1.0, -0.1), 2)
+        vibration = round(random.uniform(-1.0, -0.1), 2)  # Invalid
 
-    record = {
+    vibration_records.append({
         "VibrationID": f"V{i+1:04}",
         "VehicleID": random.choice(vehicles_df["VehicleID"]),
         "ConditionID": random.choice(conditions_df["ConditionID"]),
         "Timestamp": base_time + timedelta(minutes=i),
         "MeasurementPoint": random.choice(MEASUREMENT_POINTS),
-        "Vibration_m_s2": vibration
-    }
-    vibration_records.append(record)
-
+        "Vibration_m_s2": str(vibration) if random.random() < 0.05 else vibration
+    })
 vibration_df = pd.DataFrame(vibration_records)
 
-# --------------------------
-# 5. Harshness Feedback Table
-# --------------------------
+# Harshness Feedback Table
 feedback_records = []
 for i in range(NUM_RECORDS):
     ride_score = round(random.uniform(5.0, 10.0), 1)
     handling_score = round(random.uniform(5.0, 10.0), 1)
-
-    # Inject anomaly: invalid comfort scores
     if random.random() < 0.02:
-        ride_score = random.choice([11.0, 4.0])  # Out of 1-10 scale
+        ride_score = random.choice([11.0, 4.0])  # Invalid
 
-    record = {
+    feedback_records.append({
         "FeedbackID": f"H{i+1:04}",
         "VehicleID": random.choice(vehicles_df["VehicleID"]),
         "Timestamp": base_time + timedelta(minutes=i),
-        "RideComfortScore": ride_score,
+        "RideComfortScore": str(ride_score) if random.random() < 0.1 else ride_score,
         "HandlingScore": handling_score,
         "Comment": random.choice(COMMENTS)
-    }
-    feedback_records.append(record)
-
+    })
 feedback_df = pd.DataFrame(feedback_records)
 
-# --------------------------
 # Save to CSV
-# --------------------------
 vehicles_df.to_csv("Data/vehicles.csv", index=False)
 conditions_df.to_csv("Data/measurement_conditions.csv", index=False)
 noise_df.to_csv("Data/noise_data.csv", index=False)
 vibration_df.to_csv("Data/vibration_data.csv", index=False)
 feedback_df.to_csv("Data/harshness_feedback.csv", index=False)
 
-print("✅ All 5 synthetic NVH datasets generated with anomalies and saved to 'Data/' folder.")
+print("✅ Data created with realistic anomalies for cleaning: whitespace, formatting, duplicates, type mismatch, etc.")
