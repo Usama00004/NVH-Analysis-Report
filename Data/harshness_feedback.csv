@@ -1,1001 +1,1001 @@
 FeedbackID,VehicleID,Timestamp,RideComfortScore,HandlingScore,Comment
-H0001,V086,2025-07-01 08:00:00,7.7,7.4,Needs suspension tuning.
-H0002,V093,2025-07-01 08:01:00,5.0,7.1,Vibrations felt on steering wheel.
-H0003,V067,2025-07-01 08:02:00,8.6,6.6,Smooth ride with slight vibrations.
-H0004,V060,2025-07-01 08:03:00,6.3,5.4,Needs suspension tuning.
-H0005,V028,2025-07-01 08:04:00,8.7,5.3,Noticeable noise from tires.
-H0006,V071,2025-07-01 08:05:00,9.0,7.7,Great handling in wet conditions.
-H0007,V021,2025-07-01 08:06:00,9.0,6.4,Great handling in wet conditions.
-H0008,V088,2025-07-01 08:07:00,6.5,8.9,Smooth ride with slight vibrations.
-H0009,V029,2025-07-01 08:08:00,9.9,7.4,Noticeable noise from tires.
-H0010,V081,2025-07-01 08:09:00,5.3,9.9,Noticeable noise from tires.
-H0011,V060,2025-07-01 08:10:00,6.4,6.0,Vibrations felt on steering wheel.
-H0012,V063,2025-07-01 08:11:00,8.4,9.2,Comfortable and quiet.
-H0013,V093,2025-07-01 08:12:00,6.3,5.7,Cabin noise higher than expected.
-H0014,V016,2025-07-01 08:13:00,9.9,8.8,Needs suspension tuning.
-H0015,V058,2025-07-01 08:14:00,5.6,5.5,Smooth ride with slight vibrations.
-H0016,V087,2025-07-01 08:15:00,8.3,9.3,Vibrations felt on steering wheel.
-H0017,V013,2025-07-01 08:16:00,6.9,6.0,Noticeable noise from tires.
-H0018,V014,2025-07-01 08:17:00,10.0,9.3,Vibrations felt on steering wheel.
-H0019,V003,2025-07-01 08:18:00,7.3,9.2,Cabin noise higher than expected.
-H0020,V028,2025-07-01 08:19:00,6.2,6.7,Handles well on rough terrain.
-H0021,V086,2025-07-01 08:20:00,7.9,7.4,Cabin noise higher than expected.
-H0022,V074,2025-07-01 08:21:00,9.5,6.7,Great handling in wet conditions.
-H0023,V098,2025-07-01 08:22:00,6.5,5.6,Vibrations felt on steering wheel.
-H0024,V061,2025-07-01 08:23:00,7.7,7.6,Handles well on rough terrain.
-H0025,V076,2025-07-01 08:24:00,6.0,7.0,Noticeable noise from tires.
-H0026,V092,2025-07-01 08:25:00,8.5,7.0,Needs suspension tuning.
-H0027,V034,2025-07-01 08:26:00,7.0,8.2,Vibrations felt on steering wheel.
-H0028,V019,2025-07-01 08:27:00,5.4,10.0,Smooth ride with slight vibrations.
-H0029,V095,2025-07-01 08:28:00,7.3,5.8,Great handling in wet conditions.
-H0030,V015,2025-07-01 08:29:00,8.2,7.4,Vibrations felt on steering wheel.
-H0031,V036,2025-07-01 08:30:00,8.7,10.0,Handles well on rough terrain.
-H0032,V029,2025-07-01 08:31:00,5.9,7.0,Comfortable and quiet.
-H0033,V059,2025-07-01 08:32:00,9.4,7.9,Handles well on rough terrain.
-H0034,V050,2025-07-01 08:33:00,5.8,8.2,Needs suspension tuning.
-H0035,V014,2025-07-01 08:34:00,9.5,7.2,Comfortable and quiet.
-H0036,V038,2025-07-01 08:35:00,5.3,6.1,Handles well on rough terrain.
-H0037,V033,2025-07-01 08:36:00,9.8,6.4,Handles well on rough terrain.
-H0038,V053,2025-07-01 08:37:00,7.5,9.3,Handles well on rough terrain.
-H0039,V047,2025-07-01 08:38:00,5.8,8.5,Great handling in wet conditions.
-H0040,V060,2025-07-01 08:39:00,8.0,5.5,Cabin noise higher than expected.
-H0041,V057,2025-07-01 08:40:00,6.6,7.6,Vibrations felt on steering wheel.
-H0042,V065,2025-07-01 08:41:00,5.1,7.7,Cabin noise higher than expected.
-H0043,V058,2025-07-01 08:42:00,5.3,9.5,Great handling in wet conditions.
-H0044,V042,2025-07-01 08:43:00,6.8,5.2,Great handling in wet conditions.
-H0045,V009,2025-07-01 08:44:00,8.2,6.8,Cabin noise higher than expected.
-H0046,V077,2025-07-01 08:45:00,6.1,9.2,Noticeable noise from tires.
-H0047,V087,2025-07-01 08:46:00,8.9,5.7,Great handling in wet conditions.
-H0048,V022,2025-07-01 08:47:00,8.0,5.6,Great handling in wet conditions.
-H0049,V077,2025-07-01 08:48:00,9.5,9.7,Great handling in wet conditions.
-H0050,V004,2025-07-01 08:49:00,9.1,5.5,Smooth ride with slight vibrations.
-H0051,V033,2025-07-01 08:50:00,7.0,5.2,Handles well on rough terrain.
-H0052,V090,2025-07-01 08:51:00,6.0,7.4,Needs suspension tuning.
-H0053,V066,2025-07-01 08:52:00,6.2,5.8,Handles well on rough terrain.
-H0054,V043,2025-07-01 08:53:00,9.3,5.5,Comfortable and quiet.
-H0055,V049,2025-07-01 08:54:00,6.7,9.0,Noticeable noise from tires.
-H0056,V013,2025-07-01 08:55:00,9.3,5.4,Cabin noise higher than expected.
-H0057,V046,2025-07-01 08:56:00,9.2,7.5,Noticeable noise from tires.
-H0058,V002,2025-07-01 08:57:00,5.9,8.2,Comfortable and quiet.
-H0059,V040,2025-07-01 08:58:00,7.5,5.9,Great handling in wet conditions.
-H0060,V001,2025-07-01 08:59:00,5.3,7.3,Needs suspension tuning.
-H0061,V026,2025-07-01 09:00:00,6.7,8.3,Vibrations felt on steering wheel.
-H0062,V055,2025-07-01 09:01:00,6.2,8.4,Needs suspension tuning.
-H0063,V022,2025-07-01 09:02:00,7.2,7.3,Cabin noise higher than expected.
-H0064,V023,2025-07-01 09:03:00,6.3,9.3,Comfortable and quiet.
-H0065,V038,2025-07-01 09:04:00,7.3,9.5,Comfortable and quiet.
-H0066,V058,2025-07-01 09:05:00,5.7,5.8,Needs suspension tuning.
-H0067,V020,2025-07-01 09:06:00,6.2,8.7,Cabin noise higher than expected.
-H0068,V078,2025-07-01 09:07:00,8.5,8.3,Noticeable noise from tires.
-H0069,V014,2025-07-01 09:08:00,9.5,8.8,Cabin noise higher than expected.
-H0070,V098,2025-07-01 09:09:00,5.5,8.4,Smooth ride with slight vibrations.
-H0071,V020,2025-07-01 09:10:00,8.5,9.2,Cabin noise higher than expected.
-H0072,V037,2025-07-01 09:11:00,6.1,9.9,Noticeable noise from tires.
-H0073,V060,2025-07-01 09:12:00,5.3,8.0,Smooth ride with slight vibrations.
-H0074,V046,2025-07-01 09:13:00,6.6,5.9,Smooth ride with slight vibrations.
-H0075,V022,2025-07-01 09:14:00,7.4,6.0,Cabin noise higher than expected.
-H0076,V076,2025-07-01 09:15:00,7.2,6.1,Handles well on rough terrain.
-H0077,V006,2025-07-01 09:16:00,6.3,9.9,Vibrations felt on steering wheel.
-H0078,V054,2025-07-01 09:17:00,5.3,6.0,Noticeable noise from tires.
-H0079,V085,2025-07-01 09:18:00,9.5,9.8,Cabin noise higher than expected.
-H0080,V005,2025-07-01 09:19:00,6.2,9.4,Handles well on rough terrain.
-H0081,V017,2025-07-01 09:20:00,5.3,7.9,Great handling in wet conditions.
-H0082,V100,2025-07-01 09:21:00,7.9,5.3,Noticeable noise from tires.
-H0083,V025,2025-07-01 09:22:00,9.0,6.4,Needs suspension tuning.
-H0084,V010,2025-07-01 09:23:00,8.0,7.3,Vibrations felt on steering wheel.
-H0085,V095,2025-07-01 09:24:00,8.4,6.9,Smooth ride with slight vibrations.
-H0086,V061,2025-07-01 09:25:00,8.5,8.9,Comfortable and quiet.
-H0087,V071,2025-07-01 09:26:00,9.3,8.7,Great handling in wet conditions.
-H0088,V036,2025-07-01 09:27:00,8.4,7.4,Noticeable noise from tires.
-H0089,V086,2025-07-01 09:28:00,6.4,9.0,Vibrations felt on steering wheel.
-H0090,V040,2025-07-01 09:29:00,8.0,9.4,Handles well on rough terrain.
-H0091,V080,2025-07-01 09:30:00,8.8,6.3,Comfortable and quiet.
-H0092,V071,2025-07-01 09:31:00,8.4,9.6,Needs suspension tuning.
-H0093,V047,2025-07-01 09:32:00,9.0,9.3,Cabin noise higher than expected.
-H0094,V014,2025-07-01 09:33:00,9.3,7.6,Vibrations felt on steering wheel.
-H0095,V081,2025-07-01 09:34:00,9.2,9.9,Handles well on rough terrain.
-H0096,V062,2025-07-01 09:35:00,5.1,5.9,Vibrations felt on steering wheel.
-H0097,V031,2025-07-01 09:36:00,9.2,6.8,Vibrations felt on steering wheel.
-H0098,V001,2025-07-01 09:37:00,9.4,8.5,Needs suspension tuning.
-H0099,V016,2025-07-01 09:38:00,7.7,8.6,Cabin noise higher than expected.
-H0100,V022,2025-07-01 09:39:00,8.0,8.1,Noticeable noise from tires.
-H0101,V083,2025-07-01 09:40:00,8.7,8.5,Cabin noise higher than expected.
-H0102,V035,2025-07-01 09:41:00,7.6,9.6,Comfortable and quiet.
-H0103,V093,2025-07-01 09:42:00,6.6,9.6,Great handling in wet conditions.
-H0104,V052,2025-07-01 09:43:00,6.8,5.1,Noticeable noise from tires.
-H0105,V051,2025-07-01 09:44:00,5.9,8.4,Great handling in wet conditions.
-H0106,V037,2025-07-01 09:45:00,8.2,8.7,Cabin noise higher than expected.
-H0107,V087,2025-07-01 09:46:00,9.3,8.9,Cabin noise higher than expected.
-H0108,V055,2025-07-01 09:47:00,8.9,9.3,Cabin noise higher than expected.
-H0109,V037,2025-07-01 09:48:00,9.1,9.3,Handles well on rough terrain.
-H0110,V060,2025-07-01 09:49:00,5.8,9.2,Cabin noise higher than expected.
-H0111,V075,2025-07-01 09:50:00,6.0,5.5,Smooth ride with slight vibrations.
-H0112,V057,2025-07-01 09:51:00,7.4,7.6,Cabin noise higher than expected.
-H0113,V077,2025-07-01 09:52:00,8.7,8.7,Cabin noise higher than expected.
-H0114,V075,2025-07-01 09:53:00,6.5,8.0,Comfortable and quiet.
-H0115,V044,2025-07-01 09:54:00,10.0,9.4,Smooth ride with slight vibrations.
-H0116,V006,2025-07-01 09:55:00,8.5,5.5,Smooth ride with slight vibrations.
-H0117,V069,2025-07-01 09:56:00,8.0,8.7,Great handling in wet conditions.
-H0118,V069,2025-07-01 09:57:00,6.7,6.5,Noticeable noise from tires.
-H0119,V092,2025-07-01 09:58:00,9.8,7.4,Comfortable and quiet.
-H0120,V006,2025-07-01 09:59:00,7.9,5.9,Comfortable and quiet.
-H0121,V046,2025-07-01 10:00:00,8.5,7.3,Needs suspension tuning.
-H0122,V015,2025-07-01 10:01:00,7.3,9.8,Vibrations felt on steering wheel.
-H0123,V011,2025-07-01 10:02:00,6.2,8.2,Noticeable noise from tires.
-H0124,V034,2025-07-01 10:03:00,7.0,9.2,Handles well on rough terrain.
-H0125,V063,2025-07-01 10:04:00,9.6,9.6,Handles well on rough terrain.
-H0126,V049,2025-07-01 10:05:00,9.5,5.9,Great handling in wet conditions.
-H0127,V051,2025-07-01 10:06:00,8.0,6.7,Cabin noise higher than expected.
-H0128,V049,2025-07-01 10:07:00,9.5,8.1,Smooth ride with slight vibrations.
-H0129,V043,2025-07-01 10:08:00,9.5,6.4,Cabin noise higher than expected.
-H0130,V061,2025-07-01 10:09:00,9.1,9.5,Great handling in wet conditions.
-H0131,V001,2025-07-01 10:10:00,7.5,5.1,Handles well on rough terrain.
-H0132,V073,2025-07-01 10:11:00,8.2,7.5,Needs suspension tuning.
-H0133,V089,2025-07-01 10:12:00,6.9,8.9,Vibrations felt on steering wheel.
-H0134,V001,2025-07-01 10:13:00,8.4,5.8,Handles well on rough terrain.
-H0135,V052,2025-07-01 10:14:00,6.9,5.9,Vibrations felt on steering wheel.
-H0136,V004,2025-07-01 10:15:00,8.2,9.6,Cabin noise higher than expected.
-H0137,V072,2025-07-01 10:16:00,5.3,5.8,Cabin noise higher than expected.
-H0138,V093,2025-07-01 10:17:00,5.0,7.3,Cabin noise higher than expected.
-H0139,V086,2025-07-01 10:18:00,6.5,9.3,Cabin noise higher than expected.
-H0140,V043,2025-07-01 10:19:00,5.6,9.5,Needs suspension tuning.
-H0141,V099,2025-07-01 10:20:00,7.1,6.3,Comfortable and quiet.
-H0142,V073,2025-07-01 10:21:00,5.2,5.7,Vibrations felt on steering wheel.
-H0143,V024,2025-07-01 10:22:00,6.4,5.6,Comfortable and quiet.
-H0144,V062,2025-07-01 10:23:00,8.2,7.2,Vibrations felt on steering wheel.
-H0145,V048,2025-07-01 10:24:00,9.9,6.9,Needs suspension tuning.
-H0146,V012,2025-07-01 10:25:00,9.2,6.1,Needs suspension tuning.
-H0147,V100,2025-07-01 10:26:00,8.4,7.5,Smooth ride with slight vibrations.
-H0148,V051,2025-07-01 10:27:00,6.6,6.2,Great handling in wet conditions.
-H0149,V083,2025-07-01 10:28:00,7.1,8.2,Cabin noise higher than expected.
-H0150,V030,2025-07-01 10:29:00,7.6,8.3,Smooth ride with slight vibrations.
-H0151,V062,2025-07-01 10:30:00,6.3,5.9,Vibrations felt on steering wheel.
-H0152,V043,2025-07-01 10:31:00,8.3,9.4,Comfortable and quiet.
-H0153,V021,2025-07-01 10:32:00,8.3,9.8,Great handling in wet conditions.
-H0154,V018,2025-07-01 10:33:00,7.7,8.4,Great handling in wet conditions.
-H0155,V075,2025-07-01 10:34:00,8.0,7.1,Noticeable noise from tires.
-H0156,V086,2025-07-01 10:35:00,8.0,7.7,Handles well on rough terrain.
-H0157,V029,2025-07-01 10:36:00,5.2,6.2,Comfortable and quiet.
-H0158,V019,2025-07-01 10:37:00,5.3,7.4,Noticeable noise from tires.
-H0159,V099,2025-07-01 10:38:00,7.9,7.4,Noticeable noise from tires.
-H0160,V050,2025-07-01 10:39:00,5.4,6.2,Needs suspension tuning.
-H0161,V097,2025-07-01 10:40:00,5.3,5.7,Handles well on rough terrain.
-H0162,V026,2025-07-01 10:41:00,6.6,9.8,Noticeable noise from tires.
-H0163,V016,2025-07-01 10:42:00,5.0,7.4,Great handling in wet conditions.
-H0164,V076,2025-07-01 10:43:00,9.2,9.2,Smooth ride with slight vibrations.
-H0165,V098,2025-07-01 10:44:00,6.5,5.0,Great handling in wet conditions.
-H0166,V041,2025-07-01 10:45:00,8.7,9.9,Noticeable noise from tires.
-H0167,V096,2025-07-01 10:46:00,7.8,7.2,Needs suspension tuning.
-H0168,V059,2025-07-01 10:47:00,5.0,9.1,Comfortable and quiet.
-H0169,V013,2025-07-01 10:48:00,8.4,9.7,Needs suspension tuning.
-H0170,V092,2025-07-01 10:49:00,7.4,7.7,Smooth ride with slight vibrations.
-H0171,V014,2025-07-01 10:50:00,7.6,6.9,Handles well on rough terrain.
-H0172,V099,2025-07-01 10:51:00,9.4,5.3,Noticeable noise from tires.
-H0173,V021,2025-07-01 10:52:00,8.5,6.9,Comfortable and quiet.
-H0174,V055,2025-07-01 10:53:00,6.5,9.3,Noticeable noise from tires.
-H0175,V034,2025-07-01 10:54:00,6.3,7.1,Vibrations felt on steering wheel.
-H0176,V016,2025-07-01 10:55:00,6.7,8.9,Vibrations felt on steering wheel.
-H0177,V076,2025-07-01 10:56:00,5.1,9.9,Vibrations felt on steering wheel.
-H0178,V061,2025-07-01 10:57:00,6.8,9.8,Cabin noise higher than expected.
-H0179,V091,2025-07-01 10:58:00,9.8,7.5,Smooth ride with slight vibrations.
-H0180,V019,2025-07-01 10:59:00,5.9,5.5,Great handling in wet conditions.
-H0181,V094,2025-07-01 11:00:00,7.2,6.7,Cabin noise higher than expected.
-H0182,V067,2025-07-01 11:01:00,9.2,5.3,Cabin noise higher than expected.
-H0183,V045,2025-07-01 11:02:00,8.0,7.2,Needs suspension tuning.
-H0184,V091,2025-07-01 11:03:00,5.9,5.5,Comfortable and quiet.
-H0185,V089,2025-07-01 11:04:00,5.4,6.0,Handles well on rough terrain.
-H0186,V070,2025-07-01 11:05:00,9.4,5.9,Noticeable noise from tires.
-H0187,V076,2025-07-01 11:06:00,9.4,9.6,Noticeable noise from tires.
-H0188,V099,2025-07-01 11:07:00,6.0,7.2,Great handling in wet conditions.
-H0189,V060,2025-07-01 11:08:00,7.9,6.5,Comfortable and quiet.
-H0190,V059,2025-07-01 11:09:00,7.4,6.6,Needs suspension tuning.
-H0191,V088,2025-07-01 11:10:00,7.1,7.4,Great handling in wet conditions.
-H0192,V053,2025-07-01 11:11:00,9.8,6.4,Comfortable and quiet.
-H0193,V063,2025-07-01 11:12:00,8.0,6.2,Noticeable noise from tires.
-H0194,V084,2025-07-01 11:13:00,5.9,5.4,Vibrations felt on steering wheel.
-H0195,V018,2025-07-01 11:14:00,6.8,6.9,Needs suspension tuning.
-H0196,V016,2025-07-01 11:15:00,9.7,9.9,Handles well on rough terrain.
-H0197,V078,2025-07-01 11:16:00,6.8,6.5,Handles well on rough terrain.
-H0198,V099,2025-07-01 11:17:00,8.1,5.2,Comfortable and quiet.
-H0199,V052,2025-07-01 11:18:00,9.2,6.2,Cabin noise higher than expected.
-H0200,V001,2025-07-01 11:19:00,6.5,8.9,Needs suspension tuning.
-H0201,V020,2025-07-01 11:20:00,5.5,8.3,Handles well on rough terrain.
-H0202,V058,2025-07-01 11:21:00,6.7,8.3,Comfortable and quiet.
-H0203,V048,2025-07-01 11:22:00,10.0,9.4,Handles well on rough terrain.
-H0204,V011,2025-07-01 11:23:00,6.1,7.7,Smooth ride with slight vibrations.
-H0205,V012,2025-07-01 11:24:00,9.8,8.2,Great handling in wet conditions.
-H0206,V043,2025-07-01 11:25:00,9.6,9.5,Great handling in wet conditions.
-H0207,V008,2025-07-01 11:26:00,6.3,6.6,Cabin noise higher than expected.
-H0208,V032,2025-07-01 11:27:00,7.0,7.1,Great handling in wet conditions.
-H0209,V011,2025-07-01 11:28:00,7.5,8.1,Handles well on rough terrain.
-H0210,V022,2025-07-01 11:29:00,6.7,7.3,Needs suspension tuning.
-H0211,V075,2025-07-01 11:30:00,8.5,8.6,Great handling in wet conditions.
-H0212,V055,2025-07-01 11:31:00,9.1,6.7,Noticeable noise from tires.
-H0213,V093,2025-07-01 11:32:00,7.2,7.5,Cabin noise higher than expected.
-H0214,V045,2025-07-01 11:33:00,5.7,6.5,Cabin noise higher than expected.
-H0215,V007,2025-07-01 11:34:00,9.4,7.7,Smooth ride with slight vibrations.
-H0216,V042,2025-07-01 11:35:00,6.3,8.9,Cabin noise higher than expected.
-H0217,V047,2025-07-01 11:36:00,9.0,9.3,Noticeable noise from tires.
-H0218,V011,2025-07-01 11:37:00,8.8,6.7,Comfortable and quiet.
-H0219,V096,2025-07-01 11:38:00,5.0,6.8,Smooth ride with slight vibrations.
-H0220,V091,2025-07-01 11:39:00,5.9,6.5,Noticeable noise from tires.
-H0221,V079,2025-07-01 11:40:00,9.3,9.4,Noticeable noise from tires.
-H0222,V095,2025-07-01 11:41:00,9.5,8.2,Needs suspension tuning.
-H0223,V044,2025-07-01 11:42:00,6.9,5.8,Needs suspension tuning.
-H0224,V027,2025-07-01 11:43:00,7.0,10.0,Great handling in wet conditions.
-H0225,V038,2025-07-01 11:44:00,7.6,6.9,Great handling in wet conditions.
-H0226,V070,2025-07-01 11:45:00,9.5,9.3,Noticeable noise from tires.
-H0227,V031,2025-07-01 11:46:00,7.4,7.2,Vibrations felt on steering wheel.
-H0228,V037,2025-07-01 11:47:00,6.1,7.9,Needs suspension tuning.
-H0229,V095,2025-07-01 11:48:00,5.2,6.8,Great handling in wet conditions.
-H0230,V040,2025-07-01 11:49:00,9.2,5.7,Cabin noise higher than expected.
-H0231,V012,2025-07-01 11:50:00,9.8,9.2,Needs suspension tuning.
-H0232,V029,2025-07-01 11:51:00,5.4,7.6,Needs suspension tuning.
-H0233,V008,2025-07-01 11:52:00,8.3,9.1,Smooth ride with slight vibrations.
-H0234,V063,2025-07-01 11:53:00,5.5,8.4,Smooth ride with slight vibrations.
-H0235,V073,2025-07-01 11:54:00,8.4,5.4,Comfortable and quiet.
-H0236,V052,2025-07-01 11:55:00,6.1,8.1,Handles well on rough terrain.
-H0237,V083,2025-07-01 11:56:00,6.9,7.4,Vibrations felt on steering wheel.
-H0238,V084,2025-07-01 11:57:00,5.4,9.5,Great handling in wet conditions.
-H0239,V024,2025-07-01 11:58:00,7.6,7.6,Noticeable noise from tires.
-H0240,V018,2025-07-01 11:59:00,8.4,5.4,Handles well on rough terrain.
-H0241,V093,2025-07-01 12:00:00,8.0,9.3,Cabin noise higher than expected.
-H0242,V079,2025-07-01 12:01:00,6.1,5.2,Vibrations felt on steering wheel.
-H0243,V001,2025-07-01 12:02:00,9.1,8.8,Great handling in wet conditions.
-H0244,V079,2025-07-01 12:03:00,5.8,6.0,Great handling in wet conditions.
-H0245,V028,2025-07-01 12:04:00,7.4,8.9,Handles well on rough terrain.
-H0246,V086,2025-07-01 12:05:00,7.3,5.5,Cabin noise higher than expected.
-H0247,V056,2025-07-01 12:06:00,5.9,7.3,Comfortable and quiet.
-H0248,V043,2025-07-01 12:07:00,8.5,7.5,Vibrations felt on steering wheel.
-H0249,V004,2025-07-01 12:08:00,6.0,6.5,Needs suspension tuning.
-H0250,V054,2025-07-01 12:09:00,7.1,6.7,Noticeable noise from tires.
-H0251,V018,2025-07-01 12:10:00,6.1,8.8,Cabin noise higher than expected.
-H0252,V033,2025-07-01 12:11:00,7.9,9.8,Smooth ride with slight vibrations.
-H0253,V098,2025-07-01 12:12:00,7.9,9.5,Great handling in wet conditions.
-H0254,V096,2025-07-01 12:13:00,7.0,10.0,Vibrations felt on steering wheel.
-H0255,V089,2025-07-01 12:14:00,5.5,7.7,Smooth ride with slight vibrations.
-H0256,V037,2025-07-01 12:15:00,9.0,6.7,Noticeable noise from tires.
-H0257,V086,2025-07-01 12:16:00,7.5,9.1,Cabin noise higher than expected.
-H0258,V006,2025-07-01 12:17:00,6.2,9.2,Comfortable and quiet.
-H0259,V065,2025-07-01 12:18:00,7.0,5.9,Vibrations felt on steering wheel.
-H0260,V069,2025-07-01 12:19:00,7.5,8.1,Great handling in wet conditions.
-H0261,V087,2025-07-01 12:20:00,9.1,5.3,Handles well on rough terrain.
-H0262,V094,2025-07-01 12:21:00,5.2,6.5,Comfortable and quiet.
-H0263,V038,2025-07-01 12:22:00,5.9,6.3,Cabin noise higher than expected.
-H0264,V006,2025-07-01 12:23:00,8.4,9.3,Handles well on rough terrain.
-H0265,V079,2025-07-01 12:24:00,6.1,5.2,Noticeable noise from tires.
-H0266,V092,2025-07-01 12:25:00,7.7,5.9,Noticeable noise from tires.
-H0267,V053,2025-07-01 12:26:00,5.4,5.2,Noticeable noise from tires.
-H0268,V088,2025-07-01 12:27:00,7.0,8.3,Smooth ride with slight vibrations.
-H0269,V033,2025-07-01 12:28:00,8.2,6.4,Handles well on rough terrain.
-H0270,V094,2025-07-01 12:29:00,6.8,8.8,Noticeable noise from tires.
-H0271,V067,2025-07-01 12:30:00,5.4,7.4,Needs suspension tuning.
-H0272,V040,2025-07-01 12:31:00,7.6,5.4,Vibrations felt on steering wheel.
-H0273,V039,2025-07-01 12:32:00,5.8,9.7,Vibrations felt on steering wheel.
-H0274,V091,2025-07-01 12:33:00,8.1,8.4,Vibrations felt on steering wheel.
-H0275,V080,2025-07-01 12:34:00,5.7,6.9,Comfortable and quiet.
-H0276,V053,2025-07-01 12:35:00,8.5,5.5,Comfortable and quiet.
-H0277,V090,2025-07-01 12:36:00,8.9,8.6,Comfortable and quiet.
-H0278,V090,2025-07-01 12:37:00,9.4,9.8,Handles well on rough terrain.
-H0279,V026,2025-07-01 12:38:00,6.5,5.5,Comfortable and quiet.
-H0280,V010,2025-07-01 12:39:00,6.7,6.8,Noticeable noise from tires.
-H0281,V039,2025-07-01 12:40:00,9.7,7.9,Noticeable noise from tires.
-H0282,V055,2025-07-01 12:41:00,9.2,7.1,Noticeable noise from tires.
-H0283,V033,2025-07-01 12:42:00,9.8,8.4,Smooth ride with slight vibrations.
-H0284,V072,2025-07-01 12:43:00,8.4,8.0,Needs suspension tuning.
-H0285,V030,2025-07-01 12:44:00,5.1,9.1,Noticeable noise from tires.
-H0286,V094,2025-07-01 12:45:00,8.5,7.0,Great handling in wet conditions.
-H0287,V071,2025-07-01 12:46:00,9.5,6.4,Great handling in wet conditions.
-H0288,V030,2025-07-01 12:47:00,10.0,9.2,Great handling in wet conditions.
-H0289,V015,2025-07-01 12:48:00,9.4,7.8,Great handling in wet conditions.
-H0290,V083,2025-07-01 12:49:00,6.4,7.0,Handles well on rough terrain.
-H0291,V057,2025-07-01 12:50:00,6.1,9.5,Smooth ride with slight vibrations.
-H0292,V024,2025-07-01 12:51:00,7.8,8.5,Vibrations felt on steering wheel.
-H0293,V055,2025-07-01 12:52:00,8.7,7.0,Vibrations felt on steering wheel.
-H0294,V060,2025-07-01 12:53:00,9.6,7.4,Cabin noise higher than expected.
-H0295,V055,2025-07-01 12:54:00,8.2,6.6,Comfortable and quiet.
-H0296,V016,2025-07-01 12:55:00,5.4,9.7,Cabin noise higher than expected.
-H0297,V057,2025-07-01 12:56:00,8.7,5.4,Comfortable and quiet.
-H0298,V062,2025-07-01 12:57:00,7.9,10.0,Cabin noise higher than expected.
-H0299,V041,2025-07-01 12:58:00,7.9,6.9,Comfortable and quiet.
-H0300,V036,2025-07-01 12:59:00,8.2,8.3,Handles well on rough terrain.
-H0301,V034,2025-07-01 13:00:00,8.7,8.7,Comfortable and quiet.
-H0302,V074,2025-07-01 13:01:00,9.6,5.8,Needs suspension tuning.
-H0303,V053,2025-07-01 13:02:00,9.9,9.4,Cabin noise higher than expected.
-H0304,V064,2025-07-01 13:03:00,8.4,9.6,Noticeable noise from tires.
-H0305,V067,2025-07-01 13:04:00,8.7,8.8,Great handling in wet conditions.
-H0306,V037,2025-07-01 13:05:00,9.6,6.3,Handles well on rough terrain.
-H0307,V091,2025-07-01 13:06:00,7.2,9.8,Great handling in wet conditions.
-H0308,V002,2025-07-01 13:07:00,5.9,6.3,Needs suspension tuning.
-H0309,V045,2025-07-01 13:08:00,5.4,8.3,Vibrations felt on steering wheel.
-H0310,V039,2025-07-01 13:09:00,7.6,9.0,Handles well on rough terrain.
-H0311,V013,2025-07-01 13:10:00,5.8,9.3,Cabin noise higher than expected.
-H0312,V076,2025-07-01 13:11:00,6.5,6.1,Smooth ride with slight vibrations.
-H0313,V083,2025-07-01 13:12:00,7.7,9.2,Noticeable noise from tires.
-H0314,V058,2025-07-01 13:13:00,7.8,10.0,Vibrations felt on steering wheel.
-H0315,V046,2025-07-01 13:14:00,7.9,6.9,Handles well on rough terrain.
-H0316,V009,2025-07-01 13:15:00,8.9,8.4,Cabin noise higher than expected.
-H0317,V005,2025-07-01 13:16:00,9.6,5.2,Vibrations felt on steering wheel.
-H0318,V069,2025-07-01 13:17:00,7.3,5.8,Cabin noise higher than expected.
-H0319,V050,2025-07-01 13:18:00,6.7,9.8,Great handling in wet conditions.
-H0320,V046,2025-07-01 13:19:00,5.8,8.2,Great handling in wet conditions.
-H0321,V065,2025-07-01 13:20:00,5.1,7.3,Cabin noise higher than expected.
-H0322,V039,2025-07-01 13:21:00,8.2,5.6,Needs suspension tuning.
-H0323,V004,2025-07-01 13:22:00,6.4,7.8,Smooth ride with slight vibrations.
-H0324,V035,2025-07-01 13:23:00,7.2,8.5,Needs suspension tuning.
-H0325,V002,2025-07-01 13:24:00,7.5,9.2,Vibrations felt on steering wheel.
-H0326,V013,2025-07-01 13:25:00,5.0,5.4,Comfortable and quiet.
-H0327,V008,2025-07-01 13:26:00,8.9,9.6,Cabin noise higher than expected.
-H0328,V086,2025-07-01 13:27:00,8.6,6.0,Comfortable and quiet.
-H0329,V067,2025-07-01 13:28:00,5.3,5.2,Noticeable noise from tires.
-H0330,V012,2025-07-01 13:29:00,9.8,8.1,Vibrations felt on steering wheel.
-H0331,V021,2025-07-01 13:30:00,9.8,9.9,Cabin noise higher than expected.
-H0332,V044,2025-07-01 13:31:00,7.9,9.9,Cabin noise higher than expected.
-H0333,V031,2025-07-01 13:32:00,8.2,5.2,Comfortable and quiet.
-H0334,V069,2025-07-01 13:33:00,9.0,6.5,Needs suspension tuning.
-H0335,V067,2025-07-01 13:34:00,7.2,7.8,Needs suspension tuning.
-H0336,V020,2025-07-01 13:35:00,8.2,8.0,Great handling in wet conditions.
-H0337,V018,2025-07-01 13:36:00,9.0,9.3,Handles well on rough terrain.
-H0338,V097,2025-07-01 13:37:00,6.1,9.6,Smooth ride with slight vibrations.
-H0339,V079,2025-07-01 13:38:00,6.2,8.3,Noticeable noise from tires.
-H0340,V084,2025-07-01 13:39:00,7.5,8.9,Handles well on rough terrain.
-H0341,V011,2025-07-01 13:40:00,6.9,7.7,Needs suspension tuning.
-H0342,V045,2025-07-01 13:41:00,9.0,6.3,Comfortable and quiet.
-H0343,V089,2025-07-01 13:42:00,6.6,8.4,Smooth ride with slight vibrations.
-H0344,V006,2025-07-01 13:43:00,8.4,8.7,Vibrations felt on steering wheel.
-H0345,V075,2025-07-01 13:44:00,8.2,8.9,Cabin noise higher than expected.
-H0346,V096,2025-07-01 13:45:00,7.2,7.3,Handles well on rough terrain.
-H0347,V073,2025-07-01 13:46:00,8.6,5.8,Smooth ride with slight vibrations.
-H0348,V075,2025-07-01 13:47:00,8.2,8.6,Comfortable and quiet.
-H0349,V018,2025-07-01 13:48:00,6.6,5.8,Comfortable and quiet.
-H0350,V100,2025-07-01 13:49:00,6.4,6.5,Smooth ride with slight vibrations.
-H0351,V056,2025-07-01 13:50:00,6.8,9.8,Needs suspension tuning.
-H0352,V050,2025-07-01 13:51:00,7.9,9.9,Vibrations felt on steering wheel.
-H0353,V033,2025-07-01 13:52:00,7.7,8.5,Noticeable noise from tires.
-H0354,V094,2025-07-01 13:53:00,6.1,6.7,Handles well on rough terrain.
-H0355,V032,2025-07-01 13:54:00,7.8,8.2,Noticeable noise from tires.
-H0356,V071,2025-07-01 13:55:00,6.5,9.3,Cabin noise higher than expected.
-H0357,V055,2025-07-01 13:56:00,9.7,5.7,Smooth ride with slight vibrations.
-H0358,V038,2025-07-01 13:57:00,5.2,7.8,Handles well on rough terrain.
-H0359,V041,2025-07-01 13:58:00,6.7,8.1,Noticeable noise from tires.
-H0360,V098,2025-07-01 13:59:00,7.9,8.3,Noticeable noise from tires.
-H0361,V083,2025-07-01 14:00:00,7.2,6.3,Comfortable and quiet.
-H0362,V025,2025-07-01 14:01:00,6.9,7.2,Needs suspension tuning.
-H0363,V051,2025-07-01 14:02:00,7.4,8.6,Vibrations felt on steering wheel.
-H0364,V097,2025-07-01 14:03:00,9.7,7.9,Smooth ride with slight vibrations.
-H0365,V073,2025-07-01 14:04:00,8.4,9.4,Smooth ride with slight vibrations.
-H0366,V002,2025-07-01 14:05:00,6.2,6.2,Needs suspension tuning.
-H0367,V090,2025-07-01 14:06:00,9.4,5.8,Handles well on rough terrain.
-H0368,V083,2025-07-01 14:07:00,5.9,5.0,Needs suspension tuning.
-H0369,V059,2025-07-01 14:08:00,9.6,6.0,Comfortable and quiet.
-H0370,V014,2025-07-01 14:09:00,7.0,8.3,Comfortable and quiet.
-H0371,V035,2025-07-01 14:10:00,5.4,7.2,Cabin noise higher than expected.
-H0372,V008,2025-07-01 14:11:00,7.5,7.3,Cabin noise higher than expected.
-H0373,V007,2025-07-01 14:12:00,9.4,6.1,Handles well on rough terrain.
-H0374,V047,2025-07-01 14:13:00,6.3,8.2,Great handling in wet conditions.
-H0375,V060,2025-07-01 14:14:00,7.2,5.5,Vibrations felt on steering wheel.
-H0376,V065,2025-07-01 14:15:00,8.5,7.9,Needs suspension tuning.
-H0377,V080,2025-07-01 14:16:00,6.8,9.9,Noticeable noise from tires.
-H0378,V085,2025-07-01 14:17:00,10.0,5.5,Comfortable and quiet.
-H0379,V013,2025-07-01 14:18:00,6.9,9.6,Comfortable and quiet.
-H0380,V060,2025-07-01 14:19:00,6.7,8.7,Needs suspension tuning.
-H0381,V067,2025-07-01 14:20:00,9.5,8.3,Cabin noise higher than expected.
-H0382,V003,2025-07-01 14:21:00,7.6,7.1,Smooth ride with slight vibrations.
-H0383,V100,2025-07-01 14:22:00,7.0,5.3,Handles well on rough terrain.
-H0384,V092,2025-07-01 14:23:00,8.7,8.6,Noticeable noise from tires.
-H0385,V081,2025-07-01 14:24:00,9.5,9.4,Cabin noise higher than expected.
-H0386,V092,2025-07-01 14:25:00,9.2,8.5,Comfortable and quiet.
-H0387,V045,2025-07-01 14:26:00,5.3,5.6,Needs suspension tuning.
-H0388,V075,2025-07-01 14:27:00,5.8,10.0,Needs suspension tuning.
-H0389,V031,2025-07-01 14:28:00,7.1,5.7,Vibrations felt on steering wheel.
-H0390,V043,2025-07-01 14:29:00,5.6,7.6,Noticeable noise from tires.
-H0391,V015,2025-07-01 14:30:00,5.6,8.0,Smooth ride with slight vibrations.
-H0392,V089,2025-07-01 14:31:00,8.7,8.2,Noticeable noise from tires.
-H0393,V010,2025-07-01 14:32:00,6.8,7.1,Smooth ride with slight vibrations.
-H0394,V037,2025-07-01 14:33:00,9.1,5.3,Vibrations felt on steering wheel.
-H0395,V088,2025-07-01 14:34:00,5.9,9.6,Handles well on rough terrain.
-H0396,V088,2025-07-01 14:35:00,8.6,6.3,Needs suspension tuning.
-H0397,V009,2025-07-01 14:36:00,6.5,7.5,Vibrations felt on steering wheel.
-H0398,V014,2025-07-01 14:37:00,6.4,8.2,Great handling in wet conditions.
-H0399,V028,2025-07-01 14:38:00,7.5,6.7,Noticeable noise from tires.
-H0400,V004,2025-07-01 14:39:00,7.6,5.7,Needs suspension tuning.
-H0401,V078,2025-07-01 14:40:00,7.8,7.6,Noticeable noise from tires.
-H0402,V090,2025-07-01 14:41:00,6.2,9.6,Great handling in wet conditions.
-H0403,V081,2025-07-01 14:42:00,6.6,6.7,Needs suspension tuning.
-H0404,V049,2025-07-01 14:43:00,5.1,6.7,Smooth ride with slight vibrations.
-H0405,V091,2025-07-01 14:44:00,7.2,7.7,Needs suspension tuning.
-H0406,V065,2025-07-01 14:45:00,6.1,5.4,Smooth ride with slight vibrations.
-H0407,V050,2025-07-01 14:46:00,8.4,7.2,Great handling in wet conditions.
-H0408,V036,2025-07-01 14:47:00,7.7,5.2,Smooth ride with slight vibrations.
-H0409,V077,2025-07-01 14:48:00,9.2,6.1,Smooth ride with slight vibrations.
-H0410,V034,2025-07-01 14:49:00,8.2,9.2,Needs suspension tuning.
-H0411,V036,2025-07-01 14:50:00,8.2,8.8,Comfortable and quiet.
-H0412,V084,2025-07-01 14:51:00,9.4,8.3,Noticeable noise from tires.
-H0413,V059,2025-07-01 14:52:00,8.1,5.5,Needs suspension tuning.
-H0414,V054,2025-07-01 14:53:00,5.1,7.1,Noticeable noise from tires.
-H0415,V089,2025-07-01 14:54:00,8.2,8.0,Smooth ride with slight vibrations.
-H0416,V088,2025-07-01 14:55:00,5.8,7.4,Needs suspension tuning.
-H0417,V029,2025-07-01 14:56:00,7.2,7.2,Needs suspension tuning.
-H0418,V031,2025-07-01 14:57:00,6.5,8.8,Noticeable noise from tires.
-H0419,V010,2025-07-01 14:58:00,5.8,7.4,Great handling in wet conditions.
-H0420,V057,2025-07-01 14:59:00,9.6,9.4,Vibrations felt on steering wheel.
-H0421,V067,2025-07-01 15:00:00,9.9,8.0,Comfortable and quiet.
-H0422,V001,2025-07-01 15:01:00,8.6,5.8,Noticeable noise from tires.
-H0423,V057,2025-07-01 15:02:00,5.8,8.9,Cabin noise higher than expected.
-H0424,V007,2025-07-01 15:03:00,6.1,6.7,Comfortable and quiet.
-H0425,V029,2025-07-01 15:04:00,9.5,7.9,Comfortable and quiet.
-H0426,V015,2025-07-01 15:05:00,9.9,6.5,Vibrations felt on steering wheel.
-H0427,V020,2025-07-01 15:06:00,7.0,9.2,Needs suspension tuning.
-H0428,V072,2025-07-01 15:07:00,5.7,9.1,Noticeable noise from tires.
-H0429,V037,2025-07-01 15:08:00,9.9,5.8,Great handling in wet conditions.
-H0430,V055,2025-07-01 15:09:00,5.6,6.2,Needs suspension tuning.
-H0431,V050,2025-07-01 15:10:00,5.3,5.3,Vibrations felt on steering wheel.
-H0432,V092,2025-07-01 15:11:00,7.8,9.7,Smooth ride with slight vibrations.
-H0433,V016,2025-07-01 15:12:00,5.7,9.4,Vibrations felt on steering wheel.
-H0434,V062,2025-07-01 15:13:00,7.7,8.9,Needs suspension tuning.
-H0435,V087,2025-07-01 15:14:00,8.8,8.7,Needs suspension tuning.
-H0436,V082,2025-07-01 15:15:00,8.1,8.0,Needs suspension tuning.
-H0437,V003,2025-07-01 15:16:00,6.9,9.1,Vibrations felt on steering wheel.
-H0438,V097,2025-07-01 15:17:00,7.1,9.1,Needs suspension tuning.
-H0439,V041,2025-07-01 15:18:00,6.5,6.8,Vibrations felt on steering wheel.
-H0440,V053,2025-07-01 15:19:00,7.9,9.4,Handles well on rough terrain.
-H0441,V055,2025-07-01 15:20:00,6.3,7.6,Needs suspension tuning.
-H0442,V033,2025-07-01 15:21:00,9.0,7.9,Smooth ride with slight vibrations.
-H0443,V001,2025-07-01 15:22:00,9.1,7.2,Cabin noise higher than expected.
-H0444,V057,2025-07-01 15:23:00,5.3,5.9,Vibrations felt on steering wheel.
-H0445,V008,2025-07-01 15:24:00,5.2,5.5,Vibrations felt on steering wheel.
-H0446,V090,2025-07-01 15:25:00,6.2,7.7,Vibrations felt on steering wheel.
-H0447,V093,2025-07-01 15:26:00,9.7,5.1,Smooth ride with slight vibrations.
-H0448,V081,2025-07-01 15:27:00,8.5,6.2,Vibrations felt on steering wheel.
-H0449,V059,2025-07-01 15:28:00,9.9,6.3,Vibrations felt on steering wheel.
-H0450,V088,2025-07-01 15:29:00,9.1,9.7,Vibrations felt on steering wheel.
-H0451,V047,2025-07-01 15:30:00,5.8,8.4,Great handling in wet conditions.
-H0452,V023,2025-07-01 15:31:00,6.0,7.8,Handles well on rough terrain.
-H0453,V006,2025-07-01 15:32:00,5.5,5.9,Needs suspension tuning.
-H0454,V074,2025-07-01 15:33:00,9.3,5.4,Needs suspension tuning.
-H0455,V066,2025-07-01 15:34:00,6.4,8.1,Great handling in wet conditions.
-H0456,V021,2025-07-01 15:35:00,7.4,5.7,Comfortable and quiet.
-H0457,V048,2025-07-01 15:36:00,9.4,7.0,Cabin noise higher than expected.
-H0458,V063,2025-07-01 15:37:00,7.2,6.9,Handles well on rough terrain.
-H0459,V021,2025-07-01 15:38:00,8.0,5.4,Handles well on rough terrain.
-H0460,V076,2025-07-01 15:39:00,8.5,9.6,Handles well on rough terrain.
-H0461,V004,2025-07-01 15:40:00,9.8,8.7,Great handling in wet conditions.
-H0462,V055,2025-07-01 15:41:00,9.2,6.5,Smooth ride with slight vibrations.
-H0463,V079,2025-07-01 15:42:00,9.7,7.3,Cabin noise higher than expected.
-H0464,V073,2025-07-01 15:43:00,9.7,8.8,Smooth ride with slight vibrations.
-H0465,V009,2025-07-01 15:44:00,5.3,8.8,Needs suspension tuning.
-H0466,V065,2025-07-01 15:45:00,8.9,9.3,Handles well on rough terrain.
-H0467,V028,2025-07-01 15:46:00,8.4,5.7,Handles well on rough terrain.
-H0468,V046,2025-07-01 15:47:00,9.8,7.4,Noticeable noise from tires.
-H0469,V068,2025-07-01 15:48:00,7.1,5.1,Noticeable noise from tires.
-H0470,V005,2025-07-01 15:49:00,6.8,8.6,Noticeable noise from tires.
-H0471,V013,2025-07-01 15:50:00,5.2,9.2,Great handling in wet conditions.
-H0472,V096,2025-07-01 15:51:00,8.9,6.2,Needs suspension tuning.
-H0473,V039,2025-07-01 15:52:00,8.8,5.4,Comfortable and quiet.
-H0474,V069,2025-07-01 15:53:00,9.2,6.5,Handles well on rough terrain.
-H0475,V070,2025-07-01 15:54:00,7.2,6.0,Comfortable and quiet.
-H0476,V008,2025-07-01 15:55:00,5.7,8.3,Noticeable noise from tires.
-H0477,V033,2025-07-01 15:56:00,5.5,6.7,Noticeable noise from tires.
-H0478,V075,2025-07-01 15:57:00,5.2,8.8,Cabin noise higher than expected.
-H0479,V045,2025-07-01 15:58:00,5.2,9.3,Vibrations felt on steering wheel.
-H0480,V086,2025-07-01 15:59:00,8.1,9.1,Needs suspension tuning.
-H0481,V079,2025-07-01 16:00:00,8.7,7.2,Needs suspension tuning.
-H0482,V065,2025-07-01 16:01:00,5.9,5.7,Noticeable noise from tires.
-H0483,V074,2025-07-01 16:02:00,8.3,5.4,Great handling in wet conditions.
-H0484,V096,2025-07-01 16:03:00,9.7,5.4,Cabin noise higher than expected.
-H0485,V062,2025-07-01 16:04:00,7.7,5.4,Cabin noise higher than expected.
-H0486,V079,2025-07-01 16:05:00,9.4,8.7,Smooth ride with slight vibrations.
-H0487,V065,2025-07-01 16:06:00,5.5,8.1,Vibrations felt on steering wheel.
-H0488,V097,2025-07-01 16:07:00,8.3,6.5,Cabin noise higher than expected.
-H0489,V041,2025-07-01 16:08:00,8.1,9.8,Vibrations felt on steering wheel.
-H0490,V058,2025-07-01 16:09:00,7.3,8.2,Needs suspension tuning.
-H0491,V054,2025-07-01 16:10:00,5.3,6.7,Smooth ride with slight vibrations.
-H0492,V080,2025-07-01 16:11:00,5.4,8.9,Cabin noise higher than expected.
-H0493,V062,2025-07-01 16:12:00,9.3,9.7,Comfortable and quiet.
-H0494,V015,2025-07-01 16:13:00,5.6,7.3,Handles well on rough terrain.
-H0495,V092,2025-07-01 16:14:00,5.3,9.8,Great handling in wet conditions.
-H0496,V100,2025-07-01 16:15:00,9.2,6.9,Needs suspension tuning.
-H0497,V075,2025-07-01 16:16:00,9.6,7.4,Vibrations felt on steering wheel.
-H0498,V017,2025-07-01 16:17:00,9.7,5.3,Cabin noise higher than expected.
-H0499,V098,2025-07-01 16:18:00,7.1,9.9,Smooth ride with slight vibrations.
-H0500,V013,2025-07-01 16:19:00,7.5,9.5,Great handling in wet conditions.
-H0501,V032,2025-07-01 16:20:00,6.4,5.5,Great handling in wet conditions.
-H0502,V053,2025-07-01 16:21:00,6.6,6.3,Smooth ride with slight vibrations.
-H0503,V065,2025-07-01 16:22:00,7.1,5.3,Handles well on rough terrain.
-H0504,V042,2025-07-01 16:23:00,5.3,7.9,Handles well on rough terrain.
-H0505,V012,2025-07-01 16:24:00,7.5,7.9,Vibrations felt on steering wheel.
-H0506,V022,2025-07-01 16:25:00,9.4,9.3,Noticeable noise from tires.
-H0507,V022,2025-07-01 16:26:00,5.2,5.1,Vibrations felt on steering wheel.
-H0508,V030,2025-07-01 16:27:00,5.8,7.9,Great handling in wet conditions.
-H0509,V012,2025-07-01 16:28:00,9.6,9.2,Handles well on rough terrain.
-H0510,V041,2025-07-01 16:29:00,7.2,7.6,Great handling in wet conditions.
-H0511,V056,2025-07-01 16:30:00,10.0,7.2,Needs suspension tuning.
-H0512,V016,2025-07-01 16:31:00,9.7,9.6,Cabin noise higher than expected.
-H0513,V073,2025-07-01 16:32:00,8.5,8.0,Cabin noise higher than expected.
-H0514,V070,2025-07-01 16:33:00,8.9,7.8,Great handling in wet conditions.
-H0515,V004,2025-07-01 16:34:00,7.9,5.5,Needs suspension tuning.
-H0516,V073,2025-07-01 16:35:00,7.7,7.8,Vibrations felt on steering wheel.
-H0517,V012,2025-07-01 16:36:00,8.2,9.4,Vibrations felt on steering wheel.
-H0518,V021,2025-07-01 16:37:00,9.2,6.8,Smooth ride with slight vibrations.
-H0519,V035,2025-07-01 16:38:00,5.3,9.0,Cabin noise higher than expected.
-H0520,V010,2025-07-01 16:39:00,8.0,8.6,Handles well on rough terrain.
-H0521,V029,2025-07-01 16:40:00,9.2,8.0,Needs suspension tuning.
-H0522,V021,2025-07-01 16:41:00,5.8,7.2,Noticeable noise from tires.
-H0523,V002,2025-07-01 16:42:00,6.4,7.3,Great handling in wet conditions.
-H0524,V057,2025-07-01 16:43:00,8.5,9.0,Smooth ride with slight vibrations.
-H0525,V063,2025-07-01 16:44:00,5.1,9.4,Comfortable and quiet.
-H0526,V046,2025-07-01 16:45:00,5.6,5.3,Handles well on rough terrain.
-H0527,V089,2025-07-01 16:46:00,5.6,6.1,Comfortable and quiet.
-H0528,V049,2025-07-01 16:47:00,8.1,7.3,Noticeable noise from tires.
-H0529,V001,2025-07-01 16:48:00,6.8,7.3,Cabin noise higher than expected.
-H0530,V027,2025-07-01 16:49:00,5.6,5.7,Vibrations felt on steering wheel.
-H0531,V021,2025-07-01 16:50:00,7.9,5.7,Handles well on rough terrain.
-H0532,V007,2025-07-01 16:51:00,9.7,7.9,Vibrations felt on steering wheel.
-H0533,V053,2025-07-01 16:52:00,7.7,5.4,Needs suspension tuning.
-H0534,V024,2025-07-01 16:53:00,9.2,7.3,Vibrations felt on steering wheel.
-H0535,V032,2025-07-01 16:54:00,6.7,7.5,Great handling in wet conditions.
-H0536,V041,2025-07-01 16:55:00,7.8,9.1,Cabin noise higher than expected.
-H0537,V071,2025-07-01 16:56:00,5.6,6.1,Vibrations felt on steering wheel.
-H0538,V076,2025-07-01 16:57:00,7.4,5.4,Comfortable and quiet.
-H0539,V052,2025-07-01 16:58:00,6.2,8.3,Comfortable and quiet.
-H0540,V037,2025-07-01 16:59:00,5.9,8.4,Comfortable and quiet.
-H0541,V078,2025-07-01 17:00:00,8.1,9.3,Great handling in wet conditions.
-H0542,V082,2025-07-01 17:01:00,9.9,6.9,Needs suspension tuning.
-H0543,V062,2025-07-01 17:02:00,6.0,7.3,Noticeable noise from tires.
-H0544,V079,2025-07-01 17:03:00,5.8,9.1,Vibrations felt on steering wheel.
-H0545,V032,2025-07-01 17:04:00,7.5,9.1,Cabin noise higher than expected.
-H0546,V020,2025-07-01 17:05:00,5.5,9.8,Cabin noise higher than expected.
-H0547,V096,2025-07-01 17:06:00,9.7,9.7,Great handling in wet conditions.
-H0548,V019,2025-07-01 17:07:00,8.6,9.8,Cabin noise higher than expected.
-H0549,V043,2025-07-01 17:08:00,9.3,5.7,Noticeable noise from tires.
-H0550,V086,2025-07-01 17:09:00,5.0,8.0,Needs suspension tuning.
-H0551,V038,2025-07-01 17:10:00,6.3,8.6,Noticeable noise from tires.
-H0552,V078,2025-07-01 17:11:00,9.5,8.2,Cabin noise higher than expected.
-H0553,V067,2025-07-01 17:12:00,6.2,6.3,Cabin noise higher than expected.
-H0554,V009,2025-07-01 17:13:00,6.3,7.6,Noticeable noise from tires.
-H0555,V034,2025-07-01 17:14:00,7.7,6.3,Needs suspension tuning.
-H0556,V050,2025-07-01 17:15:00,8.1,6.6,Handles well on rough terrain.
-H0557,V067,2025-07-01 17:16:00,8.4,6.1,Handles well on rough terrain.
-H0558,V057,2025-07-01 17:17:00,6.0,8.9,Needs suspension tuning.
-H0559,V073,2025-07-01 17:18:00,5.7,8.3,Great handling in wet conditions.
-H0560,V021,2025-07-01 17:19:00,8.0,8.0,Vibrations felt on steering wheel.
-H0561,V053,2025-07-01 17:20:00,5.3,5.3,Smooth ride with slight vibrations.
-H0562,V027,2025-07-01 17:21:00,6.4,6.7,Noticeable noise from tires.
-H0563,V069,2025-07-01 17:22:00,8.7,6.8,Vibrations felt on steering wheel.
-H0564,V065,2025-07-01 17:23:00,6.1,8.2,Smooth ride with slight vibrations.
-H0565,V036,2025-07-01 17:24:00,10.0,9.4,Handles well on rough terrain.
-H0566,V045,2025-07-01 17:25:00,5.1,9.5,Noticeable noise from tires.
-H0567,V085,2025-07-01 17:26:00,8.6,7.5,Cabin noise higher than expected.
-H0568,V068,2025-07-01 17:27:00,7.8,5.9,Noticeable noise from tires.
-H0569,V088,2025-07-01 17:28:00,5.8,8.3,Needs suspension tuning.
-H0570,V012,2025-07-01 17:29:00,5.4,9.1,Needs suspension tuning.
-H0571,V066,2025-07-01 17:30:00,6.5,6.0,Needs suspension tuning.
-H0572,V099,2025-07-01 17:31:00,5.1,8.8,Noticeable noise from tires.
-H0573,V049,2025-07-01 17:32:00,9.1,8.9,Comfortable and quiet.
-H0574,V087,2025-07-01 17:33:00,6.6,9.7,Smooth ride with slight vibrations.
-H0575,V087,2025-07-01 17:34:00,8.5,9.0,Vibrations felt on steering wheel.
-H0576,V061,2025-07-01 17:35:00,7.8,7.8,Smooth ride with slight vibrations.
-H0577,V050,2025-07-01 17:36:00,8.1,7.1,Vibrations felt on steering wheel.
-H0578,V041,2025-07-01 17:37:00,5.8,7.3,Handles well on rough terrain.
-H0579,V030,2025-07-01 17:38:00,9.0,7.0,Needs suspension tuning.
-H0580,V048,2025-07-01 17:39:00,6.0,9.5,Great handling in wet conditions.
-H0581,V100,2025-07-01 17:40:00,6.3,6.4,Handles well on rough terrain.
-H0582,V069,2025-07-01 17:41:00,6.6,8.8,Great handling in wet conditions.
-H0583,V075,2025-07-01 17:42:00,7.8,9.7,Smooth ride with slight vibrations.
-H0584,V038,2025-07-01 17:43:00,9.8,8.4,Comfortable and quiet.
-H0585,V049,2025-07-01 17:44:00,6.0,6.8,Cabin noise higher than expected.
-H0586,V059,2025-07-01 17:45:00,8.2,6.8,Needs suspension tuning.
-H0587,V079,2025-07-01 17:46:00,5.8,10.0,Vibrations felt on steering wheel.
-H0588,V042,2025-07-01 17:47:00,9.3,5.5,Cabin noise higher than expected.
-H0589,V038,2025-07-01 17:48:00,6.2,5.6,Cabin noise higher than expected.
-H0590,V054,2025-07-01 17:49:00,8.6,9.5,Comfortable and quiet.
-H0591,V018,2025-07-01 17:50:00,5.8,8.0,Great handling in wet conditions.
-H0592,V066,2025-07-01 17:51:00,7.6,6.9,Comfortable and quiet.
-H0593,V063,2025-07-01 17:52:00,5.4,5.1,Noticeable noise from tires.
-H0594,V025,2025-07-01 17:53:00,9.2,5.6,Noticeable noise from tires.
-H0595,V018,2025-07-01 17:54:00,6.2,8.6,Handles well on rough terrain.
-H0596,V060,2025-07-01 17:55:00,6.7,7.4,Handles well on rough terrain.
-H0597,V014,2025-07-01 17:56:00,5.5,5.3,Smooth ride with slight vibrations.
-H0598,V012,2025-07-01 17:57:00,5.3,7.0,Comfortable and quiet.
-H0599,V022,2025-07-01 17:58:00,6.1,6.2,Handles well on rough terrain.
-H0600,V017,2025-07-01 17:59:00,8.3,6.7,Smooth ride with slight vibrations.
-H0601,V074,2025-07-01 18:00:00,9.3,5.1,Handles well on rough terrain.
-H0602,V068,2025-07-01 18:01:00,5.4,9.6,Vibrations felt on steering wheel.
-H0603,V053,2025-07-01 18:02:00,8.4,6.4,Needs suspension tuning.
-H0604,V050,2025-07-01 18:03:00,8.6,6.2,Cabin noise higher than expected.
-H0605,V027,2025-07-01 18:04:00,8.6,8.3,Comfortable and quiet.
-H0606,V014,2025-07-01 18:05:00,9.9,7.7,Handles well on rough terrain.
-H0607,V095,2025-07-01 18:06:00,5.5,5.8,Vibrations felt on steering wheel.
-H0608,V029,2025-07-01 18:07:00,5.5,8.8,Cabin noise higher than expected.
-H0609,V022,2025-07-01 18:08:00,6.8,7.2,Great handling in wet conditions.
-H0610,V034,2025-07-01 18:09:00,8.5,7.7,Vibrations felt on steering wheel.
-H0611,V044,2025-07-01 18:10:00,5.4,5.7,Needs suspension tuning.
-H0612,V094,2025-07-01 18:11:00,5.8,9.6,Comfortable and quiet.
-H0613,V063,2025-07-01 18:12:00,5.5,9.9,Great handling in wet conditions.
-H0614,V076,2025-07-01 18:13:00,7.6,9.2,Smooth ride with slight vibrations.
-H0615,V034,2025-07-01 18:14:00,5.1,8.0,Needs suspension tuning.
-H0616,V081,2025-07-01 18:15:00,5.2,9.8,Vibrations felt on steering wheel.
-H0617,V055,2025-07-01 18:16:00,6.1,6.5,Handles well on rough terrain.
-H0618,V099,2025-07-01 18:17:00,9.6,8.7,Comfortable and quiet.
-H0619,V001,2025-07-01 18:18:00,6.7,5.8,Great handling in wet conditions.
-H0620,V054,2025-07-01 18:19:00,7.4,8.7,Noticeable noise from tires.
-H0621,V020,2025-07-01 18:20:00,6.3,8.2,Smooth ride with slight vibrations.
-H0622,V001,2025-07-01 18:21:00,6.4,6.8,Cabin noise higher than expected.
-H0623,V088,2025-07-01 18:22:00,7.4,9.4,Vibrations felt on steering wheel.
-H0624,V060,2025-07-01 18:23:00,7.2,8.9,Vibrations felt on steering wheel.
-H0625,V066,2025-07-01 18:24:00,9.9,8.3,Needs suspension tuning.
-H0626,V014,2025-07-01 18:25:00,8.1,8.3,Smooth ride with slight vibrations.
-H0627,V016,2025-07-01 18:26:00,8.2,9.3,Handles well on rough terrain.
-H0628,V001,2025-07-01 18:27:00,7.1,6.5,Noticeable noise from tires.
-H0629,V032,2025-07-01 18:28:00,5.8,5.0,Noticeable noise from tires.
-H0630,V011,2025-07-01 18:29:00,6.8,9.0,Great handling in wet conditions.
-H0631,V018,2025-07-01 18:30:00,6.6,5.7,Cabin noise higher than expected.
-H0632,V012,2025-07-01 18:31:00,5.0,7.1,Vibrations felt on steering wheel.
-H0633,V063,2025-07-01 18:32:00,7.6,9.1,Vibrations felt on steering wheel.
-H0634,V018,2025-07-01 18:33:00,8.7,7.3,Cabin noise higher than expected.
-H0635,V094,2025-07-01 18:34:00,7.8,5.0,Smooth ride with slight vibrations.
-H0636,V008,2025-07-01 18:35:00,5.5,6.6,Comfortable and quiet.
-H0637,V042,2025-07-01 18:36:00,6.2,7.0,Cabin noise higher than expected.
-H0638,V058,2025-07-01 18:37:00,6.8,5.5,Great handling in wet conditions.
-H0639,V017,2025-07-01 18:38:00,9.4,9.7,Comfortable and quiet.
-H0640,V100,2025-07-01 18:39:00,6.5,8.9,Needs suspension tuning.
-H0641,V052,2025-07-01 18:40:00,6.3,6.0,Comfortable and quiet.
-H0642,V094,2025-07-01 18:41:00,5.0,5.6,Needs suspension tuning.
-H0643,V055,2025-07-01 18:42:00,9.1,9.9,Noticeable noise from tires.
-H0644,V091,2025-07-01 18:43:00,6.9,6.0,Needs suspension tuning.
-H0645,V095,2025-07-01 18:44:00,8.2,5.4,Comfortable and quiet.
-H0646,V059,2025-07-01 18:45:00,8.3,5.3,Great handling in wet conditions.
-H0647,V018,2025-07-01 18:46:00,7.3,8.2,Handles well on rough terrain.
-H0648,V066,2025-07-01 18:47:00,6.3,9.2,Great handling in wet conditions.
-H0649,V076,2025-07-01 18:48:00,6.7,5.3,Smooth ride with slight vibrations.
-H0650,V023,2025-07-01 18:49:00,6.0,6.9,Smooth ride with slight vibrations.
-H0651,V085,2025-07-01 18:50:00,6.3,8.0,Noticeable noise from tires.
-H0652,V045,2025-07-01 18:51:00,7.1,7.2,Cabin noise higher than expected.
-H0653,V057,2025-07-01 18:52:00,5.2,8.0,Cabin noise higher than expected.
-H0654,V073,2025-07-01 18:53:00,7.9,7.9,Vibrations felt on steering wheel.
-H0655,V010,2025-07-01 18:54:00,7.9,7.4,Great handling in wet conditions.
-H0656,V045,2025-07-01 18:55:00,8.3,7.3,Handles well on rough terrain.
-H0657,V086,2025-07-01 18:56:00,8.4,5.7,Noticeable noise from tires.
-H0658,V018,2025-07-01 18:57:00,7.5,5.3,Great handling in wet conditions.
-H0659,V003,2025-07-01 18:58:00,9.7,6.0,Handles well on rough terrain.
-H0660,V027,2025-07-01 18:59:00,6.7,7.6,Smooth ride with slight vibrations.
-H0661,V077,2025-07-01 19:00:00,6.8,5.3,Smooth ride with slight vibrations.
-H0662,V092,2025-07-01 19:01:00,5.3,9.3,Handles well on rough terrain.
-H0663,V005,2025-07-01 19:02:00,5.7,5.8,Handles well on rough terrain.
-H0664,V070,2025-07-01 19:03:00,6.8,8.2,Vibrations felt on steering wheel.
-H0665,V062,2025-07-01 19:04:00,8.1,8.8,Needs suspension tuning.
-H0666,V018,2025-07-01 19:05:00,9.3,6.7,Cabin noise higher than expected.
-H0667,V079,2025-07-01 19:06:00,9.5,7.8,Comfortable and quiet.
-H0668,V040,2025-07-01 19:07:00,8.9,6.2,Smooth ride with slight vibrations.
-H0669,V096,2025-07-01 19:08:00,8.9,5.9,Handles well on rough terrain.
-H0670,V070,2025-07-01 19:09:00,6.1,5.9,Handles well on rough terrain.
-H0671,V091,2025-07-01 19:10:00,7.1,9.7,Great handling in wet conditions.
-H0672,V011,2025-07-01 19:11:00,9.4,7.4,Vibrations felt on steering wheel.
-H0673,V049,2025-07-01 19:12:00,8.6,9.5,Smooth ride with slight vibrations.
-H0674,V050,2025-07-01 19:13:00,5.4,7.4,Comfortable and quiet.
-H0675,V039,2025-07-01 19:14:00,7.7,5.7,Noticeable noise from tires.
-H0676,V047,2025-07-01 19:15:00,5.4,6.6,Smooth ride with slight vibrations.
-H0677,V021,2025-07-01 19:16:00,9.9,6.9,Smooth ride with slight vibrations.
-H0678,V082,2025-07-01 19:17:00,9.6,6.1,Comfortable and quiet.
-H0679,V053,2025-07-01 19:18:00,9.2,6.8,Great handling in wet conditions.
-H0680,V022,2025-07-01 19:19:00,6.1,5.5,Comfortable and quiet.
-H0681,V001,2025-07-01 19:20:00,6.2,7.9,Smooth ride with slight vibrations.
-H0682,V034,2025-07-01 19:21:00,8.4,6.9,Vibrations felt on steering wheel.
-H0683,V093,2025-07-01 19:22:00,6.8,6.6,Needs suspension tuning.
-H0684,V044,2025-07-01 19:23:00,8.1,6.2,Needs suspension tuning.
-H0685,V017,2025-07-01 19:24:00,8.0,7.7,Vibrations felt on steering wheel.
-H0686,V012,2025-07-01 19:25:00,9.1,7.8,Smooth ride with slight vibrations.
-H0687,V011,2025-07-01 19:26:00,8.6,8.8,Great handling in wet conditions.
-H0688,V095,2025-07-01 19:27:00,9.0,8.3,Handles well on rough terrain.
-H0689,V092,2025-07-01 19:28:00,9.9,7.6,Smooth ride with slight vibrations.
-H0690,V096,2025-07-01 19:29:00,9.9,6.5,Comfortable and quiet.
-H0691,V074,2025-07-01 19:30:00,5.9,9.6,Needs suspension tuning.
-H0692,V078,2025-07-01 19:31:00,6.3,9.1,Noticeable noise from tires.
-H0693,V092,2025-07-01 19:32:00,6.3,5.8,Cabin noise higher than expected.
-H0694,V010,2025-07-01 19:33:00,7.4,6.6,Handles well on rough terrain.
-H0695,V035,2025-07-01 19:34:00,5.3,8.4,Needs suspension tuning.
-H0696,V091,2025-07-01 19:35:00,7.5,7.8,Needs suspension tuning.
-H0697,V027,2025-07-01 19:36:00,5.3,7.5,Cabin noise higher than expected.
-H0698,V083,2025-07-01 19:37:00,8.2,8.5,Vibrations felt on steering wheel.
-H0699,V035,2025-07-01 19:38:00,6.6,5.0,Needs suspension tuning.
-H0700,V027,2025-07-01 19:39:00,8.9,6.1,Noticeable noise from tires.
-H0701,V030,2025-07-01 19:40:00,5.4,9.4,Handles well on rough terrain.
-H0702,V016,2025-07-01 19:41:00,6.2,7.9,Great handling in wet conditions.
-H0703,V074,2025-07-01 19:42:00,9.6,8.5,Comfortable and quiet.
-H0704,V075,2025-07-01 19:43:00,9.7,6.1,Smooth ride with slight vibrations.
-H0705,V071,2025-07-01 19:44:00,9.3,7.2,Handles well on rough terrain.
-H0706,V001,2025-07-01 19:45:00,9.0,5.6,Smooth ride with slight vibrations.
-H0707,V076,2025-07-01 19:46:00,7.8,9.3,Handles well on rough terrain.
-H0708,V098,2025-07-01 19:47:00,5.1,5.5,Vibrations felt on steering wheel.
-H0709,V014,2025-07-01 19:48:00,5.3,5.3,Great handling in wet conditions.
-H0710,V017,2025-07-01 19:49:00,9.6,5.7,Great handling in wet conditions.
-H0711,V003,2025-07-01 19:50:00,9.1,8.1,Needs suspension tuning.
-H0712,V020,2025-07-01 19:51:00,6.0,6.2,Needs suspension tuning.
-H0713,V070,2025-07-01 19:52:00,8.4,9.8,Cabin noise higher than expected.
-H0714,V050,2025-07-01 19:53:00,9.0,8.2,Needs suspension tuning.
-H0715,V047,2025-07-01 19:54:00,7.7,7.9,Cabin noise higher than expected.
-H0716,V096,2025-07-01 19:55:00,7.7,8.6,Comfortable and quiet.
-H0717,V064,2025-07-01 19:56:00,5.9,6.0,Needs suspension tuning.
-H0718,V031,2025-07-01 19:57:00,7.7,6.7,Needs suspension tuning.
-H0719,V087,2025-07-01 19:58:00,7.8,5.3,Cabin noise higher than expected.
-H0720,V031,2025-07-01 19:59:00,7.0,9.8,Smooth ride with slight vibrations.
-H0721,V061,2025-07-01 20:00:00,8.2,8.3,Smooth ride with slight vibrations.
-H0722,V008,2025-07-01 20:01:00,8.4,7.8,Great handling in wet conditions.
-H0723,V034,2025-07-01 20:02:00,9.9,8.7,Great handling in wet conditions.
-H0724,V091,2025-07-01 20:03:00,5.6,6.8,Great handling in wet conditions.
-H0725,V023,2025-07-01 20:04:00,6.5,7.9,Handles well on rough terrain.
-H0726,V041,2025-07-01 20:05:00,6.6,9.4,Needs suspension tuning.
-H0727,V020,2025-07-01 20:06:00,6.1,9.9,Vibrations felt on steering wheel.
-H0728,V037,2025-07-01 20:07:00,9.0,6.9,Noticeable noise from tires.
-H0729,V051,2025-07-01 20:08:00,7.7,9.9,Great handling in wet conditions.
-H0730,V086,2025-07-01 20:09:00,6.7,7.4,Needs suspension tuning.
-H0731,V091,2025-07-01 20:10:00,9.6,8.6,Vibrations felt on steering wheel.
-H0732,V067,2025-07-01 20:11:00,5.5,7.8,Handles well on rough terrain.
-H0733,V050,2025-07-01 20:12:00,9.1,5.5,Great handling in wet conditions.
-H0734,V026,2025-07-01 20:13:00,9.9,8.4,Cabin noise higher than expected.
-H0735,V059,2025-07-01 20:14:00,7.3,5.8,Handles well on rough terrain.
-H0736,V022,2025-07-01 20:15:00,5.4,5.8,Smooth ride with slight vibrations.
-H0737,V069,2025-07-01 20:16:00,5.6,10.0,Great handling in wet conditions.
-H0738,V070,2025-07-01 20:17:00,5.0,8.9,Cabin noise higher than expected.
-H0739,V100,2025-07-01 20:18:00,5.7,7.8,Handles well on rough terrain.
-H0740,V002,2025-07-01 20:19:00,5.0,8.0,Smooth ride with slight vibrations.
-H0741,V055,2025-07-01 20:20:00,9.3,8.5,Noticeable noise from tires.
-H0742,V078,2025-07-01 20:21:00,10.0,5.1,Cabin noise higher than expected.
-H0743,V009,2025-07-01 20:22:00,7.7,5.1,Comfortable and quiet.
-H0744,V068,2025-07-01 20:23:00,9.9,9.0,Comfortable and quiet.
-H0745,V029,2025-07-01 20:24:00,7.1,8.8,Cabin noise higher than expected.
-H0746,V089,2025-07-01 20:25:00,8.6,5.9,Needs suspension tuning.
-H0747,V020,2025-07-01 20:26:00,6.8,8.0,Cabin noise higher than expected.
-H0748,V072,2025-07-01 20:27:00,5.9,6.8,Cabin noise higher than expected.
-H0749,V100,2025-07-01 20:28:00,9.2,6.7,Needs suspension tuning.
-H0750,V064,2025-07-01 20:29:00,8.3,8.5,Cabin noise higher than expected.
-H0751,V043,2025-07-01 20:30:00,7.9,5.1,Noticeable noise from tires.
-H0752,V012,2025-07-01 20:31:00,5.1,7.7,Great handling in wet conditions.
-H0753,V017,2025-07-01 20:32:00,5.6,6.0,Cabin noise higher than expected.
-H0754,V073,2025-07-01 20:33:00,7.2,6.8,Needs suspension tuning.
-H0755,V074,2025-07-01 20:34:00,7.9,8.7,Noticeable noise from tires.
-H0756,V011,2025-07-01 20:35:00,7.9,9.2,Needs suspension tuning.
-H0757,V039,2025-07-01 20:36:00,5.4,5.6,Vibrations felt on steering wheel.
-H0758,V085,2025-07-01 20:37:00,5.2,5.9,Vibrations felt on steering wheel.
-H0759,V007,2025-07-01 20:38:00,6.8,9.7,Noticeable noise from tires.
-H0760,V083,2025-07-01 20:39:00,7.6,9.9,Vibrations felt on steering wheel.
-H0761,V098,2025-07-01 20:40:00,8.9,8.9,Handles well on rough terrain.
-H0762,V049,2025-07-01 20:41:00,7.4,5.9,Noticeable noise from tires.
-H0763,V046,2025-07-01 20:42:00,8.0,5.9,Needs suspension tuning.
-H0764,V051,2025-07-01 20:43:00,9.4,7.7,Noticeable noise from tires.
-H0765,V005,2025-07-01 20:44:00,9.3,6.3,Handles well on rough terrain.
-H0766,V034,2025-07-01 20:45:00,7.9,9.5,Noticeable noise from tires.
-H0767,V082,2025-07-01 20:46:00,9.9,6.3,Needs suspension tuning.
-H0768,V029,2025-07-01 20:47:00,6.1,7.4,Vibrations felt on steering wheel.
-H0769,V080,2025-07-01 20:48:00,5.1,6.6,Noticeable noise from tires.
-H0770,V004,2025-07-01 20:49:00,7.5,7.7,Vibrations felt on steering wheel.
-H0771,V017,2025-07-01 20:50:00,7.6,5.2,Noticeable noise from tires.
-H0772,V046,2025-07-01 20:51:00,6.6,5.4,Handles well on rough terrain.
-H0773,V040,2025-07-01 20:52:00,8.2,9.5,Great handling in wet conditions.
-H0774,V042,2025-07-01 20:53:00,6.6,5.7,Comfortable and quiet.
-H0775,V037,2025-07-01 20:54:00,8.9,6.7,Great handling in wet conditions.
-H0776,V091,2025-07-01 20:55:00,8.5,9.6,Noticeable noise from tires.
-H0777,V035,2025-07-01 20:56:00,7.5,5.6,Needs suspension tuning.
-H0778,V076,2025-07-01 20:57:00,6.9,6.4,Noticeable noise from tires.
-H0779,V083,2025-07-01 20:58:00,6.8,6.4,Comfortable and quiet.
-H0780,V019,2025-07-01 20:59:00,8.2,6.1,Comfortable and quiet.
-H0781,V078,2025-07-01 21:00:00,6.6,7.2,Comfortable and quiet.
-H0782,V013,2025-07-01 21:01:00,7.3,7.7,Vibrations felt on steering wheel.
-H0783,V001,2025-07-01 21:02:00,8.0,7.5,Comfortable and quiet.
-H0784,V027,2025-07-01 21:03:00,7.1,9.7,Smooth ride with slight vibrations.
-H0785,V095,2025-07-01 21:04:00,8.9,8.1,Great handling in wet conditions.
-H0786,V020,2025-07-01 21:05:00,5.1,7.8,Handles well on rough terrain.
-H0787,V053,2025-07-01 21:06:00,8.2,6.5,Needs suspension tuning.
-H0788,V012,2025-07-01 21:07:00,9.1,8.7,Comfortable and quiet.
-H0789,V053,2025-07-01 21:08:00,5.5,5.3,Smooth ride with slight vibrations.
-H0790,V046,2025-07-01 21:09:00,8.3,6.3,Comfortable and quiet.
-H0791,V067,2025-07-01 21:10:00,7.8,9.6,Vibrations felt on steering wheel.
-H0792,V078,2025-07-01 21:11:00,7.5,7.4,Handles well on rough terrain.
-H0793,V022,2025-07-01 21:12:00,8.9,9.0,Noticeable noise from tires.
-H0794,V017,2025-07-01 21:13:00,7.2,9.7,Comfortable and quiet.
-H0795,V093,2025-07-01 21:14:00,7.2,8.8,Handles well on rough terrain.
-H0796,V050,2025-07-01 21:15:00,8.8,5.0,Handles well on rough terrain.
-H0797,V058,2025-07-01 21:16:00,8.2,9.1,Vibrations felt on steering wheel.
-H0798,V082,2025-07-01 21:17:00,6.1,6.1,Smooth ride with slight vibrations.
-H0799,V013,2025-07-01 21:18:00,5.0,8.8,Needs suspension tuning.
-H0800,V095,2025-07-01 21:19:00,5.7,9.4,Comfortable and quiet.
-H0801,V015,2025-07-01 21:20:00,8.1,7.6,Cabin noise higher than expected.
-H0802,V033,2025-07-01 21:21:00,7.4,9.4,Cabin noise higher than expected.
-H0803,V088,2025-07-01 21:22:00,6.3,7.0,Smooth ride with slight vibrations.
-H0804,V029,2025-07-01 21:23:00,8.8,7.2,Handles well on rough terrain.
-H0805,V047,2025-07-01 21:24:00,8.9,9.0,Needs suspension tuning.
-H0806,V050,2025-07-01 21:25:00,9.5,6.2,Comfortable and quiet.
-H0807,V050,2025-07-01 21:26:00,6.4,9.5,Great handling in wet conditions.
-H0808,V017,2025-07-01 21:27:00,6.5,6.5,Great handling in wet conditions.
-H0809,V032,2025-07-01 21:28:00,5.1,9.9,Handles well on rough terrain.
-H0810,V008,2025-07-01 21:29:00,6.2,8.1,Cabin noise higher than expected.
-H0811,V097,2025-07-01 21:30:00,9.6,9.8,Vibrations felt on steering wheel.
-H0812,V053,2025-07-01 21:31:00,6.0,6.3,Needs suspension tuning.
-H0813,V050,2025-07-01 21:32:00,6.4,5.9,Needs suspension tuning.
-H0814,V056,2025-07-01 21:33:00,5.7,5.9,Noticeable noise from tires.
-H0815,V090,2025-07-01 21:34:00,8.0,8.0,Handles well on rough terrain.
-H0816,V059,2025-07-01 21:35:00,5.1,6.1,Great handling in wet conditions.
-H0817,V028,2025-07-01 21:36:00,7.0,5.8,Great handling in wet conditions.
-H0818,V054,2025-07-01 21:37:00,7.1,7.9,Smooth ride with slight vibrations.
-H0819,V048,2025-07-01 21:38:00,7.0,6.7,Handles well on rough terrain.
-H0820,V088,2025-07-01 21:39:00,9.6,5.6,Cabin noise higher than expected.
-H0821,V055,2025-07-01 21:40:00,7.3,6.9,Handles well on rough terrain.
-H0822,V042,2025-07-01 21:41:00,6.8,8.1,Handles well on rough terrain.
-H0823,V033,2025-07-01 21:42:00,8.2,5.7,Handles well on rough terrain.
-H0824,V078,2025-07-01 21:43:00,6.8,9.5,Noticeable noise from tires.
-H0825,V090,2025-07-01 21:44:00,5.1,9.6,Needs suspension tuning.
-H0826,V080,2025-07-01 21:45:00,7.7,7.7,Comfortable and quiet.
-H0827,V008,2025-07-01 21:46:00,8.7,8.0,Noticeable noise from tires.
-H0828,V034,2025-07-01 21:47:00,6.8,5.7,Needs suspension tuning.
-H0829,V091,2025-07-01 21:48:00,6.2,7.8,Vibrations felt on steering wheel.
-H0830,V076,2025-07-01 21:49:00,6.1,7.4,Comfortable and quiet.
-H0831,V097,2025-07-01 21:50:00,5.0,7.8,Cabin noise higher than expected.
-H0832,V016,2025-07-01 21:51:00,5.4,9.0,Handles well on rough terrain.
-H0833,V044,2025-07-01 21:52:00,6.0,7.9,Cabin noise higher than expected.
-H0834,V047,2025-07-01 21:53:00,8.6,9.2,Great handling in wet conditions.
-H0835,V060,2025-07-01 21:54:00,9.2,8.0,Needs suspension tuning.
-H0836,V025,2025-07-01 21:55:00,5.2,5.3,Great handling in wet conditions.
-H0837,V068,2025-07-01 21:56:00,5.5,6.4,Vibrations felt on steering wheel.
-H0838,V021,2025-07-01 21:57:00,6.6,6.7,Great handling in wet conditions.
-H0839,V069,2025-07-01 21:58:00,6.7,6.4,Noticeable noise from tires.
-H0840,V012,2025-07-01 21:59:00,7.1,7.3,Cabin noise higher than expected.
-H0841,V096,2025-07-01 22:00:00,5.7,8.2,Needs suspension tuning.
-H0842,V049,2025-07-01 22:01:00,7.2,6.6,Handles well on rough terrain.
-H0843,V089,2025-07-01 22:02:00,8.1,8.3,Great handling in wet conditions.
-H0844,V023,2025-07-01 22:03:00,5.3,5.6,Smooth ride with slight vibrations.
-H0845,V051,2025-07-01 22:04:00,5.1,9.6,Smooth ride with slight vibrations.
-H0846,V044,2025-07-01 22:05:00,7.4,9.4,Handles well on rough terrain.
-H0847,V098,2025-07-01 22:06:00,9.4,8.3,Handles well on rough terrain.
-H0848,V013,2025-07-01 22:07:00,5.4,10.0,Smooth ride with slight vibrations.
-H0849,V001,2025-07-01 22:08:00,5.6,8.2,Needs suspension tuning.
-H0850,V021,2025-07-01 22:09:00,7.7,8.8,Needs suspension tuning.
-H0851,V075,2025-07-01 22:10:00,9.6,9.6,Cabin noise higher than expected.
-H0852,V053,2025-07-01 22:11:00,7.9,6.1,Vibrations felt on steering wheel.
-H0853,V091,2025-07-01 22:12:00,8.5,7.2,Noticeable noise from tires.
-H0854,V025,2025-07-01 22:13:00,6.3,8.7,Cabin noise higher than expected.
-H0855,V050,2025-07-01 22:14:00,9.3,7.8,Great handling in wet conditions.
-H0856,V080,2025-07-01 22:15:00,5.8,9.8,Noticeable noise from tires.
-H0857,V062,2025-07-01 22:16:00,6.7,7.7,Great handling in wet conditions.
-H0858,V042,2025-07-01 22:17:00,8.1,6.2,Cabin noise higher than expected.
-H0859,V047,2025-07-01 22:18:00,6.6,8.8,Noticeable noise from tires.
-H0860,V086,2025-07-01 22:19:00,9.1,6.4,Vibrations felt on steering wheel.
-H0861,V064,2025-07-01 22:20:00,6.9,6.6,Comfortable and quiet.
-H0862,V025,2025-07-01 22:21:00,5.5,7.8,Smooth ride with slight vibrations.
-H0863,V009,2025-07-01 22:22:00,6.3,7.5,Handles well on rough terrain.
-H0864,V023,2025-07-01 22:23:00,8.1,7.4,Vibrations felt on steering wheel.
-H0865,V019,2025-07-01 22:24:00,6.4,8.4,Smooth ride with slight vibrations.
-H0866,V026,2025-07-01 22:25:00,9.7,5.9,Noticeable noise from tires.
-H0867,V022,2025-07-01 22:26:00,6.7,5.6,Handles well on rough terrain.
-H0868,V031,2025-07-01 22:27:00,6.6,6.7,Handles well on rough terrain.
-H0869,V054,2025-07-01 22:28:00,5.7,9.0,Vibrations felt on steering wheel.
-H0870,V042,2025-07-01 22:29:00,9.7,7.5,Handles well on rough terrain.
-H0871,V050,2025-07-01 22:30:00,5.9,8.9,Handles well on rough terrain.
-H0872,V044,2025-07-01 22:31:00,5.3,9.1,Smooth ride with slight vibrations.
-H0873,V097,2025-07-01 22:32:00,9.8,5.4,Great handling in wet conditions.
-H0874,V093,2025-07-01 22:33:00,7.8,7.6,Cabin noise higher than expected.
-H0875,V045,2025-07-01 22:34:00,9.2,6.7,Smooth ride with slight vibrations.
-H0876,V075,2025-07-01 22:35:00,6.4,5.5,Vibrations felt on steering wheel.
-H0877,V011,2025-07-01 22:36:00,8.8,5.4,Handles well on rough terrain.
-H0878,V010,2025-07-01 22:37:00,6.2,5.7,Handles well on rough terrain.
-H0879,V071,2025-07-01 22:38:00,9.2,5.0,Comfortable and quiet.
-H0880,V075,2025-07-01 22:39:00,8.4,7.0,Smooth ride with slight vibrations.
-H0881,V035,2025-07-01 22:40:00,7.5,6.6,Great handling in wet conditions.
-H0882,V019,2025-07-01 22:41:00,7.2,9.9,Smooth ride with slight vibrations.
-H0883,V080,2025-07-01 22:42:00,6.6,6.7,Comfortable and quiet.
-H0884,V014,2025-07-01 22:43:00,5.3,9.1,Handles well on rough terrain.
-H0885,V033,2025-07-01 22:44:00,7.9,7.4,Great handling in wet conditions.
-H0886,V088,2025-07-01 22:45:00,5.3,7.2,Great handling in wet conditions.
-H0887,V003,2025-07-01 22:46:00,9.1,7.4,Cabin noise higher than expected.
-H0888,V008,2025-07-01 22:47:00,6.2,6.7,Great handling in wet conditions.
-H0889,V095,2025-07-01 22:48:00,8.5,7.5,Smooth ride with slight vibrations.
-H0890,V049,2025-07-01 22:49:00,6.1,6.1,Smooth ride with slight vibrations.
-H0891,V066,2025-07-01 22:50:00,9.0,7.7,Cabin noise higher than expected.
-H0892,V099,2025-07-01 22:51:00,5.1,6.9,Great handling in wet conditions.
-H0893,V066,2025-07-01 22:52:00,8.9,7.1,Noticeable noise from tires.
-H0894,V096,2025-07-01 22:53:00,9.8,9.9,Comfortable and quiet.
-H0895,V023,2025-07-01 22:54:00,8.9,6.1,Noticeable noise from tires.
-H0896,V086,2025-07-01 22:55:00,9.5,8.0,Great handling in wet conditions.
-H0897,V014,2025-07-01 22:56:00,5.8,6.4,Smooth ride with slight vibrations.
-H0898,V053,2025-07-01 22:57:00,7.8,9.7,Needs suspension tuning.
-H0899,V015,2025-07-01 22:58:00,9.2,9.7,Comfortable and quiet.
-H0900,V046,2025-07-01 22:59:00,9.6,5.8,Handles well on rough terrain.
-H0901,V034,2025-07-01 23:00:00,9.6,7.8,Needs suspension tuning.
-H0902,V028,2025-07-01 23:01:00,8.7,8.0,Noticeable noise from tires.
-H0903,V046,2025-07-01 23:02:00,5.6,7.8,Vibrations felt on steering wheel.
-H0904,V078,2025-07-01 23:03:00,6.1,7.6,Noticeable noise from tires.
-H0905,V064,2025-07-01 23:04:00,8.6,5.4,Needs suspension tuning.
-H0906,V090,2025-07-01 23:05:00,8.8,5.7,Vibrations felt on steering wheel.
-H0907,V036,2025-07-01 23:06:00,8.6,9.1,Vibrations felt on steering wheel.
-H0908,V057,2025-07-01 23:07:00,6.6,9.7,Noticeable noise from tires.
-H0909,V036,2025-07-01 23:08:00,6.3,10.0,Smooth ride with slight vibrations.
-H0910,V004,2025-07-01 23:09:00,6.4,6.6,Cabin noise higher than expected.
-H0911,V090,2025-07-01 23:10:00,8.0,6.0,Noticeable noise from tires.
-H0912,V011,2025-07-01 23:11:00,9.0,6.7,Great handling in wet conditions.
-H0913,V020,2025-07-01 23:12:00,9.8,7.3,Needs suspension tuning.
-H0914,V018,2025-07-01 23:13:00,6.6,8.3,Smooth ride with slight vibrations.
-H0915,V056,2025-07-01 23:14:00,5.1,5.5,Noticeable noise from tires.
-H0916,V088,2025-07-01 23:15:00,5.0,7.8,Vibrations felt on steering wheel.
-H0917,V091,2025-07-01 23:16:00,7.3,7.5,Comfortable and quiet.
-H0918,V079,2025-07-01 23:17:00,5.1,6.8,Needs suspension tuning.
-H0919,V018,2025-07-01 23:18:00,8.2,5.2,Smooth ride with slight vibrations.
-H0920,V045,2025-07-01 23:19:00,8.9,5.4,Comfortable and quiet.
-H0921,V088,2025-07-01 23:20:00,7.5,6.0,Needs suspension tuning.
-H0922,V081,2025-07-01 23:21:00,7.7,5.6,Vibrations felt on steering wheel.
-H0923,V023,2025-07-01 23:22:00,6.6,10.0,Great handling in wet conditions.
-H0924,V003,2025-07-01 23:23:00,5.8,7.8,Great handling in wet conditions.
-H0925,V021,2025-07-01 23:24:00,6.1,7.5,Handles well on rough terrain.
-H0926,V096,2025-07-01 23:25:00,8.9,8.1,Noticeable noise from tires.
-H0927,V002,2025-07-01 23:26:00,5.3,8.6,Great handling in wet conditions.
-H0928,V047,2025-07-01 23:27:00,7.8,5.1,Smooth ride with slight vibrations.
-H0929,V044,2025-07-01 23:28:00,6.3,5.8,Smooth ride with slight vibrations.
-H0930,V049,2025-07-01 23:29:00,9.1,9.6,Needs suspension tuning.
-H0931,V020,2025-07-01 23:30:00,8.3,7.2,Comfortable and quiet.
-H0932,V090,2025-07-01 23:31:00,5.1,6.5,Cabin noise higher than expected.
-H0933,V075,2025-07-01 23:32:00,5.5,6.3,Needs suspension tuning.
-H0934,V097,2025-07-01 23:33:00,5.2,6.8,Great handling in wet conditions.
-H0935,V089,2025-07-01 23:34:00,5.3,8.4,Handles well on rough terrain.
-H0936,V015,2025-07-01 23:35:00,7.4,7.7,Vibrations felt on steering wheel.
-H0937,V091,2025-07-01 23:36:00,8.2,5.7,Needs suspension tuning.
-H0938,V077,2025-07-01 23:37:00,7.4,7.4,Cabin noise higher than expected.
-H0939,V086,2025-07-01 23:38:00,9.0,9.9,Smooth ride with slight vibrations.
-H0940,V018,2025-07-01 23:39:00,7.7,9.5,Great handling in wet conditions.
-H0941,V033,2025-07-01 23:40:00,6.4,6.8,Needs suspension tuning.
-H0942,V065,2025-07-01 23:41:00,8.2,7.8,Cabin noise higher than expected.
-H0943,V066,2025-07-01 23:42:00,7.0,8.4,Cabin noise higher than expected.
-H0944,V044,2025-07-01 23:43:00,8.1,5.3,Noticeable noise from tires.
-H0945,V056,2025-07-01 23:44:00,10.0,5.8,Smooth ride with slight vibrations.
-H0946,V031,2025-07-01 23:45:00,7.5,5.4,Handles well on rough terrain.
-H0947,V026,2025-07-01 23:46:00,7.7,5.7,Handles well on rough terrain.
-H0948,V095,2025-07-01 23:47:00,8.8,5.1,Noticeable noise from tires.
-H0949,V028,2025-07-01 23:48:00,6.3,5.2,Smooth ride with slight vibrations.
-H0950,V072,2025-07-01 23:49:00,8.3,7.4,Handles well on rough terrain.
-H0951,V067,2025-07-01 23:50:00,8.4,7.7,Noticeable noise from tires.
-H0952,V047,2025-07-01 23:51:00,9.8,6.9,Comfortable and quiet.
-H0953,V026,2025-07-01 23:52:00,7.9,8.5,Noticeable noise from tires.
-H0954,V087,2025-07-01 23:53:00,8.6,5.1,Smooth ride with slight vibrations.
-H0955,V018,2025-07-01 23:54:00,5.1,6.8,Noticeable noise from tires.
-H0956,V062,2025-07-01 23:55:00,5.1,8.1,Cabin noise higher than expected.
-H0957,V043,2025-07-01 23:56:00,8.0,5.6,Great handling in wet conditions.
-H0958,V063,2025-07-01 23:57:00,8.1,5.2,Vibrations felt on steering wheel.
-H0959,V002,2025-07-01 23:58:00,9.7,9.3,Vibrations felt on steering wheel.
-H0960,V046,2025-07-01 23:59:00,9.4,9.0,Great handling in wet conditions.
-H0961,V053,2025-07-02 00:00:00,7.6,7.4,Noticeable noise from tires.
-H0962,V017,2025-07-02 00:01:00,8.1,5.2,Great handling in wet conditions.
-H0963,V084,2025-07-02 00:02:00,6.5,9.7,Smooth ride with slight vibrations.
-H0964,V054,2025-07-02 00:03:00,6.6,10.0,Handles well on rough terrain.
-H0965,V097,2025-07-02 00:04:00,9.3,7.2,Cabin noise higher than expected.
-H0966,V027,2025-07-02 00:05:00,8.1,9.1,Noticeable noise from tires.
-H0967,V036,2025-07-02 00:06:00,5.9,8.1,Noticeable noise from tires.
-H0968,V040,2025-07-02 00:07:00,9.9,8.1,Cabin noise higher than expected.
-H0969,V070,2025-07-02 00:08:00,7.7,6.3,Handles well on rough terrain.
-H0970,V091,2025-07-02 00:09:00,7.9,9.9,Smooth ride with slight vibrations.
-H0971,V071,2025-07-02 00:10:00,7.1,6.3,Needs suspension tuning.
-H0972,V017,2025-07-02 00:11:00,5.3,9.2,Cabin noise higher than expected.
-H0973,V045,2025-07-02 00:12:00,6.0,7.9,Cabin noise higher than expected.
-H0974,V055,2025-07-02 00:13:00,8.5,7.7,Handles well on rough terrain.
-H0975,V003,2025-07-02 00:14:00,6.7,7.0,Cabin noise higher than expected.
-H0976,V093,2025-07-02 00:15:00,7.1,8.9,Smooth ride with slight vibrations.
-H0977,V073,2025-07-02 00:16:00,8.5,9.2,Vibrations felt on steering wheel.
-H0978,V019,2025-07-02 00:17:00,9.3,6.1,Smooth ride with slight vibrations.
-H0979,V003,2025-07-02 00:18:00,6.7,8.2,Comfortable and quiet.
-H0980,V070,2025-07-02 00:19:00,9.3,7.2,Vibrations felt on steering wheel.
-H0981,V059,2025-07-02 00:20:00,9.6,8.2,Great handling in wet conditions.
-H0982,V083,2025-07-02 00:21:00,5.9,8.7,Vibrations felt on steering wheel.
-H0983,V025,2025-07-02 00:22:00,7.9,6.4,Smooth ride with slight vibrations.
-H0984,V068,2025-07-02 00:23:00,5.5,8.5,Vibrations felt on steering wheel.
-H0985,V085,2025-07-02 00:24:00,7.4,7.7,Great handling in wet conditions.
-H0986,V020,2025-07-02 00:25:00,7.9,6.1,Cabin noise higher than expected.
-H0987,V001,2025-07-02 00:26:00,7.6,9.9,Vibrations felt on steering wheel.
-H0988,V001,2025-07-02 00:27:00,6.1,9.9,Comfortable and quiet.
-H0989,V060,2025-07-02 00:28:00,7.4,8.8,Smooth ride with slight vibrations.
-H0990,V050,2025-07-02 00:29:00,8.7,9.7,Needs suspension tuning.
-H0991,V042,2025-07-02 00:30:00,6.5,5.4,Cabin noise higher than expected.
-H0992,V044,2025-07-02 00:31:00,7.7,9.3,Smooth ride with slight vibrations.
-H0993,V017,2025-07-02 00:32:00,5.3,5.4,Cabin noise higher than expected.
-H0994,V052,2025-07-02 00:33:00,7.7,6.9,Handles well on rough terrain.
-H0995,V039,2025-07-02 00:34:00,5.5,8.7,Comfortable and quiet.
-H0996,V023,2025-07-02 00:35:00,9.0,8.5,Smooth ride with slight vibrations.
-H0997,V045,2025-07-02 00:36:00,6.5,6.0,Handles well on rough terrain.
-H0998,V045,2025-07-02 00:37:00,5.5,7.8,Cabin noise higher than expected.
-H0999,V088,2025-07-02 00:38:00,7.9,6.1,Smooth ride with slight vibrations.
-H1000,V057,2025-07-02 00:39:00,7.3,9.5,Smooth ride with slight vibrations.
+H0001,V028,2025-07-01 08:00:00,9.8,9.1,Noticeable noise from tires.
+H0002,V050,2025-07-01 08:01:00,5.0,9.8,Great handling in wet conditions.
+H0003,V040,2025-07-01 08:02:00,8.6,8.2,Noticeable noise from tires.
+H0004,V065,2025-07-01 08:03:00,5.2,6.1,Great handling in wet conditions.
+H0005,V010,2025-07-01 08:04:00,5.1,7.9,Great handling in wet conditions.
+H0006,V031,2025-07-01 08:05:00,7.7,7.7,Handles well on rough terrain.
+H0007,V039,2025-07-01 08:06:00,5.0,7.6,Handles well on rough terrain.
+H0008,V077,2025-07-01 08:07:00,5.3,9.9,Smooth ride with slight vibrations.
+H0009,V002,2025-07-01 08:08:00,5.4,9.3,Handles well on rough terrain.
+H0010,V013,2025-07-01 08:09:00,9.3,6.0,Great handling in wet conditions.
+H0011,V070,2025-07-01 08:10:00,9.1,6.9,Great handling in wet conditions.
+H0012,V094,2025-07-01 08:11:00,7.0,7.8,Handles well on rough terrain.
+H0013,V049,2025-07-01 08:12:00,6.1,7.8,Needs suspension tuning.
+H0014,V040,2025-07-01 08:13:00,5.5,6.3,Cabin noise higher than expected.
+H0015,V051,2025-07-01 08:14:00,5.3,5.2,Handles well on rough terrain.
+H0016,V028,2025-07-01 08:15:00,7.9,9.1,Cabin noise higher than expected.
+H0017,V075,2025-07-01 08:16:00,6.8,5.9,Cabin noise higher than expected.
+H0018,V081,2025-07-01 08:17:00,7.7,5.2,Cabin noise higher than expected.
+H0019,V076,2025-07-01 08:18:00,6.2,5.9,Smooth ride with slight vibrations.
+H0020,V038,2025-07-01 08:19:00,9.2,5.0,Noticeable noise from tires.
+H0021,V032,2025-07-01 08:20:00,5.4,9.1,Great handling in wet conditions.
+H0022,V045,2025-07-01 08:21:00,7.6,9.7,Great handling in wet conditions.
+H0023,V032,2025-07-01 08:22:00,7.3,6.7,Handles well on rough terrain.
+H0024,V036,2025-07-01 08:23:00,8.0,6.0,Noticeable noise from tires.
+H0025,V036,2025-07-01 08:24:00,7.7,7.4,Noticeable noise from tires.
+H0026,V052,2025-07-01 08:25:00,5.3,9.0,Great handling in wet conditions.
+H0027,V022,2025-07-01 08:26:00,9.1,9.9,Smooth ride with slight vibrations.
+H0028,V011,2025-07-01 08:27:00,5.0,9.4,Cabin noise higher than expected.
+H0029,V029,2025-07-01 08:28:00,6.4,6.6,Vibrations felt on steering wheel.
+H0030,V023,2025-07-01 08:29:00,7.4,5.1,Cabin noise higher than expected.
+H0031,V052,2025-07-01 08:30:00,8.3,5.7,Noticeable noise from tires.
+H0032,V033,2025-07-01 08:31:00,6.1,9.7,Vibrations felt on steering wheel.
+H0033,V019,2025-07-01 08:32:00,9.2,5.3,Vibrations felt on steering wheel.
+H0034,V085,2025-07-01 08:33:00,7.6,5.2,Great handling in wet conditions.
+H0035,V023,2025-07-01 08:34:00,6.0,6.2,Cabin noise higher than expected.
+H0036,V010,2025-07-01 08:35:00,8.3,9.4,Noticeable noise from tires.
+H0037,V025,2025-07-01 08:36:00,7.3,5.1,Smooth ride with slight vibrations.
+H0038,V070,2025-07-01 08:37:00,8.5,6.2,Needs suspension tuning.
+H0039,V082,2025-07-01 08:38:00,7.1,9.8,Smooth ride with slight vibrations.
+H0040,V050,2025-07-01 08:39:00,7.4,9.0,Needs suspension tuning.
+H0041,V010,2025-07-01 08:40:00,8.5,8.8,Smooth ride with slight vibrations.
+H0042,V057,2025-07-01 08:41:00,5.9,9.1,Smooth ride with slight vibrations.
+H0043,V089,2025-07-01 08:42:00,6.6,5.8,Handles well on rough terrain.
+H0044,V042,2025-07-01 08:43:00,6.9,6.5,Smooth ride with slight vibrations.
+H0045,V060,2025-07-01 08:44:00,9.7,5.7,Great handling in wet conditions.
+H0046,V028,2025-07-01 08:45:00,8.0,8.7,Vibrations felt on steering wheel.
+H0047,V065,2025-07-01 08:46:00,7.3,5.9,Handles well on rough terrain.
+H0048,V069,2025-07-01 08:47:00,6.9,6.2,Cabin noise higher than expected.
+H0049,V074,2025-07-01 08:48:00,9.3,9.4,Comfortable and quiet.
+H0050,V088,2025-07-01 08:49:00,9.8,9.5,Noticeable noise from tires.
+H0051,V069,2025-07-01 08:50:00,5.1,5.1,Needs suspension tuning.
+H0052,V047,2025-07-01 08:51:00,6.0,8.5,Comfortable and quiet.
+H0053,V067,2025-07-01 08:52:00,9.0,7.1,Handles well on rough terrain.
+H0054,V058,2025-07-01 08:53:00,9.8,9.7,Comfortable and quiet.
+H0055,V085,2025-07-01 08:54:00,6.4,5.2,Cabin noise higher than expected.
+H0056,V043,2025-07-01 08:55:00,6.3,9.5,Comfortable and quiet.
+H0057,V090,2025-07-01 08:56:00,6.1,10.0,Smooth ride with slight vibrations.
+H0058,V091,2025-07-01 08:57:00,7.5,8.6,Vibrations felt on steering wheel.
+H0059,V018,2025-07-01 08:58:00,5.8,8.1,Handles well on rough terrain.
+H0060,V099,2025-07-01 08:59:00,9.1,5.7,Comfortable and quiet.
+H0061,V093,2025-07-01 09:00:00,5.7,9.5,Comfortable and quiet.
+H0062,V069,2025-07-01 09:01:00,7.7,8.3,Great handling in wet conditions.
+H0063,V046,2025-07-01 09:02:00,9.4,8.4,Smooth ride with slight vibrations.
+H0064,V020,2025-07-01 09:03:00,7.7,5.3,Needs suspension tuning.
+H0065,V021,2025-07-01 09:04:00,5.0,9.7,Noticeable noise from tires.
+H0066,V094,2025-07-01 09:05:00,9.8,6.4,Needs suspension tuning.
+H0067,V021,2025-07-01 09:06:00,5.8,7.2,Vibrations felt on steering wheel.
+H0068,V049,2025-07-01 09:07:00,5.2,8.6,Cabin noise higher than expected.
+H0069,V058,2025-07-01 09:08:00,7.7,5.9,Needs suspension tuning.
+H0070,V024,2025-07-01 09:09:00,7.3,8.5,Vibrations felt on steering wheel.
+H0071,V098,2025-07-01 09:10:00,5.1,6.7,Noticeable noise from tires.
+H0072,V023,2025-07-01 09:11:00,6.2,5.3,Vibrations felt on steering wheel.
+H0073,V083,2025-07-01 09:12:00,7.5,7.5,Comfortable and quiet.
+H0074,V078,2025-07-01 09:13:00,7.1,7.5,Vibrations felt on steering wheel.
+H0075,V071,2025-07-01 09:14:00,5.1,7.4,Cabin noise higher than expected.
+H0076,V086,2025-07-01 09:15:00,8.0,7.0,Noticeable noise from tires.
+H0077,V043,2025-07-01 09:16:00,8.2,10.0,Great handling in wet conditions.
+H0078,V092,2025-07-01 09:17:00,7.7,6.5,Vibrations felt on steering wheel.
+H0079,V066,2025-07-01 09:18:00,5.6,7.0,Great handling in wet conditions.
+H0080,V092,2025-07-01 09:19:00,5.6,5.1,Handles well on rough terrain.
+H0081,V015,2025-07-01 09:20:00,9.6,8.4,Handles well on rough terrain.
+H0082,V024,2025-07-01 09:21:00,6.1,9.0,Comfortable and quiet.
+H0083,V068,2025-07-01 09:22:00,5.3,8.8,Cabin noise higher than expected.
+H0084,V033,2025-07-01 09:23:00,8.6,9.7,Smooth ride with slight vibrations.
+H0085,V023,2025-07-01 09:24:00,7.5,8.3,Needs suspension tuning.
+H0086,V036,2025-07-01 09:25:00,9.9,7.4,Great handling in wet conditions.
+H0087,V020,2025-07-01 09:26:00,5.6,5.4,Comfortable and quiet.
+H0088,V019,2025-07-01 09:27:00,5.5,6.1,Noticeable noise from tires.
+H0089,V050,2025-07-01 09:28:00,7.9,10.0,Vibrations felt on steering wheel.
+H0090,V098,2025-07-01 09:29:00,6.8,9.4,Cabin noise higher than expected.
+H0091,V061,2025-07-01 09:30:00,8.6,5.2,Comfortable and quiet.
+H0092,V077,2025-07-01 09:31:00,6.0,8.9,Needs suspension tuning.
+H0093,V068,2025-07-01 09:32:00,6.0,6.3,Noticeable noise from tires.
+H0094,V072,2025-07-01 09:33:00,6.6,10.0,Handles well on rough terrain.
+H0095,V034,2025-07-01 09:34:00,9.2,5.2,Comfortable and quiet.
+H0096,V076,2025-07-01 09:35:00,9.1,7.9,Smooth ride with slight vibrations.
+H0097,V066,2025-07-01 09:36:00,7.4,8.2,Smooth ride with slight vibrations.
+H0098,V070,2025-07-01 09:37:00,7.7,9.2,Smooth ride with slight vibrations.
+H0099,V040,2025-07-01 09:38:00,7.0,7.7,Handles well on rough terrain.
+H0100,V063,2025-07-01 09:39:00,8.4,8.9,Needs suspension tuning.
+H0101,V100,2025-07-01 09:40:00,7.3,8.2,Comfortable and quiet.
+H0102,V098,2025-07-01 09:41:00,9.7,5.9,Handles well on rough terrain.
+H0103,V018,2025-07-01 09:42:00,6.5,5.2,Comfortable and quiet.
+H0104,V097,2025-07-01 09:43:00,6.4,7.9,Comfortable and quiet.
+H0105,V085,2025-07-01 09:44:00,9.5,7.7,Comfortable and quiet.
+H0106,V090,2025-07-01 09:45:00,5.5,5.7,Cabin noise higher than expected.
+H0107,V046,2025-07-01 09:46:00,7.8,7.7,Great handling in wet conditions.
+H0108,V085,2025-07-01 09:47:00,9.8,6.3,Vibrations felt on steering wheel.
+H0109,V010,2025-07-01 09:48:00,7.3,8.4,Smooth ride with slight vibrations.
+H0110,V060,2025-07-01 09:49:00,9.2,6.9,Needs suspension tuning.
+H0111,V095,2025-07-01 09:50:00,8.8,5.5,Needs suspension tuning.
+H0112,V003,2025-07-01 09:51:00,6.4,9.0,Vibrations felt on steering wheel.
+H0113,V084,2025-07-01 09:52:00,6.4,9.8,Smooth ride with slight vibrations.
+H0114,V050,2025-07-01 09:53:00,7.7,9.1,Needs suspension tuning.
+H0115,V006,2025-07-01 09:54:00,8.7,6.2,Cabin noise higher than expected.
+H0116,V083,2025-07-01 09:55:00,7.2,7.5,Vibrations felt on steering wheel.
+H0117,V012,2025-07-01 09:56:00,8.2,5.8,Comfortable and quiet.
+H0118,V003,2025-07-01 09:57:00,7.5,7.9,Comfortable and quiet.
+H0119,V087,2025-07-01 09:58:00,7.5,7.3,Comfortable and quiet.
+H0120,V035,2025-07-01 09:59:00,7.4,10.0,Comfortable and quiet.
+H0121,V045,2025-07-01 10:00:00,9.1,8.9,Great handling in wet conditions.
+H0122,V093,2025-07-01 10:01:00,6.6,5.9,Great handling in wet conditions.
+H0123,V008,2025-07-01 10:02:00,5.7,6.7,Vibrations felt on steering wheel.
+H0124,V056,2025-07-01 10:03:00,9.1,10.0,Handles well on rough terrain.
+H0125,V070,2025-07-01 10:04:00,6.5,5.9,Vibrations felt on steering wheel.
+H0126,V072,2025-07-01 10:05:00,7.7,7.7,Great handling in wet conditions.
+H0127,V071,2025-07-01 10:06:00,8.7,6.3,Needs suspension tuning.
+H0128,V069,2025-07-01 10:07:00,7.7,6.6,Noticeable noise from tires.
+H0129,V054,2025-07-01 10:08:00,5.7,5.6,Cabin noise higher than expected.
+H0130,V091,2025-07-01 10:09:00,8.1,7.2,Handles well on rough terrain.
+H0131,V039,2025-07-01 10:10:00,5.2,7.2,Needs suspension tuning.
+H0132,V054,2025-07-01 10:11:00,7.3,9.2,Handles well on rough terrain.
+H0133,V061,2025-07-01 10:12:00,5.8,6.4,Comfortable and quiet.
+H0134,V009,2025-07-01 10:13:00,5.4,5.0,Vibrations felt on steering wheel.
+H0135,V065,2025-07-01 10:14:00,7.7,6.8,Comfortable and quiet.
+H0136,V037,2025-07-01 10:15:00,6.1,7.0,Cabin noise higher than expected.
+H0137,V077,2025-07-01 10:16:00,9.6,5.7,Needs suspension tuning.
+H0138,V088,2025-07-01 10:17:00,8.8,9.2,Comfortable and quiet.
+H0139,V039,2025-07-01 10:18:00,6.6,5.9,Comfortable and quiet.
+H0140,V019,2025-07-01 10:19:00,5.8,9.0,Handles well on rough terrain.
+H0141,V016,2025-07-01 10:20:00,7.8,5.2,Cabin noise higher than expected.
+H0142,V029,2025-07-01 10:21:00,5.3,9.1,Needs suspension tuning.
+H0143,V001,2025-07-01 10:22:00,9.7,5.2,Comfortable and quiet.
+H0144,V060,2025-07-01 10:23:00,7.0,6.3,Great handling in wet conditions.
+H0145,V075,2025-07-01 10:24:00,5.4,9.4,Smooth ride with slight vibrations.
+H0146,V092,2025-07-01 10:25:00,6.9,9.7,Great handling in wet conditions.
+H0147,V044,2025-07-01 10:26:00,5.6,7.9,Needs suspension tuning.
+H0148,V052,2025-07-01 10:27:00,5.2,5.9,Handles well on rough terrain.
+H0149,V018,2025-07-01 10:28:00,8.4,8.2,Handles well on rough terrain.
+H0150,V068,2025-07-01 10:29:00,9.8,8.9,Smooth ride with slight vibrations.
+H0151,V025,2025-07-01 10:30:00,7.4,9.6,Comfortable and quiet.
+H0152,V054,2025-07-01 10:31:00,6.7,9.8,Cabin noise higher than expected.
+H0153,V066,2025-07-01 10:32:00,8.4,7.6,Vibrations felt on steering wheel.
+H0154,V061,2025-07-01 10:33:00,8.2,8.1,Great handling in wet conditions.
+H0155,V010,2025-07-01 10:34:00,8.4,6.2,Comfortable and quiet.
+H0156,V089,2025-07-01 10:35:00,5.8,5.2,Smooth ride with slight vibrations.
+H0157,V085,2025-07-01 10:36:00,7.7,5.9,Cabin noise higher than expected.
+H0158,V059,2025-07-01 10:37:00,8.1,9.1,Smooth ride with slight vibrations.
+H0159,V042,2025-07-01 10:38:00,8.3,9.0,Vibrations felt on steering wheel.
+H0160,V055,2025-07-01 10:39:00,8.7,9.4,Comfortable and quiet.
+H0161,V066,2025-07-01 10:40:00,9.1,8.9,Needs suspension tuning.
+H0162,V001,2025-07-01 10:41:00,5.1,9.1,Smooth ride with slight vibrations.
+H0163,V079,2025-07-01 10:42:00,9.1,6.5,Noticeable noise from tires.
+H0164,V021,2025-07-01 10:43:00,8.6,10.0,Handles well on rough terrain.
+H0165,V092,2025-07-01 10:44:00,7.6,6.3,Noticeable noise from tires.
+H0166,V025,2025-07-01 10:45:00,8.5,6.6,Noticeable noise from tires.
+H0167,V040,2025-07-01 10:46:00,6.5,9.3,Comfortable and quiet.
+H0168,V076,2025-07-01 10:47:00,7.6,6.5,Noticeable noise from tires.
+H0169,V019,2025-07-01 10:48:00,10.0,7.3,Cabin noise higher than expected.
+H0170,V082,2025-07-01 10:49:00,9.3,8.9,Great handling in wet conditions.
+H0171,V055,2025-07-01 10:50:00,9.7,9.6,Great handling in wet conditions.
+H0172,V026,2025-07-01 10:51:00,7.5,6.6,Great handling in wet conditions.
+H0173,V087,2025-07-01 10:52:00,6.4,7.9,Cabin noise higher than expected.
+H0174,V048,2025-07-01 10:53:00,9.9,8.4,Great handling in wet conditions.
+H0175,V021,2025-07-01 10:54:00,6.5,6.1,Noticeable noise from tires.
+H0176,V030,2025-07-01 10:55:00,8.4,9.0,Great handling in wet conditions.
+H0177,V039,2025-07-01 10:56:00,8.3,9.1,Handles well on rough terrain.
+H0178,V060,2025-07-01 10:57:00,9.0,8.7,Vibrations felt on steering wheel.
+H0179,V052,2025-07-01 10:58:00,6.7,5.2,Needs suspension tuning.
+H0180,V056,2025-07-01 10:59:00,9.5,6.5,Handles well on rough terrain.
+H0181,V050,2025-07-01 11:00:00,6.9,6.4,Great handling in wet conditions.
+H0182,V059,2025-07-01 11:01:00,7.0,9.6,Comfortable and quiet.
+H0183,V085,2025-07-01 11:02:00,5.8,7.2,Needs suspension tuning.
+H0184,V090,2025-07-01 11:03:00,5.3,5.6,Needs suspension tuning.
+H0185,V074,2025-07-01 11:04:00,6.4,5.9,Smooth ride with slight vibrations.
+H0186,V048,2025-07-01 11:05:00,5.7,5.2,Cabin noise higher than expected.
+H0187,V052,2025-07-01 11:06:00,7.4,5.1,Noticeable noise from tires.
+H0188,V080,2025-07-01 11:07:00,8.7,9.3,Needs suspension tuning.
+H0189,V022,2025-07-01 11:08:00,5.3,5.8,Needs suspension tuning.
+H0190,V096,2025-07-01 11:09:00,6.9,7.3,Vibrations felt on steering wheel.
+H0191,V003,2025-07-01 11:10:00,5.4,7.2,Noticeable noise from tires.
+H0192,V008,2025-07-01 11:11:00,10.0,8.9,Cabin noise higher than expected.
+H0193,V098,2025-07-01 11:12:00,8.5,6.8,Great handling in wet conditions.
+H0194,V028,2025-07-01 11:13:00,5.9,8.3,Comfortable and quiet.
+H0195,V001,2025-07-01 11:14:00,5.8,8.2,Needs suspension tuning.
+H0196,V042,2025-07-01 11:15:00,8.3,5.1,Vibrations felt on steering wheel.
+H0197,V071,2025-07-01 11:16:00,7.7,5.5,Handles well on rough terrain.
+H0198,V095,2025-07-01 11:17:00,7.3,7.3,Cabin noise higher than expected.
+H0199,V051,2025-07-01 11:18:00,8.6,6.5,Smooth ride with slight vibrations.
+H0200,V073,2025-07-01 11:19:00,6.3,7.0,Noticeable noise from tires.
+H0201,V065,2025-07-01 11:20:00,5.4,7.2,Cabin noise higher than expected.
+H0202,V055,2025-07-01 11:21:00,8.3,5.2,Great handling in wet conditions.
+H0203,V033,2025-07-01 11:22:00,5.6,7.2,Handles well on rough terrain.
+H0204,V085,2025-07-01 11:23:00,5.0,5.7,Cabin noise higher than expected.
+H0205,V056,2025-07-01 11:24:00,7.8,7.5,Comfortable and quiet.
+H0206,V039,2025-07-01 11:25:00,8.5,7.6,Handles well on rough terrain.
+H0207,V055,2025-07-01 11:26:00,5.6,8.6,Cabin noise higher than expected.
+H0208,V042,2025-07-01 11:27:00,5.4,9.9,Needs suspension tuning.
+H0209,V047,2025-07-01 11:28:00,4.0,7.5,Comfortable and quiet.
+H0210,V067,2025-07-01 11:29:00,7.1,6.3,Smooth ride with slight vibrations.
+H0211,V057,2025-07-01 11:30:00,6.3,8.6,Noticeable noise from tires.
+H0212,V034,2025-07-01 11:31:00,6.6,5.5,Vibrations felt on steering wheel.
+H0213,V022,2025-07-01 11:32:00,7.4,6.3,Needs suspension tuning.
+H0214,V010,2025-07-01 11:33:00,5.2,5.9,Handles well on rough terrain.
+H0215,V081,2025-07-01 11:34:00,5.7,5.5,Vibrations felt on steering wheel.
+H0216,V055,2025-07-01 11:35:00,7.3,9.5,Needs suspension tuning.
+H0217,V056,2025-07-01 11:36:00,6.6,5.8,Great handling in wet conditions.
+H0218,V087,2025-07-01 11:37:00,5.8,5.1,Vibrations felt on steering wheel.
+H0219,V058,2025-07-01 11:38:00,6.9,8.4,Cabin noise higher than expected.
+H0220,V079,2025-07-01 11:39:00,8.8,9.5,Smooth ride with slight vibrations.
+H0221,V004,2025-07-01 11:40:00,6.1,6.9,Cabin noise higher than expected.
+H0222,V092,2025-07-01 11:41:00,10.0,8.7,Needs suspension tuning.
+H0223,V040,2025-07-01 11:42:00,6.5,10.0,Needs suspension tuning.
+H0224,V052,2025-07-01 11:43:00,7.5,5.6,Noticeable noise from tires.
+H0225,V085,2025-07-01 11:44:00,7.7,6.7,Handles well on rough terrain.
+H0226,V025,2025-07-01 11:45:00,5.7,7.6,Great handling in wet conditions.
+H0227,V060,2025-07-01 11:46:00,8.1,7.7,Handles well on rough terrain.
+H0228,V031,2025-07-01 11:47:00,7.6,8.9,Great handling in wet conditions.
+H0229,V010,2025-07-01 11:48:00,9.4,6.9,Smooth ride with slight vibrations.
+H0230,V021,2025-07-01 11:49:00,9.6,8.2,Great handling in wet conditions.
+H0231,V063,2025-07-01 11:50:00,8.0,8.1,Cabin noise higher than expected.
+H0232,V100,2025-07-01 11:51:00,5.8,5.1,Great handling in wet conditions.
+H0233,V020,2025-07-01 11:52:00,7.9,8.8,Handles well on rough terrain.
+H0234,V058,2025-07-01 11:53:00,8.9,8.7,Cabin noise higher than expected.
+H0235,V098,2025-07-01 11:54:00,8.9,6.9,Cabin noise higher than expected.
+H0236,V054,2025-07-01 11:55:00,9.7,7.6,Needs suspension tuning.
+H0237,V088,2025-07-01 11:56:00,10.0,6.7,Cabin noise higher than expected.
+H0238,V016,2025-07-01 11:57:00,7.1,8.6,Smooth ride with slight vibrations.
+H0239,V006,2025-07-01 11:58:00,9.4,9.2,Vibrations felt on steering wheel.
+H0240,V004,2025-07-01 11:59:00,6.2,5.6,Noticeable noise from tires.
+H0241,V086,2025-07-01 12:00:00,5.7,9.9,Needs suspension tuning.
+H0242,V080,2025-07-01 12:01:00,9.7,9.9,Comfortable and quiet.
+H0243,V074,2025-07-01 12:02:00,8.7,7.7,Comfortable and quiet.
+H0244,V063,2025-07-01 12:03:00,9.3,8.1,Vibrations felt on steering wheel.
+H0245,V079,2025-07-01 12:04:00,6.0,6.2,Cabin noise higher than expected.
+H0246,V091,2025-07-01 12:05:00,5.1,9.7,Vibrations felt on steering wheel.
+H0247,V032,2025-07-01 12:06:00,10.0,5.7,Comfortable and quiet.
+H0248,V062,2025-07-01 12:07:00,8.8,7.6,Smooth ride with slight vibrations.
+H0249,V061,2025-07-01 12:08:00,7.9,5.3,Needs suspension tuning.
+H0250,V004,2025-07-01 12:09:00,5.7,7.9,Smooth ride with slight vibrations.
+H0251,V003,2025-07-01 12:10:00,9.3,8.5,Noticeable noise from tires.
+H0252,V096,2025-07-01 12:11:00,8.0,8.6,Noticeable noise from tires.
+H0253,V016,2025-07-01 12:12:00,5.5,8.1,Needs suspension tuning.
+H0254,V018,2025-07-01 12:13:00,8.8,6.1,Cabin noise higher than expected.
+H0255,V004,2025-07-01 12:14:00,6.2,5.6,Smooth ride with slight vibrations.
+H0256,V063,2025-07-01 12:15:00,5.6,7.1,Smooth ride with slight vibrations.
+H0257,V058,2025-07-01 12:16:00,6.8,7.2,Handles well on rough terrain.
+H0258,V056,2025-07-01 12:17:00,9.0,8.3,Vibrations felt on steering wheel.
+H0259,V051,2025-07-01 12:18:00,6.8,8.3,Great handling in wet conditions.
+H0260,V036,2025-07-01 12:19:00,8.5,9.6,Cabin noise higher than expected.
+H0261,V010,2025-07-01 12:20:00,5.6,6.2,Noticeable noise from tires.
+H0262,V020,2025-07-01 12:21:00,7.8,6.2,Comfortable and quiet.
+H0263,V057,2025-07-01 12:22:00,6.1,5.9,Cabin noise higher than expected.
+H0264,V091,2025-07-01 12:23:00,5.7,5.0,Noticeable noise from tires.
+H0265,V043,2025-07-01 12:24:00,5.3,5.8,Noticeable noise from tires.
+H0266,V013,2025-07-01 12:25:00,8.0,6.2,Vibrations felt on steering wheel.
+H0267,V015,2025-07-01 12:26:00,5.7,9.4,Smooth ride with slight vibrations.
+H0268,V100,2025-07-01 12:27:00,6.3,5.9,Vibrations felt on steering wheel.
+H0269,V025,2025-07-01 12:28:00,8.8,7.6,Comfortable and quiet.
+H0270,V010,2025-07-01 12:29:00,8.7,8.3,Great handling in wet conditions.
+H0271,V005,2025-07-01 12:30:00,9.4,5.4,Smooth ride with slight vibrations.
+H0272,V072,2025-07-01 12:31:00,7.1,10.0,Comfortable and quiet.
+H0273,V033,2025-07-01 12:32:00,8.2,9.9,Vibrations felt on steering wheel.
+H0274,V032,2025-07-01 12:33:00,7.4,5.1,Smooth ride with slight vibrations.
+H0275,V003,2025-07-01 12:34:00,6.9,5.6,Cabin noise higher than expected.
+H0276,V089,2025-07-01 12:35:00,8.8,6.0,Great handling in wet conditions.
+H0277,V033,2025-07-01 12:36:00,10.0,9.0,Noticeable noise from tires.
+H0278,V055,2025-07-01 12:37:00,9.1,8.1,Vibrations felt on steering wheel.
+H0279,V003,2025-07-01 12:38:00,6.6,6.3,Noticeable noise from tires.
+H0280,V015,2025-07-01 12:39:00,7.8,8.1,Smooth ride with slight vibrations.
+H0281,V039,2025-07-01 12:40:00,8.1,5.4,Vibrations felt on steering wheel.
+H0282,V099,2025-07-01 12:41:00,7.5,6.1,Great handling in wet conditions.
+H0283,V084,2025-07-01 12:42:00,8.4,7.6,Cabin noise higher than expected.
+H0284,V069,2025-07-01 12:43:00,8.9,8.5,Vibrations felt on steering wheel.
+H0285,V079,2025-07-01 12:44:00,8.7,6.6,Smooth ride with slight vibrations.
+H0286,V060,2025-07-01 12:45:00,5.8,5.3,Handles well on rough terrain.
+H0287,V071,2025-07-01 12:46:00,9.2,9.5,Vibrations felt on steering wheel.
+H0288,V013,2025-07-01 12:47:00,6.3,6.2,Cabin noise higher than expected.
+H0289,V020,2025-07-01 12:48:00,6.0,7.4,Handles well on rough terrain.
+H0290,V095,2025-07-01 12:49:00,7.2,5.1,Needs suspension tuning.
+H0291,V027,2025-07-01 12:50:00,9.2,7.7,Noticeable noise from tires.
+H0292,V016,2025-07-01 12:51:00,5.8,6.1,Comfortable and quiet.
+H0293,V055,2025-07-01 12:52:00,7.8,5.2,Vibrations felt on steering wheel.
+H0294,V072,2025-07-01 12:53:00,7.0,6.3,Smooth ride with slight vibrations.
+H0295,V019,2025-07-01 12:54:00,9.7,5.5,Handles well on rough terrain.
+H0296,V039,2025-07-01 12:55:00,8.7,6.9,Needs suspension tuning.
+H0297,V055,2025-07-01 12:56:00,9.9,5.5,Handles well on rough terrain.
+H0298,V022,2025-07-01 12:57:00,7.0,8.9,Cabin noise higher than expected.
+H0299,V045,2025-07-01 12:58:00,8.0,6.7,Smooth ride with slight vibrations.
+H0300,V075,2025-07-01 12:59:00,6.3,5.9,Great handling in wet conditions.
+H0301,V037,2025-07-01 13:00:00,6.0,6.9,Great handling in wet conditions.
+H0302,V094,2025-07-01 13:01:00,7.8,8.7,Vibrations felt on steering wheel.
+H0303,V083,2025-07-01 13:02:00,9.6,8.0,Needs suspension tuning.
+H0304,V092,2025-07-01 13:03:00,5.7,9.4,Comfortable and quiet.
+H0305,V044,2025-07-01 13:04:00,6.4,6.3,Handles well on rough terrain.
+H0306,V070,2025-07-01 13:05:00,7.1,6.4,Smooth ride with slight vibrations.
+H0307,V050,2025-07-01 13:06:00,8.5,6.6,Noticeable noise from tires.
+H0308,V075,2025-07-01 13:07:00,7.2,7.2,Cabin noise higher than expected.
+H0309,V054,2025-07-01 13:08:00,7.7,8.5,Cabin noise higher than expected.
+H0310,V036,2025-07-01 13:09:00,9.0,7.9,Comfortable and quiet.
+H0311,V060,2025-07-01 13:10:00,8.0,6.8,Cabin noise higher than expected.
+H0312,V059,2025-07-01 13:11:00,6.0,9.3,Comfortable and quiet.
+H0313,V062,2025-07-01 13:12:00,5.6,9.2,Cabin noise higher than expected.
+H0314,V039,2025-07-01 13:13:00,6.0,7.4,Vibrations felt on steering wheel.
+H0315,V100,2025-07-01 13:14:00,8.6,5.6,Handles well on rough terrain.
+H0316,V046,2025-07-01 13:15:00,5.2,9.3,Noticeable noise from tires.
+H0317,V060,2025-07-01 13:16:00,6.8,8.8,Handles well on rough terrain.
+H0318,V086,2025-07-01 13:17:00,6.2,8.1,Vibrations felt on steering wheel.
+H0319,V029,2025-07-01 13:18:00,5.4,5.1,Vibrations felt on steering wheel.
+H0320,V089,2025-07-01 13:19:00,7.2,9.4,Noticeable noise from tires.
+H0321,V070,2025-07-01 13:20:00,9.0,8.9,Handles well on rough terrain.
+H0322,V007,2025-07-01 13:21:00,5.9,5.4,Needs suspension tuning.
+H0323,V061,2025-07-01 13:22:00,8.7,5.7,Needs suspension tuning.
+H0324,V032,2025-07-01 13:23:00,8.8,8.4,Smooth ride with slight vibrations.
+H0325,V064,2025-07-01 13:24:00,5.1,7.6,Needs suspension tuning.
+H0326,V077,2025-07-01 13:25:00,7.9,9.5,Noticeable noise from tires.
+H0327,V020,2025-07-01 13:26:00,5.6,7.6,Noticeable noise from tires.
+H0328,V098,2025-07-01 13:27:00,9.9,6.2,Noticeable noise from tires.
+H0329,V016,2025-07-01 13:28:00,5.5,9.8,Comfortable and quiet.
+H0330,V061,2025-07-01 13:29:00,5.6,5.7,Smooth ride with slight vibrations.
+H0331,V099,2025-07-01 13:30:00,9.9,6.0,Noticeable noise from tires.
+H0332,V050,2025-07-01 13:31:00,5.6,9.1,Vibrations felt on steering wheel.
+H0333,V027,2025-07-01 13:32:00,8.2,9.7,Cabin noise higher than expected.
+H0334,V043,2025-07-01 13:33:00,9.0,9.6,Needs suspension tuning.
+H0335,V037,2025-07-01 13:34:00,8.3,5.8,Needs suspension tuning.
+H0336,V050,2025-07-01 13:35:00,7.8,8.6,Cabin noise higher than expected.
+H0337,V034,2025-07-01 13:36:00,6.5,10.0,Cabin noise higher than expected.
+H0338,V053,2025-07-01 13:37:00,7.9,9.4,Noticeable noise from tires.
+H0339,V074,2025-07-01 13:38:00,6.0,9.5,Handles well on rough terrain.
+H0340,V016,2025-07-01 13:39:00,6.8,5.1,Smooth ride with slight vibrations.
+H0341,V043,2025-07-01 13:40:00,8.1,9.9,Comfortable and quiet.
+H0342,V040,2025-07-01 13:41:00,6.7,5.7,Noticeable noise from tires.
+H0343,V047,2025-07-01 13:42:00,5.7,6.4,Needs suspension tuning.
+H0344,V001,2025-07-01 13:43:00,9.5,5.5,Great handling in wet conditions.
+H0345,V005,2025-07-01 13:44:00,9.5,7.2,Smooth ride with slight vibrations.
+H0346,V100,2025-07-01 13:45:00,5.0,10.0,Noticeable noise from tires.
+H0347,V071,2025-07-01 13:46:00,6.5,5.6,Cabin noise higher than expected.
+H0348,V039,2025-07-01 13:47:00,7.6,7.9,Great handling in wet conditions.
+H0349,V087,2025-07-01 13:48:00,5.5,9.4,Needs suspension tuning.
+H0350,V056,2025-07-01 13:49:00,5.7,5.3,Handles well on rough terrain.
+H0351,V065,2025-07-01 13:50:00,6.4,7.0,Noticeable noise from tires.
+H0352,V055,2025-07-01 13:51:00,6.7,6.1,Noticeable noise from tires.
+H0353,V075,2025-07-01 13:52:00,6.2,8.2,Great handling in wet conditions.
+H0354,V022,2025-07-01 13:53:00,10.0,7.5,Comfortable and quiet.
+H0355,V094,2025-07-01 13:54:00,5.1,8.1,Vibrations felt on steering wheel.
+H0356,V023,2025-07-01 13:55:00,7.1,6.8,Comfortable and quiet.
+H0357,V096,2025-07-01 13:56:00,5.0,6.3,Great handling in wet conditions.
+H0358,V073,2025-07-01 13:57:00,6.1,6.8,Noticeable noise from tires.
+H0359,V053,2025-07-01 13:58:00,8.8,9.8,Handles well on rough terrain.
+H0360,V052,2025-07-01 13:59:00,7.1,9.9,Comfortable and quiet.
+H0361,V081,2025-07-01 14:00:00,7.4,7.8,Smooth ride with slight vibrations.
+H0362,V051,2025-07-01 14:01:00,6.3,9.4,Handles well on rough terrain.
+H0363,V020,2025-07-01 14:02:00,7.6,6.4,Noticeable noise from tires.
+H0364,V100,2025-07-01 14:03:00,7.7,7.0,Smooth ride with slight vibrations.
+H0365,V064,2025-07-01 14:04:00,5.3,9.6,Comfortable and quiet.
+H0366,V063,2025-07-01 14:05:00,7.4,7.3,Cabin noise higher than expected.
+H0367,V067,2025-07-01 14:06:00,7.4,8.1,Handles well on rough terrain.
+H0368,V073,2025-07-01 14:07:00,8.8,5.1,Cabin noise higher than expected.
+H0369,V077,2025-07-01 14:08:00,11.0,8.5,Needs suspension tuning.
+H0370,V056,2025-07-01 14:09:00,6.2,8.9,Noticeable noise from tires.
+H0371,V026,2025-07-01 14:10:00,9.5,7.2,Cabin noise higher than expected.
+H0372,V054,2025-07-01 14:11:00,5.1,9.7,Vibrations felt on steering wheel.
+H0373,V001,2025-07-01 14:12:00,5.2,9.5,Handles well on rough terrain.
+H0374,V056,2025-07-01 14:13:00,5.9,7.6,Smooth ride with slight vibrations.
+H0375,V068,2025-07-01 14:14:00,5.5,5.9,Needs suspension tuning.
+H0376,V099,2025-07-01 14:15:00,8.8,9.0,Handles well on rough terrain.
+H0377,V011,2025-07-01 14:16:00,5.6,9.1,Vibrations felt on steering wheel.
+H0378,V036,2025-07-01 14:17:00,6.0,6.1,Great handling in wet conditions.
+H0379,V054,2025-07-01 14:18:00,9.6,8.8,Cabin noise higher than expected.
+H0380,V046,2025-07-01 14:19:00,9.7,6.9,Comfortable and quiet.
+H0381,V015,2025-07-01 14:20:00,6.6,8.7,Needs suspension tuning.
+H0382,V096,2025-07-01 14:21:00,6.4,9.6,Great handling in wet conditions.
+H0383,V061,2025-07-01 14:22:00,8.6,7.4,Noticeable noise from tires.
+H0384,V008,2025-07-01 14:23:00,7.7,5.4,Comfortable and quiet.
+H0385,V015,2025-07-01 14:24:00,9.0,6.6,Comfortable and quiet.
+H0386,V057,2025-07-01 14:25:00,9.9,6.6,Noticeable noise from tires.
+H0387,V018,2025-07-01 14:26:00,5.8,9.4,Needs suspension tuning.
+H0388,V005,2025-07-01 14:27:00,8.6,5.3,Needs suspension tuning.
+H0389,V063,2025-07-01 14:28:00,6.2,9.7,Cabin noise higher than expected.
+H0390,V072,2025-07-01 14:29:00,7.7,5.6,Comfortable and quiet.
+H0391,V058,2025-07-01 14:30:00,9.8,6.8,Noticeable noise from tires.
+H0392,V064,2025-07-01 14:31:00,5.7,8.6,Comfortable and quiet.
+H0393,V099,2025-07-01 14:32:00,7.8,9.3,Smooth ride with slight vibrations.
+H0394,V011,2025-07-01 14:33:00,7.8,8.5,Cabin noise higher than expected.
+H0395,V079,2025-07-01 14:34:00,9.6,8.1,Noticeable noise from tires.
+H0396,V056,2025-07-01 14:35:00,8.3,7.6,Handles well on rough terrain.
+H0397,V050,2025-07-01 14:36:00,6.6,8.6,Noticeable noise from tires.
+H0398,V053,2025-07-01 14:37:00,9.1,5.4,Handles well on rough terrain.
+H0399,V077,2025-07-01 14:38:00,8.4,9.1,Noticeable noise from tires.
+H0400,V040,2025-07-01 14:39:00,9.4,6.9,Vibrations felt on steering wheel.
+H0401,V072,2025-07-01 14:40:00,5.3,6.1,Cabin noise higher than expected.
+H0402,V081,2025-07-01 14:41:00,9.9,8.4,Great handling in wet conditions.
+H0403,V091,2025-07-01 14:42:00,5.8,6.0,Needs suspension tuning.
+H0404,V048,2025-07-01 14:43:00,8.3,5.8,Needs suspension tuning.
+H0405,V034,2025-07-01 14:44:00,6.8,8.4,Smooth ride with slight vibrations.
+H0406,V006,2025-07-01 14:45:00,5.5,6.4,Noticeable noise from tires.
+H0407,V033,2025-07-01 14:46:00,9.3,9.0,Needs suspension tuning.
+H0408,V065,2025-07-01 14:47:00,6.2,7.0,Comfortable and quiet.
+H0409,V032,2025-07-01 14:48:00,6.5,8.5,Noticeable noise from tires.
+H0410,V080,2025-07-01 14:49:00,8.0,9.8,Great handling in wet conditions.
+H0411,V025,2025-07-01 14:50:00,5.8,6.8,Noticeable noise from tires.
+H0412,V091,2025-07-01 14:51:00,9.0,9.6,Great handling in wet conditions.
+H0413,V013,2025-07-01 14:52:00,5.5,7.1,Smooth ride with slight vibrations.
+H0414,V044,2025-07-01 14:53:00,7.2,8.2,Comfortable and quiet.
+H0415,V063,2025-07-01 14:54:00,7.5,7.7,Noticeable noise from tires.
+H0416,V005,2025-07-01 14:55:00,7.7,7.5,Comfortable and quiet.
+H0417,V053,2025-07-01 14:56:00,8.2,7.8,Great handling in wet conditions.
+H0418,V032,2025-07-01 14:57:00,7.8,9.4,Cabin noise higher than expected.
+H0419,V087,2025-07-01 14:58:00,7.2,5.4,Needs suspension tuning.
+H0420,V015,2025-07-01 14:59:00,7.2,9.7,Vibrations felt on steering wheel.
+H0421,V093,2025-07-01 15:00:00,9.1,5.5,Needs suspension tuning.
+H0422,V078,2025-07-01 15:01:00,9.6,7.3,Vibrations felt on steering wheel.
+H0423,V091,2025-07-01 15:02:00,8.9,8.8,Handles well on rough terrain.
+H0424,V016,2025-07-01 15:03:00,8.3,6.2,Cabin noise higher than expected.
+H0425,V086,2025-07-01 15:04:00,8.8,8.3,Great handling in wet conditions.
+H0426,V086,2025-07-01 15:05:00,5.8,6.6,Cabin noise higher than expected.
+H0427,V085,2025-07-01 15:06:00,5.2,6.8,Smooth ride with slight vibrations.
+H0428,V066,2025-07-01 15:07:00,7.0,6.4,Smooth ride with slight vibrations.
+H0429,V076,2025-07-01 15:08:00,9.4,6.4,Vibrations felt on steering wheel.
+H0430,V057,2025-07-01 15:09:00,5.8,8.3,Vibrations felt on steering wheel.
+H0431,V044,2025-07-01 15:10:00,6.3,9.7,Needs suspension tuning.
+H0432,V039,2025-07-01 15:11:00,9.8,8.6,Cabin noise higher than expected.
+H0433,V064,2025-07-01 15:12:00,6.7,5.9,Smooth ride with slight vibrations.
+H0434,V002,2025-07-01 15:13:00,7.5,5.6,Handles well on rough terrain.
+H0435,V098,2025-07-01 15:14:00,8.5,9.5,Noticeable noise from tires.
+H0436,V021,2025-07-01 15:15:00,9.9,9.2,Needs suspension tuning.
+H0437,V021,2025-07-01 15:16:00,7.4,7.0,Vibrations felt on steering wheel.
+H0438,V008,2025-07-01 15:17:00,6.0,5.9,Noticeable noise from tires.
+H0439,V095,2025-07-01 15:18:00,8.8,8.7,Needs suspension tuning.
+H0440,V089,2025-07-01 15:19:00,7.2,8.9,Cabin noise higher than expected.
+H0441,V083,2025-07-01 15:20:00,5.2,7.4,Noticeable noise from tires.
+H0442,V091,2025-07-01 15:21:00,6.7,9.3,Comfortable and quiet.
+H0443,V083,2025-07-01 15:22:00,8.5,5.5,Noticeable noise from tires.
+H0444,V050,2025-07-01 15:23:00,6.7,8.9,Needs suspension tuning.
+H0445,V043,2025-07-01 15:24:00,8.8,10.0,Handles well on rough terrain.
+H0446,V033,2025-07-01 15:25:00,9.7,8.9,Handles well on rough terrain.
+H0447,V096,2025-07-01 15:26:00,4.0,6.0,Needs suspension tuning.
+H0448,V045,2025-07-01 15:27:00,9.6,9.8,Comfortable and quiet.
+H0449,V047,2025-07-01 15:28:00,9.6,9.2,Smooth ride with slight vibrations.
+H0450,V066,2025-07-01 15:29:00,6.5,7.5,Comfortable and quiet.
+H0451,V031,2025-07-01 15:30:00,9.1,8.1,Cabin noise higher than expected.
+H0452,V080,2025-07-01 15:31:00,8.8,6.5,Needs suspension tuning.
+H0453,V077,2025-07-01 15:32:00,5.5,8.0,Noticeable noise from tires.
+H0454,V058,2025-07-01 15:33:00,6.0,9.5,Needs suspension tuning.
+H0455,V084,2025-07-01 15:34:00,8.4,6.8,Comfortable and quiet.
+H0456,V039,2025-07-01 15:35:00,9.7,5.3,Cabin noise higher than expected.
+H0457,V059,2025-07-01 15:36:00,9.7,7.9,Cabin noise higher than expected.
+H0458,V038,2025-07-01 15:37:00,8.9,8.6,Vibrations felt on steering wheel.
+H0459,V087,2025-07-01 15:38:00,6.5,5.8,Needs suspension tuning.
+H0460,V007,2025-07-01 15:39:00,10.0,6.7,Handles well on rough terrain.
+H0461,V008,2025-07-01 15:40:00,9.2,6.5,Cabin noise higher than expected.
+H0462,V005,2025-07-01 15:41:00,6.7,6.0,Comfortable and quiet.
+H0463,V013,2025-07-01 15:42:00,7.8,8.7,Great handling in wet conditions.
+H0464,V001,2025-07-01 15:43:00,9.8,5.5,Needs suspension tuning.
+H0465,V021,2025-07-01 15:44:00,7.3,9.8,Great handling in wet conditions.
+H0466,V098,2025-07-01 15:45:00,8.9,8.4,Vibrations felt on steering wheel.
+H0467,V100,2025-07-01 15:46:00,5.8,8.6,Comfortable and quiet.
+H0468,V021,2025-07-01 15:47:00,8.7,7.5,Smooth ride with slight vibrations.
+H0469,V006,2025-07-01 15:48:00,6.0,7.1,Handles well on rough terrain.
+H0470,V100,2025-07-01 15:49:00,8.8,5.4,Great handling in wet conditions.
+H0471,V039,2025-07-01 15:50:00,5.6,6.1,Smooth ride with slight vibrations.
+H0472,V098,2025-07-01 15:51:00,5.7,9.9,Handles well on rough terrain.
+H0473,V054,2025-07-01 15:52:00,6.2,9.8,Handles well on rough terrain.
+H0474,V097,2025-07-01 15:53:00,8.1,7.3,Cabin noise higher than expected.
+H0475,V048,2025-07-01 15:54:00,8.0,9.2,Comfortable and quiet.
+H0476,V025,2025-07-01 15:55:00,9.3,6.8,Handles well on rough terrain.
+H0477,V079,2025-07-01 15:56:00,7.4,6.9,Needs suspension tuning.
+H0478,V027,2025-07-01 15:57:00,5.6,7.2,Cabin noise higher than expected.
+H0479,V029,2025-07-01 15:58:00,6.1,9.2,Comfortable and quiet.
+H0480,V040,2025-07-01 15:59:00,8.1,7.3,Handles well on rough terrain.
+H0481,V021,2025-07-01 16:00:00,5.1,6.6,Vibrations felt on steering wheel.
+H0482,V031,2025-07-01 16:01:00,6.6,6.3,Vibrations felt on steering wheel.
+H0483,V033,2025-07-01 16:02:00,9.3,6.9,Handles well on rough terrain.
+H0484,V003,2025-07-01 16:03:00,5.7,8.2,Cabin noise higher than expected.
+H0485,V091,2025-07-01 16:04:00,8.2,6.5,Handles well on rough terrain.
+H0486,V051,2025-07-01 16:05:00,5.5,8.1,Cabin noise higher than expected.
+H0487,V051,2025-07-01 16:06:00,7.9,9.4,Vibrations felt on steering wheel.
+H0488,V045,2025-07-01 16:07:00,9.8,9.7,Noticeable noise from tires.
+H0489,V065,2025-07-01 16:08:00,9.2,8.5,Great handling in wet conditions.
+H0490,V063,2025-07-01 16:09:00,8.7,8.5,Vibrations felt on steering wheel.
+H0491,V080,2025-07-01 16:10:00,8.7,8.0,Comfortable and quiet.
+H0492,V075,2025-07-01 16:11:00,8.4,5.0,Noticeable noise from tires.
+H0493,V004,2025-07-01 16:12:00,6.8,6.8,Handles well on rough terrain.
+H0494,V056,2025-07-01 16:13:00,8.7,7.0,Handles well on rough terrain.
+H0495,V055,2025-07-01 16:14:00,8.8,8.3,Smooth ride with slight vibrations.
+H0496,V095,2025-07-01 16:15:00,9.1,7.4,Cabin noise higher than expected.
+H0497,V019,2025-07-01 16:16:00,6.4,5.1,Needs suspension tuning.
+H0498,V015,2025-07-01 16:17:00,5.9,7.5,Great handling in wet conditions.
+H0499,V047,2025-07-01 16:18:00,9.4,7.1,Needs suspension tuning.
+H0500,V052,2025-07-01 16:19:00,5.8,9.6,Cabin noise higher than expected.
+H0501,V040,2025-07-01 16:20:00,5.7,7.4,Vibrations felt on steering wheel.
+H0502,V026,2025-07-01 16:21:00,5.2,5.9,Handles well on rough terrain.
+H0503,V018,2025-07-01 16:22:00,7.5,8.2,Needs suspension tuning.
+H0504,V068,2025-07-01 16:23:00,8.2,8.3,Cabin noise higher than expected.
+H0505,V017,2025-07-01 16:24:00,10.0,9.2,Great handling in wet conditions.
+H0506,V088,2025-07-01 16:25:00,5.1,8.7,Great handling in wet conditions.
+H0507,V004,2025-07-01 16:26:00,5.4,8.9,Great handling in wet conditions.
+H0508,V062,2025-07-01 16:27:00,7.6,6.0,Noticeable noise from tires.
+H0509,V079,2025-07-01 16:28:00,9.6,7.6,Great handling in wet conditions.
+H0510,V052,2025-07-01 16:29:00,11.0,6.7,Noticeable noise from tires.
+H0511,V009,2025-07-01 16:30:00,7.2,9.0,Noticeable noise from tires.
+H0512,V066,2025-07-01 16:31:00,6.1,5.1,Smooth ride with slight vibrations.
+H0513,V098,2025-07-01 16:32:00,6.6,6.5,Cabin noise higher than expected.
+H0514,V072,2025-07-01 16:33:00,7.3,8.3,Smooth ride with slight vibrations.
+H0515,V068,2025-07-01 16:34:00,8.4,8.1,Smooth ride with slight vibrations.
+H0516,V068,2025-07-01 16:35:00,6.9,6.6,Vibrations felt on steering wheel.
+H0517,V005,2025-07-01 16:36:00,8.2,5.1,Comfortable and quiet.
+H0518,V092,2025-07-01 16:37:00,9.1,8.0,Noticeable noise from tires.
+H0519,V083,2025-07-01 16:38:00,5.2,9.3,Cabin noise higher than expected.
+H0520,V042,2025-07-01 16:39:00,7.4,7.0,Smooth ride with slight vibrations.
+H0521,V057,2025-07-01 16:40:00,6.0,7.9,Great handling in wet conditions.
+H0522,V095,2025-07-01 16:41:00,8.1,6.9,Vibrations felt on steering wheel.
+H0523,V004,2025-07-01 16:42:00,8.6,9.5,Vibrations felt on steering wheel.
+H0524,V040,2025-07-01 16:43:00,5.7,9.0,Smooth ride with slight vibrations.
+H0525,V041,2025-07-01 16:44:00,7.1,6.2,Smooth ride with slight vibrations.
+H0526,V018,2025-07-01 16:45:00,8.8,7.5,Great handling in wet conditions.
+H0527,V072,2025-07-01 16:46:00,6.5,5.2,Noticeable noise from tires.
+H0528,V022,2025-07-01 16:47:00,8.0,7.4,Smooth ride with slight vibrations.
+H0529,V014,2025-07-01 16:48:00,5.8,5.7,Vibrations felt on steering wheel.
+H0530,V021,2025-07-01 16:49:00,9.8,6.6,Cabin noise higher than expected.
+H0531,V030,2025-07-01 16:50:00,9.7,7.1,Smooth ride with slight vibrations.
+H0532,V042,2025-07-01 16:51:00,5.7,6.2,Great handling in wet conditions.
+H0533,V046,2025-07-01 16:52:00,9.7,5.3,Needs suspension tuning.
+H0534,V094,2025-07-01 16:53:00,9.3,6.3,Vibrations felt on steering wheel.
+H0535,V043,2025-07-01 16:54:00,5.2,8.8,Cabin noise higher than expected.
+H0536,V019,2025-07-01 16:55:00,7.9,9.6,Comfortable and quiet.
+H0537,V038,2025-07-01 16:56:00,6.3,8.7,Needs suspension tuning.
+H0538,V012,2025-07-01 16:57:00,6.1,6.0,Smooth ride with slight vibrations.
+H0539,V055,2025-07-01 16:58:00,7.3,9.4,Handles well on rough terrain.
+H0540,V025,2025-07-01 16:59:00,5.1,8.7,Needs suspension tuning.
+H0541,V036,2025-07-01 17:00:00,8.0,6.8,Vibrations felt on steering wheel.
+H0542,V045,2025-07-01 17:01:00,5.0,7.1,Great handling in wet conditions.
+H0543,V044,2025-07-01 17:02:00,6.4,6.1,Great handling in wet conditions.
+H0544,V046,2025-07-01 17:03:00,8.6,8.4,Needs suspension tuning.
+H0545,V037,2025-07-01 17:04:00,7.2,7.0,Vibrations felt on steering wheel.
+H0546,V051,2025-07-01 17:05:00,7.5,5.5,Smooth ride with slight vibrations.
+H0547,V045,2025-07-01 17:06:00,8.5,8.8,Noticeable noise from tires.
+H0548,V057,2025-07-01 17:07:00,6.8,9.9,Smooth ride with slight vibrations.
+H0549,V037,2025-07-01 17:08:00,9.2,6.2,Great handling in wet conditions.
+H0550,V007,2025-07-01 17:09:00,8.5,8.5,Comfortable and quiet.
+H0551,V073,2025-07-01 17:10:00,5.5,9.9,Smooth ride with slight vibrations.
+H0552,V043,2025-07-01 17:11:00,5.5,6.8,Needs suspension tuning.
+H0553,V062,2025-07-01 17:12:00,9.5,7.9,Cabin noise higher than expected.
+H0554,V046,2025-07-01 17:13:00,6.4,7.2,Smooth ride with slight vibrations.
+H0555,V055,2025-07-01 17:14:00,6.3,6.8,Smooth ride with slight vibrations.
+H0556,V054,2025-07-01 17:15:00,9.7,6.8,Needs suspension tuning.
+H0557,V050,2025-07-01 17:16:00,6.8,8.2,Needs suspension tuning.
+H0558,V028,2025-07-01 17:17:00,9.5,9.5,Handles well on rough terrain.
+H0559,V085,2025-07-01 17:18:00,9.5,9.4,Needs suspension tuning.
+H0560,V001,2025-07-01 17:19:00,6.7,5.9,Smooth ride with slight vibrations.
+H0561,V015,2025-07-01 17:20:00,7.0,7.7,Vibrations felt on steering wheel.
+H0562,V062,2025-07-01 17:21:00,6.5,8.7,Needs suspension tuning.
+H0563,V018,2025-07-01 17:22:00,7.4,9.4,Vibrations felt on steering wheel.
+H0564,V071,2025-07-01 17:23:00,7.1,6.8,Noticeable noise from tires.
+H0565,V013,2025-07-01 17:24:00,7.2,9.5,Vibrations felt on steering wheel.
+H0566,V037,2025-07-01 17:25:00,8.2,5.6,Needs suspension tuning.
+H0567,V004,2025-07-01 17:26:00,9.9,5.2,Comfortable and quiet.
+H0568,V030,2025-07-01 17:27:00,6.4,8.6,Comfortable and quiet.
+H0569,V069,2025-07-01 17:28:00,7.3,9.7,Vibrations felt on steering wheel.
+H0570,V080,2025-07-01 17:29:00,6.4,5.7,Comfortable and quiet.
+H0571,V064,2025-07-01 17:30:00,8.5,6.4,Cabin noise higher than expected.
+H0572,V071,2025-07-01 17:31:00,6.2,6.8,Noticeable noise from tires.
+H0573,V095,2025-07-01 17:32:00,5.4,5.9,Noticeable noise from tires.
+H0574,V013,2025-07-01 17:33:00,6.4,6.3,Smooth ride with slight vibrations.
+H0575,V092,2025-07-01 17:34:00,9.0,9.7,Vibrations felt on steering wheel.
+H0576,V087,2025-07-01 17:35:00,8.9,5.5,Smooth ride with slight vibrations.
+H0577,V001,2025-07-01 17:36:00,8.9,7.0,Noticeable noise from tires.
+H0578,V054,2025-07-01 17:37:00,9.3,7.5,Vibrations felt on steering wheel.
+H0579,V008,2025-07-01 17:38:00,8.6,5.8,Smooth ride with slight vibrations.
+H0580,V055,2025-07-01 17:39:00,9.6,8.6,Comfortable and quiet.
+H0581,V094,2025-07-01 17:40:00,5.4,8.5,Great handling in wet conditions.
+H0582,V056,2025-07-01 17:41:00,5.8,6.6,Comfortable and quiet.
+H0583,V079,2025-07-01 17:42:00,8.3,7.9,Noticeable noise from tires.
+H0584,V073,2025-07-01 17:43:00,6.0,7.5,Great handling in wet conditions.
+H0585,V039,2025-07-01 17:44:00,6.6,9.7,Needs suspension tuning.
+H0586,V048,2025-07-01 17:45:00,7.1,9.3,Vibrations felt on steering wheel.
+H0587,V012,2025-07-01 17:46:00,9.4,8.9,Handles well on rough terrain.
+H0588,V023,2025-07-01 17:47:00,7.9,5.6,Smooth ride with slight vibrations.
+H0589,V080,2025-07-01 17:48:00,8.6,5.5,Cabin noise higher than expected.
+H0590,V045,2025-07-01 17:49:00,8.4,9.8,Handles well on rough terrain.
+H0591,V033,2025-07-01 17:50:00,7.9,7.6,Vibrations felt on steering wheel.
+H0592,V002,2025-07-01 17:51:00,6.2,7.3,Handles well on rough terrain.
+H0593,V045,2025-07-01 17:52:00,9.0,5.7,Great handling in wet conditions.
+H0594,V039,2025-07-01 17:53:00,6.8,5.1,Noticeable noise from tires.
+H0595,V010,2025-07-01 17:54:00,7.6,7.8,Needs suspension tuning.
+H0596,V042,2025-07-01 17:55:00,6.8,9.5,Handles well on rough terrain.
+H0597,V002,2025-07-01 17:56:00,9.1,8.4,Needs suspension tuning.
+H0598,V027,2025-07-01 17:57:00,7.4,7.3,Smooth ride with slight vibrations.
+H0599,V052,2025-07-01 17:58:00,5.6,7.9,Noticeable noise from tires.
+H0600,V051,2025-07-01 17:59:00,4.0,7.1,Great handling in wet conditions.
+H0601,V013,2025-07-01 18:00:00,7.8,9.3,Great handling in wet conditions.
+H0602,V013,2025-07-01 18:01:00,8.6,7.8,Great handling in wet conditions.
+H0603,V083,2025-07-01 18:02:00,8.2,5.5,Vibrations felt on steering wheel.
+H0604,V030,2025-07-01 18:03:00,5.3,8.7,Smooth ride with slight vibrations.
+H0605,V063,2025-07-01 18:04:00,9.9,8.0,Cabin noise higher than expected.
+H0606,V093,2025-07-01 18:05:00,6.0,9.2,Noticeable noise from tires.
+H0607,V001,2025-07-01 18:06:00,8.3,8.5,Needs suspension tuning.
+H0608,V097,2025-07-01 18:07:00,6.1,6.1,Needs suspension tuning.
+H0609,V001,2025-07-01 18:08:00,6.6,8.9,Cabin noise higher than expected.
+H0610,V067,2025-07-01 18:09:00,9.2,8.1,Comfortable and quiet.
+H0611,V087,2025-07-01 18:10:00,8.1,7.9,Vibrations felt on steering wheel.
+H0612,V033,2025-07-01 18:11:00,6.6,6.2,Noticeable noise from tires.
+H0613,V100,2025-07-01 18:12:00,5.6,7.0,Vibrations felt on steering wheel.
+H0614,V085,2025-07-01 18:13:00,5.8,9.9,Handles well on rough terrain.
+H0615,V041,2025-07-01 18:14:00,9.0,6.5,Comfortable and quiet.
+H0616,V014,2025-07-01 18:15:00,7.9,8.1,Handles well on rough terrain.
+H0617,V015,2025-07-01 18:16:00,8.2,7.5,Noticeable noise from tires.
+H0618,V084,2025-07-01 18:17:00,5.3,8.3,Cabin noise higher than expected.
+H0619,V050,2025-07-01 18:18:00,6.5,5.0,Cabin noise higher than expected.
+H0620,V016,2025-07-01 18:19:00,7.8,7.9,Needs suspension tuning.
+H0621,V032,2025-07-01 18:20:00,6.5,5.0,Needs suspension tuning.
+H0622,V018,2025-07-01 18:21:00,8.8,5.6,Vibrations felt on steering wheel.
+H0623,V035,2025-07-01 18:22:00,7.2,6.5,Handles well on rough terrain.
+H0624,V059,2025-07-01 18:23:00,9.8,5.4,Cabin noise higher than expected.
+H0625,V084,2025-07-01 18:24:00,7.1,7.9,Needs suspension tuning.
+H0626,V073,2025-07-01 18:25:00,9.8,7.8,Great handling in wet conditions.
+H0627,V047,2025-07-01 18:26:00,7.0,9.0,Vibrations felt on steering wheel.
+H0628,V025,2025-07-01 18:27:00,5.6,6.1,Needs suspension tuning.
+H0629,V071,2025-07-01 18:28:00,5.7,7.4,Needs suspension tuning.
+H0630,V001,2025-07-01 18:29:00,9.5,5.7,Great handling in wet conditions.
+H0631,V043,2025-07-01 18:30:00,7.3,5.6,Comfortable and quiet.
+H0632,V045,2025-07-01 18:31:00,8.0,6.6,Great handling in wet conditions.
+H0633,V007,2025-07-01 18:32:00,9.0,7.1,Needs suspension tuning.
+H0634,V009,2025-07-01 18:33:00,9.2,5.1,Comfortable and quiet.
+H0635,V002,2025-07-01 18:34:00,11.0,7.8,Great handling in wet conditions.
+H0636,V037,2025-07-01 18:35:00,5.4,8.0,Needs suspension tuning.
+H0637,V046,2025-07-01 18:36:00,6.3,7.8,Noticeable noise from tires.
+H0638,V074,2025-07-01 18:37:00,7.3,6.7,Smooth ride with slight vibrations.
+H0639,V011,2025-07-01 18:38:00,5.1,10.0,Cabin noise higher than expected.
+H0640,V011,2025-07-01 18:39:00,9.7,7.1,Cabin noise higher than expected.
+H0641,V002,2025-07-01 18:40:00,6.5,6.5,Vibrations felt on steering wheel.
+H0642,V046,2025-07-01 18:41:00,8.6,9.2,Vibrations felt on steering wheel.
+H0643,V027,2025-07-01 18:42:00,8.2,5.9,Smooth ride with slight vibrations.
+H0644,V043,2025-07-01 18:43:00,6.5,9.2,Noticeable noise from tires.
+H0645,V022,2025-07-01 18:44:00,8.4,9.6,Comfortable and quiet.
+H0646,V016,2025-07-01 18:45:00,11.0,6.9,Needs suspension tuning.
+H0647,V074,2025-07-01 18:46:00,6.1,5.5,Smooth ride with slight vibrations.
+H0648,V023,2025-07-01 18:47:00,6.5,6.7,Smooth ride with slight vibrations.
+H0649,V086,2025-07-01 18:48:00,8.0,9.4,Cabin noise higher than expected.
+H0650,V089,2025-07-01 18:49:00,6.9,7.1,Vibrations felt on steering wheel.
+H0651,V017,2025-07-01 18:50:00,8.2,6.5,Handles well on rough terrain.
+H0652,V016,2025-07-01 18:51:00,9.4,9.3,Noticeable noise from tires.
+H0653,V081,2025-07-01 18:52:00,6.3,5.5,Smooth ride with slight vibrations.
+H0654,V080,2025-07-01 18:53:00,7.7,8.2,Handles well on rough terrain.
+H0655,V019,2025-07-01 18:54:00,5.9,9.0,Handles well on rough terrain.
+H0656,V023,2025-07-01 18:55:00,7.4,6.8,Cabin noise higher than expected.
+H0657,V071,2025-07-01 18:56:00,6.3,7.2,Smooth ride with slight vibrations.
+H0658,V053,2025-07-01 18:57:00,9.0,9.0,Great handling in wet conditions.
+H0659,V050,2025-07-01 18:58:00,8.1,8.5,Comfortable and quiet.
+H0660,V095,2025-07-01 18:59:00,5.8,8.5,Comfortable and quiet.
+H0661,V066,2025-07-01 19:00:00,9.1,7.4,Smooth ride with slight vibrations.
+H0662,V059,2025-07-01 19:01:00,5.3,7.2,Great handling in wet conditions.
+H0663,V024,2025-07-01 19:02:00,8.2,9.4,Smooth ride with slight vibrations.
+H0664,V075,2025-07-01 19:03:00,7.5,8.0,Noticeable noise from tires.
+H0665,V053,2025-07-01 19:04:00,6.0,7.4,Handles well on rough terrain.
+H0666,V089,2025-07-01 19:05:00,7.6,5.2,Noticeable noise from tires.
+H0667,V014,2025-07-01 19:06:00,6.0,7.4,Vibrations felt on steering wheel.
+H0668,V004,2025-07-01 19:07:00,7.2,9.5,Comfortable and quiet.
+H0669,V016,2025-07-01 19:08:00,5.6,7.3,Comfortable and quiet.
+H0670,V022,2025-07-01 19:09:00,5.3,9.7,Smooth ride with slight vibrations.
+H0671,V052,2025-07-01 19:10:00,7.1,7.4,Cabin noise higher than expected.
+H0672,V083,2025-07-01 19:11:00,7.7,8.3,Noticeable noise from tires.
+H0673,V080,2025-07-01 19:12:00,5.1,9.8,Cabin noise higher than expected.
+H0674,V068,2025-07-01 19:13:00,6.3,7.3,Needs suspension tuning.
+H0675,V028,2025-07-01 19:14:00,7.0,9.7,Comfortable and quiet.
+H0676,V090,2025-07-01 19:15:00,8.9,9.9,Needs suspension tuning.
+H0677,V095,2025-07-01 19:16:00,9.7,6.9,Handles well on rough terrain.
+H0678,V048,2025-07-01 19:17:00,8.0,5.4,Noticeable noise from tires.
+H0679,V051,2025-07-01 19:18:00,6.3,5.9,Needs suspension tuning.
+H0680,V033,2025-07-01 19:19:00,5.3,5.6,Vibrations felt on steering wheel.
+H0681,V001,2025-07-01 19:20:00,8.1,6.4,Needs suspension tuning.
+H0682,V014,2025-07-01 19:21:00,8.1,7.5,Noticeable noise from tires.
+H0683,V076,2025-07-01 19:22:00,8.9,9.9,Noticeable noise from tires.
+H0684,V026,2025-07-01 19:23:00,7.6,5.7,Handles well on rough terrain.
+H0685,V007,2025-07-01 19:24:00,8.2,9.2,Cabin noise higher than expected.
+H0686,V088,2025-07-01 19:25:00,6.9,5.1,Vibrations felt on steering wheel.
+H0687,V046,2025-07-01 19:26:00,5.7,9.5,Needs suspension tuning.
+H0688,V091,2025-07-01 19:27:00,9.1,7.7,Comfortable and quiet.
+H0689,V094,2025-07-01 19:28:00,8.7,9.1,Vibrations felt on steering wheel.
+H0690,V059,2025-07-01 19:29:00,9.1,5.9,Smooth ride with slight vibrations.
+H0691,V027,2025-07-01 19:30:00,9.6,5.0,Great handling in wet conditions.
+H0692,V050,2025-07-01 19:31:00,10.0,6.2,Noticeable noise from tires.
+H0693,V042,2025-07-01 19:32:00,7.2,8.6,Cabin noise higher than expected.
+H0694,V076,2025-07-01 19:33:00,6.4,6.9,Great handling in wet conditions.
+H0695,V050,2025-07-01 19:34:00,8.9,7.3,Handles well on rough terrain.
+H0696,V098,2025-07-01 19:35:00,9.4,5.2,Great handling in wet conditions.
+H0697,V067,2025-07-01 19:36:00,7.0,9.1,Noticeable noise from tires.
+H0698,V028,2025-07-01 19:37:00,7.2,7.3,Needs suspension tuning.
+H0699,V040,2025-07-01 19:38:00,5.1,7.0,Needs suspension tuning.
+H0700,V069,2025-07-01 19:39:00,9.1,5.5,Needs suspension tuning.
+H0701,V029,2025-07-01 19:40:00,9.1,7.1,Comfortable and quiet.
+H0702,V073,2025-07-01 19:41:00,5.4,5.5,Great handling in wet conditions.
+H0703,V036,2025-07-01 19:42:00,9.2,8.6,Great handling in wet conditions.
+H0704,V020,2025-07-01 19:43:00,9.9,9.0,Noticeable noise from tires.
+H0705,V016,2025-07-01 19:44:00,8.7,9.5,Cabin noise higher than expected.
+H0706,V027,2025-07-01 19:45:00,4.0,6.1,Comfortable and quiet.
+H0707,V093,2025-07-01 19:46:00,8.6,7.1,Noticeable noise from tires.
+H0708,V036,2025-07-01 19:47:00,8.6,5.1,Needs suspension tuning.
+H0709,V048,2025-07-01 19:48:00,5.9,6.4,Smooth ride with slight vibrations.
+H0710,V085,2025-07-01 19:49:00,5.1,7.8,Handles well on rough terrain.
+H0711,V074,2025-07-01 19:50:00,5.6,7.9,Noticeable noise from tires.
+H0712,V055,2025-07-01 19:51:00,9.3,6.3,Noticeable noise from tires.
+H0713,V074,2025-07-01 19:52:00,9.3,8.3,Handles well on rough terrain.
+H0714,V036,2025-07-01 19:53:00,6.8,7.4,Smooth ride with slight vibrations.
+H0715,V096,2025-07-01 19:54:00,8.6,9.0,Handles well on rough terrain.
+H0716,V061,2025-07-01 19:55:00,6.5,9.8,Great handling in wet conditions.
+H0717,V033,2025-07-01 19:56:00,9.7,9.4,Smooth ride with slight vibrations.
+H0718,V034,2025-07-01 19:57:00,9.8,5.9,Comfortable and quiet.
+H0719,V037,2025-07-01 19:58:00,8.9,6.1,Needs suspension tuning.
+H0720,V007,2025-07-01 19:59:00,7.3,8.9,Smooth ride with slight vibrations.
+H0721,V093,2025-07-01 20:00:00,7.3,9.7,Needs suspension tuning.
+H0722,V034,2025-07-01 20:01:00,6.1,8.7,Needs suspension tuning.
+H0723,V065,2025-07-01 20:02:00,4.0,6.7,Great handling in wet conditions.
+H0724,V011,2025-07-01 20:03:00,7.2,9.4,Vibrations felt on steering wheel.
+H0725,V016,2025-07-01 20:04:00,5.4,8.6,Needs suspension tuning.
+H0726,V077,2025-07-01 20:05:00,6.8,9.7,Comfortable and quiet.
+H0727,V046,2025-07-01 20:06:00,9.7,9.0,Needs suspension tuning.
+H0728,V048,2025-07-01 20:07:00,7.4,7.8,Comfortable and quiet.
+H0729,V048,2025-07-01 20:08:00,4.0,6.4,Handles well on rough terrain.
+H0730,V098,2025-07-01 20:09:00,7.9,8.4,Noticeable noise from tires.
+H0731,V084,2025-07-01 20:10:00,8.3,6.3,Handles well on rough terrain.
+H0732,V059,2025-07-01 20:11:00,9.7,8.1,Needs suspension tuning.
+H0733,V066,2025-07-01 20:12:00,7.2,9.7,Noticeable noise from tires.
+H0734,V008,2025-07-01 20:13:00,8.1,5.5,Comfortable and quiet.
+H0735,V041,2025-07-01 20:14:00,6.4,9.8,Cabin noise higher than expected.
+H0736,V063,2025-07-01 20:15:00,8.1,6.8,Handles well on rough terrain.
+H0737,V055,2025-07-01 20:16:00,9.4,5.4,Noticeable noise from tires.
+H0738,V087,2025-07-01 20:17:00,5.8,5.2,Noticeable noise from tires.
+H0739,V003,2025-07-01 20:18:00,8.2,7.6,Smooth ride with slight vibrations.
+H0740,V014,2025-07-01 20:19:00,7.6,9.7,Vibrations felt on steering wheel.
+H0741,V051,2025-07-01 20:20:00,8.7,9.7,Great handling in wet conditions.
+H0742,V002,2025-07-01 20:21:00,9.6,6.7,Smooth ride with slight vibrations.
+H0743,V043,2025-07-01 20:22:00,5.0,8.0,Cabin noise higher than expected.
+H0744,V091,2025-07-01 20:23:00,5.5,5.8,Vibrations felt on steering wheel.
+H0745,V094,2025-07-01 20:24:00,8.9,9.7,Vibrations felt on steering wheel.
+H0746,V096,2025-07-01 20:25:00,9.2,6.8,Handles well on rough terrain.
+H0747,V091,2025-07-01 20:26:00,9.0,8.3,Vibrations felt on steering wheel.
+H0748,V020,2025-07-01 20:27:00,8.1,7.1,Comfortable and quiet.
+H0749,V055,2025-07-01 20:28:00,7.6,5.4,Handles well on rough terrain.
+H0750,V068,2025-07-01 20:29:00,5.7,5.3,Needs suspension tuning.
+H0751,V037,2025-07-01 20:30:00,8.9,6.5,Vibrations felt on steering wheel.
+H0752,V079,2025-07-01 20:31:00,8.3,6.8,Noticeable noise from tires.
+H0753,V075,2025-07-01 20:32:00,8.5,7.1,Handles well on rough terrain.
+H0754,V026,2025-07-01 20:33:00,6.4,8.1,Needs suspension tuning.
+H0755,V001,2025-07-01 20:34:00,9.3,9.4,Great handling in wet conditions.
+H0756,V017,2025-07-01 20:35:00,7.5,9.1,Great handling in wet conditions.
+H0757,V093,2025-07-01 20:36:00,7.1,8.1,Smooth ride with slight vibrations.
+H0758,V033,2025-07-01 20:37:00,9.5,9.9,Smooth ride with slight vibrations.
+H0759,V030,2025-07-01 20:38:00,8.4,5.9,Needs suspension tuning.
+H0760,V005,2025-07-01 20:39:00,6.9,7.9,Cabin noise higher than expected.
+H0761,V100,2025-07-01 20:40:00,5.5,7.7,Needs suspension tuning.
+H0762,V056,2025-07-01 20:41:00,5.7,6.2,Cabin noise higher than expected.
+H0763,V047,2025-07-01 20:42:00,10.0,6.4,Great handling in wet conditions.
+H0764,V036,2025-07-01 20:43:00,8.6,5.0,Vibrations felt on steering wheel.
+H0765,V100,2025-07-01 20:44:00,7.2,9.4,Noticeable noise from tires.
+H0766,V045,2025-07-01 20:45:00,8.8,7.7,Smooth ride with slight vibrations.
+H0767,V049,2025-07-01 20:46:00,7.8,8.5,Noticeable noise from tires.
+H0768,V049,2025-07-01 20:47:00,5.9,7.2,Vibrations felt on steering wheel.
+H0769,V036,2025-07-01 20:48:00,7.1,7.8,Noticeable noise from tires.
+H0770,V009,2025-07-01 20:49:00,8.9,8.2,Cabin noise higher than expected.
+H0771,V026,2025-07-01 20:50:00,7.0,5.7,Handles well on rough terrain.
+H0772,V057,2025-07-01 20:51:00,6.4,8.0,Comfortable and quiet.
+H0773,V080,2025-07-01 20:52:00,8.6,10.0,Handles well on rough terrain.
+H0774,V075,2025-07-01 20:53:00,8.6,8.9,Great handling in wet conditions.
+H0775,V013,2025-07-01 20:54:00,7.8,9.0,Noticeable noise from tires.
+H0776,V053,2025-07-01 20:55:00,8.7,8.3,Comfortable and quiet.
+H0777,V094,2025-07-01 20:56:00,7.8,5.8,Great handling in wet conditions.
+H0778,V011,2025-07-01 20:57:00,5.4,8.1,Needs suspension tuning.
+H0779,V021,2025-07-01 20:58:00,6.7,9.6,Great handling in wet conditions.
+H0780,V046,2025-07-01 20:59:00,9.0,6.5,Smooth ride with slight vibrations.
+H0781,V082,2025-07-01 21:00:00,5.3,9.4,Handles well on rough terrain.
+H0782,V045,2025-07-01 21:01:00,5.3,9.9,Great handling in wet conditions.
+H0783,V006,2025-07-01 21:02:00,6.1,6.4,Noticeable noise from tires.
+H0784,V014,2025-07-01 21:03:00,8.9,6.8,Smooth ride with slight vibrations.
+H0785,V038,2025-07-01 21:04:00,9.1,7.5,Smooth ride with slight vibrations.
+H0786,V011,2025-07-01 21:05:00,8.3,9.5,Noticeable noise from tires.
+H0787,V049,2025-07-01 21:06:00,7.5,8.4,Needs suspension tuning.
+H0788,V031,2025-07-01 21:07:00,5.6,8.7,Cabin noise higher than expected.
+H0789,V098,2025-07-01 21:08:00,8.7,8.3,Vibrations felt on steering wheel.
+H0790,V093,2025-07-01 21:09:00,7.4,9.3,Needs suspension tuning.
+H0791,V090,2025-07-01 21:10:00,6.1,8.8,Cabin noise higher than expected.
+H0792,V047,2025-07-01 21:11:00,9.3,7.3,Smooth ride with slight vibrations.
+H0793,V027,2025-07-01 21:12:00,5.1,9.7,Great handling in wet conditions.
+H0794,V095,2025-07-01 21:13:00,6.3,7.9,Noticeable noise from tires.
+H0795,V025,2025-07-01 21:14:00,9.4,5.5,Noticeable noise from tires.
+H0796,V089,2025-07-01 21:15:00,8.3,6.0,Handles well on rough terrain.
+H0797,V014,2025-07-01 21:16:00,8.4,8.6,Cabin noise higher than expected.
+H0798,V022,2025-07-01 21:17:00,6.6,6.2,Great handling in wet conditions.
+H0799,V097,2025-07-01 21:18:00,6.5,8.6,Comfortable and quiet.
+H0800,V083,2025-07-01 21:19:00,7.4,9.0,Noticeable noise from tires.
+H0801,V061,2025-07-01 21:20:00,6.6,5.1,Great handling in wet conditions.
+H0802,V070,2025-07-01 21:21:00,9.8,8.0,Noticeable noise from tires.
+H0803,V040,2025-07-01 21:22:00,6.1,7.3,Smooth ride with slight vibrations.
+H0804,V046,2025-07-01 21:23:00,8.9,5.1,Noticeable noise from tires.
+H0805,V045,2025-07-01 21:24:00,7.5,9.4,Cabin noise higher than expected.
+H0806,V034,2025-07-01 21:25:00,8.7,5.4,Handles well on rough terrain.
+H0807,V042,2025-07-01 21:26:00,6.6,8.3,Noticeable noise from tires.
+H0808,V091,2025-07-01 21:27:00,7.2,7.5,Smooth ride with slight vibrations.
+H0809,V016,2025-07-01 21:28:00,6.1,9.4,Noticeable noise from tires.
+H0810,V034,2025-07-01 21:29:00,8.3,7.6,Smooth ride with slight vibrations.
+H0811,V066,2025-07-01 21:30:00,10.0,6.9,Great handling in wet conditions.
+H0812,V058,2025-07-01 21:31:00,5.5,9.6,Smooth ride with slight vibrations.
+H0813,V056,2025-07-01 21:32:00,8.7,8.4,Handles well on rough terrain.
+H0814,V015,2025-07-01 21:33:00,6.5,9.0,Needs suspension tuning.
+H0815,V086,2025-07-01 21:34:00,5.0,8.7,Cabin noise higher than expected.
+H0816,V007,2025-07-01 21:35:00,8.5,9.3,Great handling in wet conditions.
+H0817,V079,2025-07-01 21:36:00,8.7,9.7,Needs suspension tuning.
+H0818,V083,2025-07-01 21:37:00,7.1,6.9,Handles well on rough terrain.
+H0819,V086,2025-07-01 21:38:00,9.3,7.3,Smooth ride with slight vibrations.
+H0820,V074,2025-07-01 21:39:00,8.8,6.6,Vibrations felt on steering wheel.
+H0821,V093,2025-07-01 21:40:00,9.2,8.4,Handles well on rough terrain.
+H0822,V026,2025-07-01 21:41:00,7.9,5.9,Cabin noise higher than expected.
+H0823,V023,2025-07-01 21:42:00,9.8,6.2,Handles well on rough terrain.
+H0824,V056,2025-07-01 21:43:00,8.5,7.5,Cabin noise higher than expected.
+H0825,V002,2025-07-01 21:44:00,9.5,5.1,Comfortable and quiet.
+H0826,V081,2025-07-01 21:45:00,7.9,8.7,Handles well on rough terrain.
+H0827,V037,2025-07-01 21:46:00,6.3,6.8,Comfortable and quiet.
+H0828,V064,2025-07-01 21:47:00,6.9,8.5,Smooth ride with slight vibrations.
+H0829,V085,2025-07-01 21:48:00,5.8,9.6,Noticeable noise from tires.
+H0830,V037,2025-07-01 21:49:00,9.9,8.6,Smooth ride with slight vibrations.
+H0831,V097,2025-07-01 21:50:00,6.6,6.9,Comfortable and quiet.
+H0832,V020,2025-07-01 21:51:00,7.2,5.3,Vibrations felt on steering wheel.
+H0833,V037,2025-07-01 21:52:00,9.5,7.8,Vibrations felt on steering wheel.
+H0834,V043,2025-07-01 21:53:00,9.8,7.5,Vibrations felt on steering wheel.
+H0835,V038,2025-07-01 21:54:00,6.7,8.1,Smooth ride with slight vibrations.
+H0836,V040,2025-07-01 21:55:00,8.4,8.4,Smooth ride with slight vibrations.
+H0837,V028,2025-07-01 21:56:00,8.8,6.6,Comfortable and quiet.
+H0838,V076,2025-07-01 21:57:00,7.6,9.3,Vibrations felt on steering wheel.
+H0839,V067,2025-07-01 21:58:00,6.2,9.8,Needs suspension tuning.
+H0840,V040,2025-07-01 21:59:00,7.7,7.0,Needs suspension tuning.
+H0841,V052,2025-07-01 22:00:00,5.9,6.1,Vibrations felt on steering wheel.
+H0842,V097,2025-07-01 22:01:00,5.7,9.6,Smooth ride with slight vibrations.
+H0843,V047,2025-07-01 22:02:00,8.4,9.0,Needs suspension tuning.
+H0844,V047,2025-07-01 22:03:00,5.1,7.6,Vibrations felt on steering wheel.
+H0845,V051,2025-07-01 22:04:00,9.8,8.6,Noticeable noise from tires.
+H0846,V092,2025-07-01 22:05:00,7.1,10.0,Noticeable noise from tires.
+H0847,V005,2025-07-01 22:06:00,9.7,8.1,Smooth ride with slight vibrations.
+H0848,V059,2025-07-01 22:07:00,7.0,7.8,Smooth ride with slight vibrations.
+H0849,V067,2025-07-01 22:08:00,9.4,5.2,Smooth ride with slight vibrations.
+H0850,V028,2025-07-01 22:09:00,5.8,5.9,Needs suspension tuning.
+H0851,V039,2025-07-01 22:10:00,5.7,9.5,Cabin noise higher than expected.
+H0852,V082,2025-07-01 22:11:00,5.4,8.9,Needs suspension tuning.
+H0853,V068,2025-07-01 22:12:00,6.9,7.0,Noticeable noise from tires.
+H0854,V030,2025-07-01 22:13:00,5.9,6.1,Great handling in wet conditions.
+H0855,V086,2025-07-01 22:14:00,8.1,5.2,Great handling in wet conditions.
+H0856,V049,2025-07-01 22:15:00,8.9,9.2,Vibrations felt on steering wheel.
+H0857,V075,2025-07-01 22:16:00,5.6,9.7,Vibrations felt on steering wheel.
+H0858,V078,2025-07-01 22:17:00,8.2,8.5,Handles well on rough terrain.
+H0859,V054,2025-07-01 22:18:00,8.2,7.2,Needs suspension tuning.
+H0860,V023,2025-07-01 22:19:00,9.7,9.1,Great handling in wet conditions.
+H0861,V012,2025-07-01 22:20:00,7.9,8.8,Handles well on rough terrain.
+H0862,V094,2025-07-01 22:21:00,7.5,7.1,Great handling in wet conditions.
+H0863,V018,2025-07-01 22:22:00,5.9,8.9,Noticeable noise from tires.
+H0864,V011,2025-07-01 22:23:00,9.4,6.9,Comfortable and quiet.
+H0865,V076,2025-07-01 22:24:00,6.4,6.7,Vibrations felt on steering wheel.
+H0866,V093,2025-07-01 22:25:00,6.8,5.7,Needs suspension tuning.
+H0867,V078,2025-07-01 22:26:00,5.1,9.4,Great handling in wet conditions.
+H0868,V074,2025-07-01 22:27:00,5.8,9.0,Handles well on rough terrain.
+H0869,V021,2025-07-01 22:28:00,7.1,6.0,Comfortable and quiet.
+H0870,V039,2025-07-01 22:29:00,5.3,9.6,Comfortable and quiet.
+H0871,V098,2025-07-01 22:30:00,8.3,8.3,Smooth ride with slight vibrations.
+H0872,V013,2025-07-01 22:31:00,6.5,5.2,Comfortable and quiet.
+H0873,V052,2025-07-01 22:32:00,7.8,8.0,Noticeable noise from tires.
+H0874,V041,2025-07-01 22:33:00,7.1,5.6,Noticeable noise from tires.
+H0875,V037,2025-07-01 22:34:00,6.3,5.5,Smooth ride with slight vibrations.
+H0876,V068,2025-07-01 22:35:00,9.9,7.0,Comfortable and quiet.
+H0877,V075,2025-07-01 22:36:00,7.2,6.3,Noticeable noise from tires.
+H0878,V051,2025-07-01 22:37:00,5.8,7.2,Smooth ride with slight vibrations.
+H0879,V057,2025-07-01 22:38:00,6.5,8.5,Great handling in wet conditions.
+H0880,V082,2025-07-01 22:39:00,9.7,6.2,Smooth ride with slight vibrations.
+H0881,V018,2025-07-01 22:40:00,7.9,5.8,Noticeable noise from tires.
+H0882,V032,2025-07-01 22:41:00,6.3,8.8,Great handling in wet conditions.
+H0883,V100,2025-07-01 22:42:00,4.0,5.2,Noticeable noise from tires.
+H0884,V032,2025-07-01 22:43:00,6.3,9.2,Cabin noise higher than expected.
+H0885,V019,2025-07-01 22:44:00,7.8,6.7,Vibrations felt on steering wheel.
+H0886,V032,2025-07-01 22:45:00,7.8,6.4,Great handling in wet conditions.
+H0887,V052,2025-07-01 22:46:00,5.1,5.6,Vibrations felt on steering wheel.
+H0888,V071,2025-07-01 22:47:00,6.4,6.7,Needs suspension tuning.
+H0889,V007,2025-07-01 22:48:00,7.9,6.2,Noticeable noise from tires.
+H0890,V036,2025-07-01 22:49:00,7.2,5.8,Vibrations felt on steering wheel.
+H0891,V091,2025-07-01 22:50:00,5.2,6.1,Noticeable noise from tires.
+H0892,V068,2025-07-01 22:51:00,9.3,9.8,Noticeable noise from tires.
+H0893,V029,2025-07-01 22:52:00,7.7,6.1,Needs suspension tuning.
+H0894,V030,2025-07-01 22:53:00,6.1,5.5,Smooth ride with slight vibrations.
+H0895,V030,2025-07-01 22:54:00,9.0,5.3,Cabin noise higher than expected.
+H0896,V028,2025-07-01 22:55:00,6.7,7.5,Cabin noise higher than expected.
+H0897,V012,2025-07-01 22:56:00,7.9,6.2,Vibrations felt on steering wheel.
+H0898,V019,2025-07-01 22:57:00,7.1,5.3,Great handling in wet conditions.
+H0899,V085,2025-07-01 22:58:00,7.1,8.7,Vibrations felt on steering wheel.
+H0900,V059,2025-07-01 22:59:00,7.1,9.4,Handles well on rough terrain.
+H0901,V020,2025-07-01 23:00:00,8.4,8.0,Smooth ride with slight vibrations.
+H0902,V023,2025-07-01 23:01:00,8.8,9.8,Handles well on rough terrain.
+H0903,V023,2025-07-01 23:02:00,9.5,6.2,Comfortable and quiet.
+H0904,V077,2025-07-01 23:03:00,8.7,5.2,Vibrations felt on steering wheel.
+H0905,V050,2025-07-01 23:04:00,7.4,6.0,Noticeable noise from tires.
+H0906,V099,2025-07-01 23:05:00,7.9,6.5,Great handling in wet conditions.
+H0907,V078,2025-07-01 23:06:00,8.1,8.2,Noticeable noise from tires.
+H0908,V045,2025-07-01 23:07:00,7.0,10.0,Cabin noise higher than expected.
+H0909,V027,2025-07-01 23:08:00,8.5,5.8,Vibrations felt on steering wheel.
+H0910,V065,2025-07-01 23:09:00,8.5,6.6,Noticeable noise from tires.
+H0911,V058,2025-07-01 23:10:00,5.6,8.0,Handles well on rough terrain.
+H0912,V019,2025-07-01 23:11:00,8.3,9.6,Noticeable noise from tires.
+H0913,V046,2025-07-01 23:12:00,9.0,8.0,Cabin noise higher than expected.
+H0914,V025,2025-07-01 23:13:00,5.5,8.7,Comfortable and quiet.
+H0915,V011,2025-07-01 23:14:00,9.8,9.5,Smooth ride with slight vibrations.
+H0916,V040,2025-07-01 23:15:00,9.4,9.8,Smooth ride with slight vibrations.
+H0917,V081,2025-07-01 23:16:00,7.0,6.3,Vibrations felt on steering wheel.
+H0918,V062,2025-07-01 23:17:00,8.7,8.4,Comfortable and quiet.
+H0919,V071,2025-07-01 23:18:00,5.8,8.5,Noticeable noise from tires.
+H0920,V044,2025-07-01 23:19:00,9.3,5.9,Vibrations felt on steering wheel.
+H0921,V038,2025-07-01 23:20:00,7.7,6.3,Noticeable noise from tires.
+H0922,V081,2025-07-01 23:21:00,9.5,8.7,Cabin noise higher than expected.
+H0923,V014,2025-07-01 23:22:00,9.7,9.2,Comfortable and quiet.
+H0924,V071,2025-07-01 23:23:00,8.9,8.5,Handles well on rough terrain.
+H0925,V088,2025-07-01 23:24:00,8.0,6.9,Great handling in wet conditions.
+H0926,V093,2025-07-01 23:25:00,5.4,5.6,Cabin noise higher than expected.
+H0927,V093,2025-07-01 23:26:00,8.4,5.3,Smooth ride with slight vibrations.
+H0928,V096,2025-07-01 23:27:00,4.0,6.3,Comfortable and quiet.
+H0929,V028,2025-07-01 23:28:00,8.1,9.3,Comfortable and quiet.
+H0930,V007,2025-07-01 23:29:00,9.5,9.9,Great handling in wet conditions.
+H0931,V029,2025-07-01 23:30:00,8.4,8.6,Great handling in wet conditions.
+H0932,V003,2025-07-01 23:31:00,7.7,7.1,Smooth ride with slight vibrations.
+H0933,V089,2025-07-01 23:32:00,6.9,5.8,Needs suspension tuning.
+H0934,V072,2025-07-01 23:33:00,7.3,6.3,Vibrations felt on steering wheel.
+H0935,V048,2025-07-01 23:34:00,8.4,6.1,Comfortable and quiet.
+H0936,V032,2025-07-01 23:35:00,6.7,5.5,Cabin noise higher than expected.
+H0937,V075,2025-07-01 23:36:00,8.1,8.0,Cabin noise higher than expected.
+H0938,V042,2025-07-01 23:37:00,7.0,7.9,Cabin noise higher than expected.
+H0939,V074,2025-07-01 23:38:00,5.9,8.4,Cabin noise higher than expected.
+H0940,V092,2025-07-01 23:39:00,7.2,8.1,Cabin noise higher than expected.
+H0941,V085,2025-07-01 23:40:00,5.2,8.5,Smooth ride with slight vibrations.
+H0942,V027,2025-07-01 23:41:00,9.3,5.1,Handles well on rough terrain.
+H0943,V036,2025-07-01 23:42:00,6.3,6.8,Noticeable noise from tires.
+H0944,V023,2025-07-01 23:43:00,5.1,6.8,Cabin noise higher than expected.
+H0945,V026,2025-07-01 23:44:00,10.0,5.9,Noticeable noise from tires.
+H0946,V027,2025-07-01 23:45:00,9.5,8.0,Comfortable and quiet.
+H0947,V089,2025-07-01 23:46:00,9.7,9.3,Handles well on rough terrain.
+H0948,V008,2025-07-01 23:47:00,7.2,6.2,Comfortable and quiet.
+H0949,V096,2025-07-01 23:48:00,6.6,8.4,Cabin noise higher than expected.
+H0950,V005,2025-07-01 23:49:00,8.5,5.3,Cabin noise higher than expected.
+H0951,V031,2025-07-01 23:50:00,9.3,6.0,Great handling in wet conditions.
+H0952,V052,2025-07-01 23:51:00,7.0,9.1,Great handling in wet conditions.
+H0953,V011,2025-07-01 23:52:00,8.3,5.3,Noticeable noise from tires.
+H0954,V057,2025-07-01 23:53:00,8.3,6.0,Cabin noise higher than expected.
+H0955,V020,2025-07-01 23:54:00,6.6,7.7,Smooth ride with slight vibrations.
+H0956,V060,2025-07-01 23:55:00,8.3,5.2,Needs suspension tuning.
+H0957,V079,2025-07-01 23:56:00,8.3,9.6,Cabin noise higher than expected.
+H0958,V077,2025-07-01 23:57:00,5.9,9.7,Handles well on rough terrain.
+H0959,V054,2025-07-01 23:58:00,8.5,9.5,Comfortable and quiet.
+H0960,V013,2025-07-01 23:59:00,8.0,7.0,Smooth ride with slight vibrations.
+H0961,V032,2025-07-02 00:00:00,9.6,7.5,Handles well on rough terrain.
+H0962,V041,2025-07-02 00:01:00,10.0,6.8,Great handling in wet conditions.
+H0963,V006,2025-07-02 00:02:00,8.6,8.0,Handles well on rough terrain.
+H0964,V002,2025-07-02 00:03:00,4.0,8.6,Cabin noise higher than expected.
+H0965,V075,2025-07-02 00:04:00,5.1,5.4,Noticeable noise from tires.
+H0966,V043,2025-07-02 00:05:00,5.2,8.7,Smooth ride with slight vibrations.
+H0967,V066,2025-07-02 00:06:00,7.0,8.1,Smooth ride with slight vibrations.
+H0968,V068,2025-07-02 00:07:00,9.8,7.8,Handles well on rough terrain.
+H0969,V081,2025-07-02 00:08:00,6.2,5.0,Needs suspension tuning.
+H0970,V051,2025-07-02 00:09:00,8.9,9.9,Comfortable and quiet.
+H0971,V019,2025-07-02 00:10:00,9.9,7.0,Great handling in wet conditions.
+H0972,V004,2025-07-02 00:11:00,7.0,6.2,Comfortable and quiet.
+H0973,V092,2025-07-02 00:12:00,5.1,7.8,Comfortable and quiet.
+H0974,V049,2025-07-02 00:13:00,8.3,8.8,Needs suspension tuning.
+H0975,V074,2025-07-02 00:14:00,7.9,7.1,Smooth ride with slight vibrations.
+H0976,V100,2025-07-02 00:15:00,9.1,6.7,Comfortable and quiet.
+H0977,V090,2025-07-02 00:16:00,10.0,5.5,Comfortable and quiet.
+H0978,V024,2025-07-02 00:17:00,8.3,6.5,Handles well on rough terrain.
+H0979,V025,2025-07-02 00:18:00,7.2,8.2,Smooth ride with slight vibrations.
+H0980,V047,2025-07-02 00:19:00,5.8,7.5,Great handling in wet conditions.
+H0981,V053,2025-07-02 00:20:00,5.1,9.7,Handles well on rough terrain.
+H0982,V057,2025-07-02 00:21:00,9.4,5.4,Great handling in wet conditions.
+H0983,V073,2025-07-02 00:22:00,6.9,7.5,Smooth ride with slight vibrations.
+H0984,V067,2025-07-02 00:23:00,5.6,6.9,Vibrations felt on steering wheel.
+H0985,V031,2025-07-02 00:24:00,5.0,6.9,Cabin noise higher than expected.
+H0986,V100,2025-07-02 00:25:00,6.3,6.5,Handles well on rough terrain.
+H0987,V006,2025-07-02 00:26:00,8.9,8.0,Comfortable and quiet.
+H0988,V081,2025-07-02 00:27:00,6.0,6.1,Great handling in wet conditions.
+H0989,V033,2025-07-02 00:28:00,8.1,9.0,Cabin noise higher than expected.
+H0990,V050,2025-07-02 00:29:00,7.6,6.8,Vibrations felt on steering wheel.
+H0991,V061,2025-07-02 00:30:00,7.8,6.5,Great handling in wet conditions.
+H0992,V097,2025-07-02 00:31:00,6.8,8.3,Handles well on rough terrain.
+H0993,V054,2025-07-02 00:32:00,7.3,5.7,Great handling in wet conditions.
+H0994,V061,2025-07-02 00:33:00,6.8,6.5,Smooth ride with slight vibrations.
+H0995,V069,2025-07-02 00:34:00,5.9,5.3,Great handling in wet conditions.
+H0996,V065,2025-07-02 00:35:00,7.1,8.2,Great handling in wet conditions.
+H0997,V083,2025-07-02 00:36:00,8.8,9.9,Noticeable noise from tires.
+H0998,V041,2025-07-02 00:37:00,5.2,6.5,Noticeable noise from tires.
+H0999,V092,2025-07-02 00:38:00,5.5,5.2,Cabin noise higher than expected.
+H1000,V081,2025-07-02 00:39:00,5.8,8.3,Handles well on rough terrain.
