@@ -1,132 +1,124 @@
 import pandas as pd
-import random
-from datetime import datetime, timedelta
 import numpy as np
+import random
 import os
+from datetime import datetime, timedelta
 
-# Ensure Data folder exists
-os.makedirs("Data", exist_ok=True)
+# Seed for reproducibility
+np.random.seed(42)
 
-NUM_RECORDS = 1000
+# Parameters
+n_rows = 500
+start_date = datetime(2025, 1, 1)
 
-# Constants
-VEHICLE_MODELS = [" Sedan-X", "SUV-Z ", "Hatch-a", "COUPE-Y", " van-m", "Truck-T "]
-ENGINE_TYPES = ["Petrol", "Diesel", "hybrid", "Electric ", None]
-TRANSMISSIONS = ["automatic", "Manual", " MANUAL", "Automatic "]
-COUNTRIES = [" Germany ", "usa", "JAPAN", "South Korea", "france "]
-
-ROAD_SURFACES = ["Asphalt", " gravel", "Concrete ", "CobbleStone", "dirt "]
-WEATHER = ["Sunny", "Rainy", " cloudy", "Dry", "Snowy"]
-LOADS = ["Light Load", "medium", "Full Load", " "]
-COMPONENTS = ["engine", "Cabin", "exhaust", "tires", "Transmission"]
-MEASUREMENT_POINTS = ["Front Left Axle", "Rear Right Axle", "steering column", "Chassis center", "floor Panel"]
-COMMENTS = [
-    " Smooth ride with slight vibrations.",
-    "Noticeable noise from tires ",
-    "handles well on rough terrain ",
-    "Cabin noise higher than expected",
-    "VIBRATIONS felt on steering wheel",
-    "Comfortable and quiet ",
-    "needs Suspension TUNING",
-    " Great handling in wet conditions"
+# Sample data options
+manufacturers = ['Bosch', 'Shimano', 'Specialized', 'Trek', 'Canyon', 'Haibike']
+models = [
+    ('Aventure.2', 'Aventon'),
+    ('Pathlite:ON 5', 'Canyon'),
+    ('Pace 500.3', 'Aventon'),
+    ('AllMtn 3', 'Haibike'),
+    ('Grand Canyon:ON 7', 'Canyon'),
+    ('CX Line TrailMaster', 'Bosch'),
+    ('Cargo Line eHauler', 'Bosch'),
+    ('Sinch.2 Foldable', 'Aventon'),
+    ('Trekking 4', 'Haibike'),
+    ('Torque:ON 8', 'Canyon'),
+    ('HardNine 6', 'Haibike'),
+    ('Soltera.2', 'Aventon'),
+    ('Neuron:ON 6', 'Canyon'),
+    ('XDURO NDURO 3.0', 'Haibike'),
+    ('Level.2 Commuter', 'Aventon'),
+    ('Spectral:ON CF 7', 'Canyon'),
+    ('FullNine 8', 'Haibike'),
+    ('Performance Line SportX', 'Bosch'),
+    ('Precede:ON CF 9', 'Canyon'),
+    ('Active Line UrbanCruiser', 'Bosch'),
+    ('Pace 350.3', 'Aventon')
 ]
 
-base_time = datetime(2025, 7, 1, 8, 0)
+components = [
+    'Motor', 'Frame', 'Crankset', 'Battery', 'Fork', 'Chain', 'Rear Shock',
+    'Handlebar', 'Pedal Assist Sensor', 'Gear Shifter', 'Brake Lever', 'Derailleur'
+]
+road_surfaces = ['Asphalt', 'Gravel', 'Cobblestone', 'Dirt', 'Forest Trail', 'Bike Lane']
+conditions = ['Dry', 'Wet', 'Uphill', 'Downhill', 'Windy', 'Cold Weather']
+feedback_comments = [
+    "Very smooth ride", "Too noisy", "Strong vibration on rough roads",
+    "Comfortable handling", "Noticeable harshness", "Quiet and stable",
+    "Needs improvement in suspension", "Good performance overall"
+]
 
-# Vehicles Table
-vehicle_list = []
-for i in range(1, 101):
-    record = {
-        "VehicleID": f"V{i:03}",
-        "Model": random.choice(VEHICLE_MODELS),
-        "ManufacturingDate": random.choice([
-            (datetime.strptime("2019-01-01", "%Y-%m-%d") + timedelta(days=random.randint(0, 2000))).strftime("%Y-%m-%d"),
-            (datetime.strptime("2019-01-01", "%Y-%m-%d") + timedelta(days=random.randint(0, 2000))).strftime("%d/%m/%Y")
-        ]),
-        "EngineType": random.choice(ENGINE_TYPES),
-        "Transmission": random.choice(TRANSMISSIONS),
-        "Country": random.choice(COUNTRIES),
-        "Location": random.choice(["Berlin, Germany", "Tokyo, Japan", "Texas, USA", "Paris, France", "Seoul, South Korea"])  # needs splitting
-    }
+# Generate synthetic data
+data = []
+for i in range(1, n_rows + 1):
+    model, manufacturer = random.choice(models)
+    mfg_date = start_date - timedelta(days=np.random.randint(200, 1000))
+    timestamp = start_date + timedelta(days=np.random.randint(0, 180),
+                                       hours=np.random.randint(0, 24),
+                                       minutes=np.random.randint(0, 60))
+    noise = round(np.random.normal(70, 5), 1)
+    vibration = round(np.random.normal(2.5, 0.7), 2)
+    harshness_score = round(np.clip(np.random.normal(3.5, 1.2), 1, 5), 1)
+    feedback = random.choice(feedback_comments)
+    component = random.choice(components)
+    surface = random.choice(road_surfaces)
+    condition = random.choice(conditions)
 
-    # Inject missing values
-    if random.random() < 0.02:
-        record["Transmission"] = ""
+    data.append([
+        i, model, manufacturer, mfg_date.strftime('%Y-%m-%d'), timestamp.strftime('%Y-%m-%d %H:%M:%S'),
+        noise, vibration, harshness_score, feedback,
+        component, surface, condition
+    ])
 
-    vehicle_list.append(record)
+# Create main DataFrame
+df = pd.DataFrame(data, columns=[
+    'TestID', 'Model', 'Manufacturer', 'ManufacturingDate', 'Timestamp',
+    'Noise_dB', 'Vibration_mps2', 'HarshnessScore', 'CustomerFeedback',
+    'Component', 'RoadSurface', 'OperatingCondition'
+])
 
-vehicles_df = pd.DataFrame(vehicle_list)
-vehicles_df = pd.concat([vehicles_df, vehicles_df.sample(5)])  # Add some duplicates
+# --- Create Dimension Tables ---
 
-# Measurement Conditions Table
-condition_list = []
-for i in range(1, 21):
-    condition_list.append({
-        "ConditionID": f"C{i:03}",
-        "RoadSurface": random.choice(ROAD_SURFACES),
-        "Speed_kmph": str(random.randint(30, 120)) if random.random() < 0.2 else random.randint(30, 120),
-        "Weather": random.choice(WEATHER),
-        "Load": random.choice(LOADS)
-    })
-conditions_df = pd.DataFrame(condition_list)
+# Model Dimension (add Manufacturer)
+dim_model = df[['Model', 'Manufacturer', 'ManufacturingDate']].drop_duplicates().reset_index(drop=True)
+dim_model['ModelID'] = dim_model.index + 1
 
-# Noise Data Table
-noise_records = []
-for i in range(NUM_RECORDS):
-    noise_level = round(random.normalvariate(72, 5), 1)
-    if random.random() < 0.02:
-        noise_level = random.choice([135.0, 145.0])  # Outlier
+# Component Dimension
+dim_component = df[['Component']].drop_duplicates().reset_index(drop=True)
+dim_component['ComponentID'] = dim_component.index + 1
 
-    noise_records.append({
-        "NoiseID": f"N{i+1:04}",
-        "VehicleID": random.choice(vehicles_df["VehicleID"]),
-        "ConditionID": random.choice(conditions_df["ConditionID"]),
-        "Timestamp": base_time + timedelta(minutes=i),
-        "Component": random.choice(COMPONENTS),
-        "SoundLevel_dB": str(noise_level) if random.random() < 0.1 else noise_level
-    })
-noise_df = pd.DataFrame(noise_records)
+# Surface Dimension
+dim_surface = df[['RoadSurface']].drop_duplicates().reset_index(drop=True)
+dim_surface['SurfaceID'] = dim_surface.index + 1
 
-# Vibration Data Table
-vibration_records = []
-for i in range(NUM_RECORDS):
-    vibration = round(random.uniform(0.15, 0.9), 2)
-    if random.random() < 0.02:
-        vibration = round(random.uniform(-1.0, -0.1), 2)  # Invalid
+# Condition Dimension
+dim_condition = df[['OperatingCondition']].drop_duplicates().reset_index(drop=True)
+dim_condition['ConditionID'] = dim_condition.index + 1
 
-    vibration_records.append({
-        "VibrationID": f"V{i+1:04}",
-        "VehicleID": random.choice(vehicles_df["VehicleID"]),
-        "ConditionID": random.choice(conditions_df["ConditionID"]),
-        "Timestamp": base_time + timedelta(minutes=i),
-        "MeasurementPoint": random.choice(MEASUREMENT_POINTS),
-        "Vibration_m_s2": str(vibration) if random.random() < 0.05 else vibration
-    })
-vibration_df = pd.DataFrame(vibration_records)
+# --- Create Fact Table with Foreign Keys ---
+fact_nvh = df.merge(dim_model, on=['Model', 'Manufacturer', 'ManufacturingDate'], how='left') \
+             .merge(dim_component, on='Component', how='left') \
+             .merge(dim_surface, on='RoadSurface', how='left') \
+             .merge(dim_condition, on='OperatingCondition', how='left')
 
-# Harshness Feedback Table
-feedback_records = []
-for i in range(NUM_RECORDS):
-    ride_score = round(random.uniform(5.0, 10.0), 1)
-    handling_score = round(random.uniform(5.0, 10.0), 1)
-    if random.random() < 0.02:
-        ride_score = random.choice([11.0, 4.0])  # Invalid
+fact_nvh = fact_nvh[[
+    'TestID', 'Timestamp', 'Noise_dB', 'Vibration_mps2', 'HarshnessScore', 'CustomerFeedback',
+    'ModelID', 'ComponentID', 'SurfaceID', 'ConditionID'
+]]
 
-    feedback_records.append({
-        "FeedbackID": f"H{i+1:04}",
-        "VehicleID": random.choice(vehicles_df["VehicleID"]),
-        "Timestamp": base_time + timedelta(minutes=i),
-        "RideComfortScore": str(ride_score) if random.random() < 0.1 else ride_score,
-        "HandlingScore": handling_score,
-        "Comment": random.choice(COMMENTS)
-    })
-feedback_df = pd.DataFrame(feedback_records)
+# Create folder if not exists
+output_dir = "Produced_Data"
+os.makedirs(output_dir, exist_ok=True)
 
-# Save to CSV
-vehicles_df.to_csv("Data/vehicles.csv", index=False)
-conditions_df.to_csv("Data/measurement_conditions.csv", index=False)
-noise_df.to_csv("Data/noise_data.csv", index=False)
-vibration_df.to_csv("Data/vibration_data.csv", index=False)
-feedback_df.to_csv("Data/harshness_feedback.csv", index=False)
+# Save CSVs into the folder
+fact_nvh.to_csv(os.path.join(output_dir, "Test_Data.csv"), index=False)
+dim_model.to_csv(os.path.join(output_dir, "Model.csv"), index=False)
+dim_component.to_csv(os.path.join(output_dir, "Component.csv"), index=False)
+dim_surface.to_csv(os.path.join(output_dir, "Surface.csv"), index=False)
+dim_condition.to_csv(os.path.join(output_dir, "Condition.csv"), index=False)
 
-print("✅ Data created with realistic anomalies for cleaning: whitespace, formatting, duplicates, type mismatch, etc.")
+# Print confirmation
+print("\n✅ All files saved in the 'Produced_Data' folder:")
+for file in os.listdir(output_dir):
+    print("  -", file)
