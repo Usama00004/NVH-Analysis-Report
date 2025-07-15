@@ -50,7 +50,7 @@ Access the live, interactive Power BI report here:
 
 [Power BI Live Report](https://app.powerbi.com/view?r=eyJrIjoiNmFhODkxNTQtMzE1ZS00NGY2LTg0OGQtZTNjZTU4ODZhYjM3IiwidCI6IjRmOGE3YmJkLTA2NGItNDEzNC1hZDc2LTU0ZmYyNTVmODllNiIsImMiOjl9&pageName=4d4b68f8a00b62dbe04e)
 
----
+-
 
 ## About the Author
 
@@ -58,7 +58,7 @@ Prepared by: **Usama Tahir**
 
 - [Portfolio](https://usama00004.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/usamatahir-00004)
-
+- [Email](usamatahir00004@gmail.com)
 
 
 
