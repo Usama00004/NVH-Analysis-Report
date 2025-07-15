@@ -4,6 +4,8 @@ This repository contains the complete documentation and resources for the **NVH 
 
 ## Project Overview
 
+![Project Architecture](images/architecture.jpg)
+
 The NVH analysis evaluates noise, vibration, and harshness characteristics to identify comfort and regulatory compliance issues in electric bikes. The study involves:
 
 - Synthetic data generation using Python libraries (`pandas`, `numpy`, `random`)
