@@ -2,7 +2,7 @@
 
 This repository contains the complete documentation and resources for the **NVH (Noise, Vibration, and Harshness) Analysis** project focused on electric bikes. The analysis uses synthetic data generated via Python and comprehensive Power BI dashboards to explore NVH metrics across various bike manufacturers and operating conditions.
 
----
+-
 
 ## Project Overview
 
@@ -13,7 +13,7 @@ The NVH analysis evaluates noise, vibration, and harshness characteristics to id
 - Interactive visualizations and dashboards built with Power BI Desktop
 - Online sharing of reports via Power BI Service
 
----
+-
 
 ## Repository Contents
 
@@ -24,7 +24,7 @@ The NVH analysis evaluates noise, vibration, and harshness characteristics to id
 - `powerbi/` – Power BI Desktop (.pbix) files with dashboards and data models
 - `README.md` – This file
 
----
+-
 
 ## Key Features
 
@@ -34,7 +34,7 @@ The NVH analysis evaluates noise, vibration, and harshness characteristics to id
 - Interactive dashboards showcasing noise, vibration, and harshness insights
 - Automated scheduled data refresh configured in Power BI Service
 
----
+-
 
 ## Important Notes
 
@@ -42,7 +42,7 @@ The NVH analysis evaluates noise, vibration, and harshness characteristics to id
 - Metrics and trends in the report will change with each data refresh.
 - The project aims to showcase data modeling, analysis, and visualization techniques for NVH data in electric bikes.
 
----
+-
 
 ## Online Report Access
 
@@ -56,24 +56,9 @@ Access the live, interactive Power BI report here:
 
 Prepared by: **Usama Tahir**
 
-- [Portfolio](https://usamatahir.dev)
-- [LinkedIn](https://www.linkedin.com/in/usamatahir)
+- [Portfolio](https://usama00004.github.io/portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/usamatahir-00004)
 
----
 
-## How to Run
 
-1. Run the Python script(s) in the `python/` directory to generate synthetic NVH data CSV files.
-2. Load these CSV files into Power BI Desktop to explore and modify the dashboards.
-3. Publish your Power BI report to the Power BI Service for online sharing and scheduled refresh.
-
----
-
-## Contact
-
-For questions or collaboration, feel free to reach out via LinkedIn or email.
-
----
-
-*This project is intended for educational and demonstration purposes only.*
 
