@@ -1,56 +1,79 @@
-# NVH Visualization using Python & Power BI
+# NVH Analysis Task Report
 
-This project demonstrates how to generate dummy data using Python and then visualize it using **Power BI**. It's designed to simulate a real-world workflow for **data analysis**, **dashboard building**, and **business intelligence** tasks.
-
-## 🧰 Tech Stack
-
-- **Python** (Data generation, processing)
-- **Pandas** (Data manipulation)
-- **NumPy / Faker** (Dummy data generation)
-- **Power BI** (Data visualization and dashboard creation)
+This repository contains the complete documentation and resources for the **NVH (Noise, Vibration, and Harshness) Analysis** project focused on electric bikes. The analysis uses synthetic data generated via Python and comprehensive Power BI dashboards to explore NVH metrics across various bike manufacturers and operating conditions.
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
-1. **Data Generation (Python)**  
-   Python scripts are used to create realistic dummy data for a fictional business use case. Examples include:
-   - Sales data
-   - Customer information
-   - Product inventory
-   - Time-series metrics
+The NVH analysis evaluates noise, vibration, and harshness characteristics to identify comfort and regulatory compliance issues in electric bikes. The study involves:
 
-2. **Data Cleaning & Transformation**  
-   Using `pandas`, the generated data is cleaned, formatted, and exported as `.csv` or `.xlsx` for use in Power BI.
-
-3. **Visualization (Power BI)**  
-   The generated data is imported into Power BI, where multiple visuals such as:
-   - Bar charts
-   - Line graphs
-   - Pie charts
-   - KPI cards
-   - Slicers & filters  
-   are created to provide insights.
+- Synthetic data generation using Python libraries (`pandas`, `numpy`, `random`)
+- Data cleaning, transformation, and modeling in Power BI using Power Query (M language) and DAX
+- Interactive visualizations and dashboards built with Power BI Desktop
+- Online sharing of reports via Power BI Service
 
 ---
 
-## 📂 Project Structure
+## Repository Contents
 
-```plaintext
-dummy-data-powerbi/
-│
-├── data/
-│   └── dummy_sales_data.csv         # Exported dataset for Power BI
-│
-├── notebooks/
-│   └── generate_data.ipynb          # Jupyter Notebook for data generation
-│
-├── scripts/
-│   └── generate_data.py             # Script to generate and export dummy data
-│
-├── visuals/
-│   └── dashboard_screenshot.png     # Sample Power BI dashboard image
-│
-├── DummyDataDashboard.pbix          # Power BI report file
-│
-└── README.md                        # This file
+- `NVH_Analysis_Report.pdf` – Final detailed analysis report (LaTeX compiled PDF)
+- `architecture.jpg` – Project architecture diagram used in the report
+- `data/` – Folder containing synthetic data CSV files (fact and dimension tables)
+- `python/` – Python scripts for synthetic data generation
+- `powerbi/` – Power BI Desktop (.pbix) files with dashboards and data models
+- `README.md` – This file
+
+---
+
+## Key Features
+
+- Star schema data modeling for efficient analysis
+- Use of Power BI features: Power Query, DAX measures, slicers, drill-throughs, and bookmarks
+- Synthetic data simulating multiple manufacturers, conditions, and test scenarios
+- Interactive dashboards showcasing noise, vibration, and harshness insights
+- Automated scheduled data refresh configured in Power BI Service
+
+---
+
+## Important Notes
+
+- The dataset is generated randomly using a Python function for demonstration purposes.
+- Metrics and trends in the report will change with each data refresh.
+- The project aims to showcase data modeling, analysis, and visualization techniques for NVH data in electric bikes.
+
+---
+
+## Online Report Access
+
+Access the live, interactive Power BI report here:
+
+[Power BI Live Report](https://app.powerbi.com/view?r=eyJrIjoiNmFhODkxNTQtMzE1ZS00NGY2LTg0OGQtZTNjZTU4ODZhYjM3IiwidCI6IjRmOGE3YmJkLTA2NGItNDEzNC1hZDc2LTU0ZmYyNTVmODllNiIsImMiOjl9&pageName=4d4b68f8a00b62dbe04e)
+
+---
+
+## About the Author
+
+Prepared by: **Usama Tahir**
+
+- [Portfolio](https://usamatahir.dev)
+- [LinkedIn](https://www.linkedin.com/in/usamatahir)
+
+---
+
+## How to Run
+
+1. Run the Python script(s) in the `python/` directory to generate synthetic NVH data CSV files.
+2. Load these CSV files into Power BI Desktop to explore and modify the dashboards.
+3. Publish your Power BI report to the Power BI Service for online sharing and scheduled refresh.
+
+---
+
+## Contact
+
+For questions or collaboration, feel free to reach out via LinkedIn or email.
+
+---
+
+*This project is intended for educational and demonstration purposes only.*
+
