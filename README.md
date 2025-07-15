@@ -16,10 +16,10 @@ The NVH analysis evaluates noise, vibration, and harshness characteristics to id
 ## Repository Contents
 
 - `NVH_Analysis_Report.pdf` – Final detailed analysis report (LaTeX compiled PDF)
-- `architecture.jpg` – Project architecture diagram used in the report
+- `images` – Contain images used in project
 - `data/` – Folder containing synthetic data CSV files (fact and dimension tables)
-- `python/` – Python scripts for synthetic data generation
-- `powerbi/` – Power BI Desktop (.pbix) files with dashboards and data models
+- `dataproducer.py/` – Python scripts for synthetic data generation
+- `04_NVH_Analysis_Report_18/` – Power BI Desktop (.pbix) file with dashboards and data models
 - `README.md` – This file
 
 ## Key Features
