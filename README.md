@@ -40,7 +40,7 @@ The NVH analysis evaluates noise, vibration, and harshness characteristics to id
 
 Access the live, interactive Power BI report here:
 
-[Power BI Live Report](https://app.powerbi.com/view?r=eyJrIjoiNmFhODkxNTQtMzE1ZS00NGY2LTg0OGQtZTNjZTU4ODZhYjM3IiwidCI6IjRmOGE3YmJkLTA2NGItNDEzNC1hZDc2LTU0ZmYyNTVmODllNiIsImMiOjl9&pageName=4d4b68f8a00b62dbe04e)
+[Power BI Live Report](https://app.powerbi.com/view?r=eyJrIjoiMjlmNjU1YjYtNDgyNC00YjMwLWEyZWYtM2Y4OGZmMjJkMmFiIiwidCI6IjRmOGE3YmJkLTA2NGItNDEzNC1hZDc2LTU0ZmYyNTVmODllNiIsImMiOjl9)
 
 ## About the Author
 
