@@ -6,16 +6,14 @@ This repository contains the complete documentation and resources for the **NVH 
 
 ![Project Architecture](https://github.com/Usama00004/NVH-Analysis-Report/blob/main/Images/architecture.jpg)
 
-![Project Architecture](https://github.com/Usama00004/NVH-Analysis-Report/blob/main/Images/Dashboard_2.jpg)
-
-https://github.com/Usama00004/NVH-Analysis-Report/blob/main/Images/Dashboard_2.jpg
-
 The NVH analysis evaluates noise, vibration, and harshness characteristics to identify comfort and regulatory compliance issues in electric bikes. The study involves:
 
 - Synthetic data generation using Python libraries (`pandas`, `numpy`, `random`)
 - Data cleaning, transformation, and modeling in Power BI using Power Query (M language) and DAX
 - Interactive visualizations and dashboards built with Power BI Desktop
 - Online sharing of reports via Power BI Service
+
+![Dashboard Snapshot](https://github.com/Usama00004/NVH-Analysis-Report/blob/main/Images/Dashboard_2.jpg)
 
 ## Repository Contents
 
